@@ -4,389 +4,103 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description" content="Portfolio de Nader Moslah, étudiant en BTS SIO option SISR à IPSSI. Découvrez mon parcours, mes compétences et mes projets informatiques.">
-
-    <title>Portfolio | Nader Moslah - BTS SIO SISR</title>
-
-    <style>
-        /* =========================
-           1. STYLE GENERAL
-        ========================= */
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        html {
-            scroll-behavior: smooth;
-            scroll-padding-top: 80px;
-        }
-
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            color: #1e293b;
-            background-color: #f1f5f9;
-        }
-
-        a {
-            color: inherit;
-        }
-
-        .conteneur {
-            width: 90%;
-            max-width: 1100px;
-            margin: 0 auto;
-        }
-
-        /* =========================
-           2. BARRE DE NAVIGATION
-        ========================= */
-
-        header {
-            background-color: #0f172a;
-            color: #ffffff;
-        }
-
-        .navigation {
-            min-height: 70px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            padding: 15px 0;
-        }
-
-        .logo {
-            font-size: 1.2rem;
-            font-weight: bold;
-            text-decoration: none;
-        }
-
-        nav ul {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            list-style: none;
-        }
-
-        nav a {
-            color: #e2e8f0;
-            text-decoration: none;
-            font-size: 0.95rem;
-        }
-
-        nav a:hover,
-        nav a:focus-visible {
-            color: #60a5fa;
-        }
-
-        /* =========================
-           3. GRANDE SECTION D'ACCUEIL
-        ========================= */
-
-        .accueil {
-            background: linear-gradient(135deg, #0f172a, #1d4ed8);
-            color: #ffffff;
-            text-align: center;
-            padding: 100px 20px;
-        }
-
-        .accueil h1 {
-            font-size: clamp(2.3rem, 6vw, 4.5rem);
-            line-height: 1.15;
-            margin-bottom: 20px;
-        }
-
-        .accueil p {
-            max-width: 750px;
-            margin: 0 auto 15px;
-            font-size: 1.1rem;
-            color: #dbeafe;
-        }
-
-        .bouton {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 12px 24px;
-            border-radius: 8px;
-            background-color: #ffffff;
-            color: #1d4ed8;
-            font-weight: bold;
-            text-decoration: none;
-            transition: background-color 0.2s ease;
-        }
-
-        .bouton:hover,
-        .bouton:focus-visible {
-            background-color: #dbeafe;
-        }
-
-        /* =========================
-           4. SECTIONS DU PORTFOLIO
-        ========================= */
-
-        main {
-            padding: 35px 0;
-        }
-
-        .section {
-            background-color: #ffffff;
-            padding: 35px;
-            margin-bottom: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(15, 23, 42, 0.06);
-            scroll-margin-top: 90px;
-        }
-
-        .section h2 {
-            color: #1d4ed8;
-            font-size: 1.7rem;
-            margin-bottom: 18px;
-        }
-
-        .section p {
-            margin-bottom: 12px;
-        }
-
-        .section ul {
-            padding-left: 22px;
-        }
-
-        .section li {
-            margin-bottom: 8px;
-        }
-
-        /* =========================
-           5. CARTES DE COMPETENCES
-        ========================= */
-
-        .grille {
-            display: grid;
-            grid-template-columns: repeat(2, minmax(0, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .carte {
-            padding: 22px;
-            background-color: #f8fafc;
-            border: 1px solid #e2e8f0;
-            border-radius: 10px;
-        }
-
-        .carte h3 {
-            color: #0f172a;
-            margin-bottom: 10px;
-        }
-
-        /* =========================
-           6. PIED DE PAGE
-        ========================= */
-
-        footer {
-            background-color: #0f172a;
-            color: #cbd5e1;
-            text-align: center;
-            padding: 25px 15px;
-        }
-
-        footer p {
-            margin: 5px 0;
-        }
-
-        /* =========================
-           7. ADAPTATION AUX MOBILES
-        ========================= */
-
-        @media (max-width: 650px) {
-            .navigation {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-
-            nav ul {
-                gap: 12px;
-            }
-
-            .accueil {
-                padding: 70px 15px;
-            }
-
-            .section {
-                padding: 24px 20px;
-            }
-
-            .grille {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        /* Respecte les préférences d'accessibilité */
-        @media (prefers-reduced-motion: reduce) {
-            html {
-                scroll-behavior: auto;
-            }
-
-            *,
-            *::before,
-            *::after {
-                transition: none !important;
-            }
-        }
-    </style>
+    <meta name="description" content="Portfolio de Nader Moslah, étudiant en BTS SIO option SISR à IPSSI.">
+    <title>Portfolio - Nader Moslah</title>
 </head>
 
 <body>
 
-    <!-- EN-TETE ET NAVIGATION -->
     <header>
-        <div class="conteneur navigation">
+        <h1>Bienvenue sur mon portfolio</h1>
+        <p>Nader Moslah</p>
+        <p>Étudiant en deuxième année de BTS SIO, option SISR, à IPSSI.</p>
 
-            <a class="logo" href="#accueil">Nader Moslah</a>
-
-            <nav aria-label="Navigation principale">
-                <ul>
-                    <li><a href="#presentation">Présentation</a></li>
-                    <li><a href="#parcours">Parcours</a></li>
-                    <li><a href="#competences">Compétences</a></li>
-                    <li><a href="#projets">Projets</a></li>
-                    <li><a href="#objectif">Objectif</a></li>
-                </ul>
-            </nav>
-
-        </div>
+        <nav aria-label="Navigation principale">
+            <ul>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#parcours">Mon parcours</a></li>
+                <li><a href="#competences">Mes compétences</a></li>
+                <li><a href="#projets">Mes projets</a></li>
+                <li><a href="#objectif">Mon objectif</a></li>
+            </ul>
+        </nav>
     </header>
 
-    <!-- ACCUEIL -->
-    <section class="accueil" id="accueil">
-        <div class="conteneur">
+    <main>
 
-            <h1>Bienvenue sur mon portfolio</h1>
-
-            <p>
-                Nader Moslah
-            </p>
-
-            <p>
-                Étudiant en deuxième année de BTS SIO,
-                option SISR, à IPSSI.
-            </p>
-
-            <p>
-                Découvrez mon parcours, mes compétences
-                et mes projets dans le domaine des systèmes
-                et des réseaux informatiques.
-            </p>
-
-            <a class="bouton" href="#presentation">
-                Découvrir mon parcours
-            </a>
-
-        </div>
-    </section>
-
-    <!-- CONTENU PRINCIPAL -->
-    <main class="conteneur">
-
-        <!-- PRESENTATION -->
-        <section class="section" id="presentation">
+        <section id="presentation">
             <h2>Qui suis-je ?</h2>
 
             <p>
-                Je m'appelle Nader Moslah, j'ai 21 ans et je suis
-                étudiant en deuxième année de BTS SIO, option SISR,
-                à IPSSI.
+                Je m'appelle Nader Moslah, j'ai 21 ans et je suis étudiant
+                en deuxième année de BTS SIO, option SISR, à IPSSI.
             </p>
 
             <p>
                 Ce portfolio a pour objectif de présenter mon parcours,
                 les compétences que j'ai développées pendant ma formation
-                et les projets que j'ai réalisés dans le domaine
-                de l'informatique.
+                et les projets que j'ai réalisés dans le domaine de l'informatique.
             </p>
         </section>
 
-        <!-- PARCOURS -->
-        <section class="section" id="parcours">
+        <section id="parcours">
             <h2>Mon parcours et mon orientation</h2>
 
             <p>
-                Avant de commencer cette formation, je cherchais
-                un domaine dans lequel je pourrais m'épanouir
-                professionnellement. J'ai exploré plusieurs possibilités
-                sans parvenir immédiatement à faire un choix.
+                Avant de commencer cette formation, je cherchais un domaine
+                dans lequel je pourrais m'épanouir professionnellement.
+                J'ai exploré plusieurs possibilités sans parvenir immédiatement
+                à faire un choix.
             </p>
 
             <p>
                 Mon oncle travaillant dans l'informatique, il m'a conseillé
-                de m'intéresser à ce secteur, sachant que j'avais déjà
-                un certain intérêt pour ce domaine. Cette orientation
-                m'a semblé logique et m'a permis de découvrir un secteur
-                qui me plaît et dans lequel je souhaite progresser.
+                de m'intéresser à ce secteur, sachant que j'avais déjà un
+                certain intérêt pour ce domaine. Cette orientation m'a semblé
+                logique et m'a permis de découvrir un secteur qui me plaît
+                et dans lequel je souhaite progresser.
             </p>
 
             <p>
                 J'ai ainsi choisi le BTS SIO, option SISR, pour approfondir
-                mes connaissances en systèmes, réseaux et sécurité
-                informatique.
+                mes connaissances en systèmes, réseaux et sécurité informatique.
             </p>
         </section>
 
-        <!-- COMPETENCES -->
-        <section class="section" id="competences">
+        <section id="competences">
             <h2>Mes compétences</h2>
 
             <p>
                 Au cours de ma formation, j'ai commencé à développer
                 des compétences dans plusieurs domaines informatiques.
-                Cette rubrique sera complétée avec les outils et les
-                technologies que j'ai réellement utilisés.
             </p>
 
-            <div class="grille">
+            <h3>Systèmes</h3>
+            <p>
+                Installation, configuration et administration
+                de systèmes d'exploitation.
+            </p>
 
-                <article class="carte">
-                    <h3>Systèmes</h3>
-                    <p>
-                        Installation, configuration et administration
-                        de systèmes d'exploitation.
-                    </p>
-                </article>
+            <h3>Réseaux</h3>
+            <p>
+                Découverte de l'adressage IP, de la configuration réseau
+                et du diagnostic de connectivité.
+            </p>
 
-                <article class="carte">
-                    <h3>Réseaux</h3>
-                    <p>
-                        Découverte de l'adressage IP, de la configuration
-                        réseau et du diagnostic de connectivité.
-                    </p>
-                </article>
+            <h3>Sécurité informatique</h3>
+            <p>
+                Découverte des bonnes pratiques de sécurité et de la
+                protection des infrastructures informatiques.
+            </p>
 
-                <article class="carte">
-                    <h3>Sécurité informatique</h3>
-                    <p>
-                        Sensibilisation aux bonnes pratiques de sécurité
-                        et à la protection des infrastructures.
-                    </p>
-                </article>
-
-                <article class="carte">
-                    <h3>Programmation et scripts</h3>
-                    <p>
-                        Découverte du développement et de l'automatisation
-                        à travers les exercices de formation.
-                    </p>
-                </article>
-
-            </div>
+            <h3>Programmation et scripts</h3>
+            <p>
+                Découverte du développement et de l'automatisation
+                à travers les exercices de formation.
+            </p>
         </section>
 
-        <!-- PROJETS -->
-        <section class="section" id="projets">
+        <section id="projets">
             <h2>Mes projets</h2>
 
             <p>
@@ -400,15 +114,19 @@
                 et les compétences acquises.
             </p>
 
+            <h3>Projet 1 : À compléter</h3>
             <p>
-                <strong>À compléter :</strong> ajoute ici tes projets réels,
-                par exemple une configuration réseau, un serveur ou un
-                environnement de test, selon ce que tu as effectivement réalisé.
+                Présentation du projet, des objectifs et des outils utilisés.
+            </p>
+
+            <h3>Projet 2 : À compléter</h3>
+            <p>
+                Présentation du projet, des difficultés rencontrées
+                et des solutions mises en place.
             </p>
         </section>
 
-        <!-- OBJECTIF -->
-        <section class="section" id="objectif">
+        <section id="objectif">
             <h2>Mon objectif</h2>
 
             <p>
@@ -426,7 +144,6 @@
 
     </main>
 
-    <!-- PIED DE PAGE -->
     <footer>
         <p>Portfolio de Nader Moslah</p>
         <p>BTS SIO - Option SISR - IPSSI</p>
