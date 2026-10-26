@@ -4,150 +4,1188 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portfolio de Nader Moslah, étudiant en BTS SIO option SISR à IPSSI.">
-    <title>Portfolio - Nader Moslah</title>
+    <meta name="theme-color" content="#10101c">
+    <meta name="description" content="Portfolio de Nader Moslah, étudiant en BTS SIO SISR, technicien support informatique chez THOMGroup.">
+    <title>Nader Moslah | Portfolio BTS SIO SISR</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <header>
-        <h1>Bienvenue sur mon portfolio</h1>
-        <p>Nader Moslah</p>
-        <p>Étudiant en deuxième année de BTS SIO, option SISR, à IPSSI.</p>
+    <!-- =====================================
+         NAVIGATION
+    ====================================== -->
+    <header class="header">
+        <nav class="navbar container" aria-label="Navigation principale">
 
-        <nav aria-label="Navigation principale">
-            <ul>
-                <li><a href="#presentation">Présentation</a></li>
-                <li><a href="#parcours">Mon parcours</a></li>
-                <li><a href="#competences">Mes compétences</a></li>
-                <li><a href="#projets">Mes projets</a></li>
-                <li><a href="#objectif">Mon objectif</a></li>
+            <a href="#accueil" class="logo">N<span>.</span>M</a>
+
+            <ul class="nav-links">
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#entreprise">Mon entreprise</a></li>
+                <li><a href="#e5">Épreuve E5</a></li>
+                <li><a href="#projets">Projets</a></li>
+                <li><a href="#veille">Veille</a></li>
+                <li><a href="#certifications">Certifications</a></li>
             </ul>
+
         </nav>
     </header>
 
     <main>
 
-        <section id="presentation">
-            <h2>Qui suis-je ?</h2>
+        <!-- =====================================
+             01 - ACCUEIL ET PRESENTATION
+        ====================================== -->
+        <section id="accueil" class="hero">
+            <div class="container hero-grid">
 
-            <p>
-                Je m'appelle Nader Moslah, j'ai 21 ans et je suis étudiant
-                en deuxième année de BTS SIO, option SISR, à IPSSI.
-            </p>
+                <div class="hero-content">
 
-            <p>
-                Ce portfolio a pour objectif de présenter mon parcours,
-                les compétences que j'ai développées pendant ma formation
-                et les projets que j'ai réalisés dans le domaine de l'informatique.
-            </p>
+                    <span class="status">
+                        <span class="status-dot"></span>
+                        BTS SIO · Option SISR
+                    </span>
+
+                    <p class="eyebrow">PORTFOLIO PROFESSIONNEL · 2026</p>
+
+                    <h1>
+                        Nader Moslah<span class="accent">.</span>
+                        <br>
+                        <span class="gradient-text">
+                            Technicien support
+                        </span>
+                        <br>
+                        informatique.
+                    </h1>
+
+                    <p class="hero-description">
+                        Étudiant en deuxième année de BTS SIO,
+                        option Solutions d'Infrastructure, Systèmes
+                        et Réseaux (SISR) à IPSSI, je travaille
+                        également comme technicien support
+                        informatique chez THOMGroup.
+                    </p>
+
+                    <p class="hero-description">
+                        Ce portfolio présente mon parcours,
+                        mes missions professionnelles, mes projets,
+                        mes compétences et les connaissances
+                        acquises pendant ma formation.
+                    </p>
+
+                    <div class="hero-buttons">
+                        <a href="#presentation" class="btn btn-primary">
+                            Découvrir mon parcours ↘
+                        </a>
+
+                        <a href="documents/cv-nader.pdf"
+                           class="btn btn-secondary"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            Consulter mon CV ↗
+                        </a>
+                    </div>
+
+                    <div class="hero-tags">
+                        <span>Support informatique</span>
+                        <span>Systèmes</span>
+                        <span>Réseaux</span>
+                        <span>Sécurité</span>
+                    </div>
+
+                </div>
+
+                <div class="hero-visual" aria-hidden="true">
+                    <div class="visual-glow"></div>
+
+                    <div class="terminal">
+                        <div class="terminal-header">
+                            <div class="terminal-dots">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                            <span>nader@portfolio: ~</span>
+                        </div>
+
+                        <div class="terminal-body">
+                            <p><span class="purple-text">$</span> whoami</p>
+                            <p class="green-text">Nader Moslah</p>
+
+                            <p><span class="purple-text">$</span> formation</p>
+                            <p class="muted-text">BTS SIO - SISR</p>
+
+                            <p><span class="purple-text">$</span> entreprise</p>
+                            <p class="muted-text">THOMGroup</p>
+
+                            <p><span class="purple-text">$</span> poste</p>
+                            <p class="cyan-text">Technicien support IT</p>
+
+                            <p><span class="purple-text">$</span> status</p>
+                            <p class="green-text">● En progression</p>
+
+                            <p class="cyan-text">$ <span class="cursor">_</span></p>
+                        </div>
+                    </div>
+
+                    <div class="floating-card floating-top">
+                        <span class="floating-icon cyan-bg">⌘</span>
+                        <div>
+                            <strong>Support IT</strong>
+                            <small>Assistance & diagnostic</small>
+                        </div>
+                    </div>
+
+                    <div class="floating-card floating-bottom">
+                        <span class="floating-icon purple-bg">▣</span>
+                        <div>
+                            <strong>BTS SIO SISR</strong>
+                            <small>Systèmes & réseaux</small>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </section>
 
-        <section id="parcours">
-            <h2>Mon parcours et mon orientation</h2>
+        <!-- PRESENTATION DU CANDIDAT -->
+        <section id="presentation" class="section">
+            <div class="container">
 
-            <p>
-                Avant de commencer cette formation, je cherchais un domaine
-                dans lequel je pourrais m'épanouir professionnellement.
-                J'ai exploré plusieurs possibilités sans parvenir immédiatement
-                à faire un choix.
-            </p>
+                <div class="section-heading">
+                    <span class="section-number">01 / MON PROFIL</span>
+                    <h2>Présentation du candidat<span class="accent">.</span></h2>
+                    <p>Mon parcours, ma formation et mon projet professionnel.</p>
+                </div>
 
-            <p>
-                Mon oncle travaillant dans l'informatique, il m'a conseillé
-                de m'intéresser à ce secteur, sachant que j'avais déjà un
-                certain intérêt pour ce domaine. Cette orientation m'a semblé
-                logique et m'a permis de découvrir un secteur qui me plaît
-                et dans lequel je souhaite progresser.
-            </p>
+                <div class="two-columns">
 
-            <p>
-                J'ai ainsi choisi le BTS SIO, option SISR, pour approfondir
-                mes connaissances en systèmes, réseaux et sécurité informatique.
-            </p>
+                    <article class="card content-card">
+                        <span class="card-icon purple-bg">✦</span>
+                        <h3>Qui suis-je ?</h3>
+
+                        <p>
+                            Je m'appelle Nader Moslah, j'ai 21 ans et
+                            je suis étudiant en deuxième année de BTS
+                            Services Informatiques aux Organisations,
+                            option SISR, à IPSSI.
+                        </p>
+
+                        <p>
+                            Mon intérêt pour l'informatique m'a conduit
+                            à choisir cette formation afin de développer
+                            mes connaissances en systèmes, réseaux et
+                            sécurité informatique.
+                        </p>
+
+                        <p>
+                            Mon expérience en tant que technicien
+                            support informatique chez THOMGroup me
+                            permet de relier ma formation aux besoins
+                            du monde professionnel.
+                        </p>
+
+                        <p>
+                            À travers ce portfolio, je souhaite
+                            présenter mon évolution, les missions
+                            que je réalise, les projets que je mène
+                            et les compétences que je développe.
+                        </p>
+                    </article>
+
+                    <article class="card content-card">
+                        <span class="card-icon cyan-bg">◎</span>
+                        <h3>Mon projet professionnel</h3>
+
+                        <p>
+                            Continuer à progresser dans l'informatique,
+                            renforcer mes compétences techniques et
+                            gagner en autonomie dans la résolution
+                            des incidents.
+                        </p>
+
+                        <ul class="check-list">
+                            <li>Développer mes compétences en support IT</li>
+                            <li>Approfondir les systèmes et les réseaux</li>
+                            <li>Comprendre les enjeux de cybersécurité</li>
+                            <li>Documenter mes réalisations techniques</li>
+                        </ul>
+                    </article>
+
+                </div>
+            </div>
         </section>
 
-        <section id="competences">
-            <h2>Mes compétences</h2>
+        <!-- PRESENTATION DU BTS -->
+        <section id="bts" class="section section-alt">
+            <div class="container">
 
-            <p>
-                Au cours de ma formation, j'ai commencé à développer
-                des compétences dans plusieurs domaines informatiques.
-            </p>
+                <div class="section-heading">
+                    <span class="section-number">02 / MA FORMATION</span>
+                    <h2>Le BTS SIO<span class="accent">.</span></h2>
+                    <p>
+                        Services Informatiques aux Organisations -
+                        option Solutions d'Infrastructure, Systèmes et Réseaux.
+                    </p>
+                </div>
 
-            <h3>Systèmes</h3>
-            <p>
-                Installation, configuration et administration
-                de systèmes d'exploitation.
-            </p>
+                <article class="card content-card bts-intro">
+                    <h3>Qu'est-ce que le BTS SIO SISR ?</h3>
 
-            <h3>Réseaux</h3>
-            <p>
-                Découverte de l'adressage IP, de la configuration réseau
-                et du diagnostic de connectivité.
-            </p>
+                    <p>
+                        Le BTS SIO forme des professionnels capables
+                        de contribuer à la gestion des services
+                        informatiques d'une organisation.
+                    </p>
 
-            <h3>Sécurité informatique</h3>
-            <p>
-                Découverte des bonnes pratiques de sécurité et de la
-                protection des infrastructures informatiques.
-            </p>
+                    <p>
+                        L'option SISR est orientée vers la mise en
+                        place, l'administration, la maintenance et
+                        la sécurisation des infrastructures systèmes
+                        et réseaux.
+                    </p>
 
-            <h3>Programmation et scripts</h3>
-            <p>
-                Découverte du développement et de l'automatisation
-                à travers les exercices de formation.
-            </p>
+                    <p>
+                        La formation permet notamment de travailler
+                        sur le support utilisateur, les équipements,
+                        les services réseau, les serveurs et la
+                        protection des environnements informatiques.
+                    </p>
+                </article>
+
+                <div class="cards-grid three-columns">
+
+                    <article class="card feature-card">
+                        <span class="feature-icon purple-text">01</span>
+                        <h3>Support et services</h3>
+                        <p>
+                            Accompagner les utilisateurs, diagnostiquer
+                            les incidents et contribuer au maintien
+                            en condition opérationnelle.
+                        </p>
+                    </article>
+
+                    <article class="card feature-card">
+                        <span class="feature-icon cyan-text">02</span>
+                        <h3>Systèmes et réseaux</h3>
+                        <p>
+                            Installer, configurer et administrer
+                            les équipements, les systèmes et
+                            les services d'infrastructure.
+                        </p>
+                    </article>
+
+                    <article class="card feature-card">
+                        <span class="feature-icon orange-text">03</span>
+                        <h3>Cybersécurité</h3>
+                        <p>
+                            Contribuer à la protection des données,
+                            des accès, des équipements et des
+                            services informatiques.
+                        </p>
+                    </article>
+
+                </div>
+
+                <p class="notice">
+                    Formation : BTS SIO, option SISR.
+                    Établissement : IPSSI.
+                </p>
+
+            </div>
         </section>
 
-        <section id="projets">
-            <h2>Mes projets</h2>
+        <!-- ROLE DANS L'ENTREPRISE -->
+        <section id="missions" class="section">
+            <div class="container">
 
-            <p>
-                Cette partie présentera les projets réalisés pendant
-                ma formation et mes éventuelles expériences en entreprise.
-            </p>
+                <div class="section-heading">
+                    <span class="section-number">03 / MON ACTIVITÉ</span>
+                    <h2>Mon rôle en entreprise<span class="accent">.</span></h2>
+                    <p>
+                        Mon poste de technicien support informatique
+                        chez THOMGroup.
+                    </p>
+                </div>
 
-            <p>
-                Pour chaque projet, je pourrai préciser le contexte,
-                les objectifs, les outils utilisés, les étapes de réalisation
-                et les compétences acquises.
-            </p>
+                <div class="two-columns">
 
-            <h3>Projet 1 : À compléter</h3>
-            <p>
-                Présentation du projet, des objectifs et des outils utilisés.
-            </p>
+                    <article class="card content-card">
+                        <span class="pill pill-cyan">POSTE OCCUPÉ</span>
+                        <h3>Technicien support informatique</h3>
 
-            <h3>Projet 2 : À compléter</h3>
-            <p>
-                Présentation du projet, des difficultés rencontrées
-                et des solutions mises en place.
-            </p>
+                        <p>
+                            Dans le cadre de mon activité chez
+                            THOMGroup, je participe au support
+                            informatique et à l'accompagnement
+                            des utilisateurs.
+                        </p>
+
+                        <p>
+                            Cette section est destinée à détailler
+                            mes responsabilités réelles, les types
+                            de demandes que je traite, les outils
+                            que j'utilise et les procédures que
+                            j'applique.
+                        </p>
+
+                        <h4>Mes missions</h4>
+                        <ul class="check-list">
+                            <li>Mission 1 : à compléter</li>
+                            <li>Mission 2 : à compléter</li>
+                            <li>Mission 3 : à compléter</li>
+                            <li>Mission 4 : à compléter</li>
+                        </ul>
+                    </article>
+
+                    <article class="card content-card">
+                        <span class="card-icon orange-bg">⌘</span>
+                        <h3>Outils et environnement technique</h3>
+
+                        <p>
+                            Présenter ici les outils utilisés dans
+                            le cadre du poste : gestion des tickets,
+                            assistance à distance, gestion des comptes,
+                            inventaire, systèmes ou outils de supervision,
+                            uniquement lorsqu'ils font réellement partie
+                            de mon environnement de travail.
+                        </p>
+
+                        <div class="tag-list">
+                            <span>Outil 1 à compléter</span>
+                            <span>Outil 2 à compléter</span>
+                            <span>Outil 3 à compléter</span>
+                            <span>Outil 4 à compléter</span>
+                        </div>
+
+                        <h4>Compétences développées</h4>
+                        <ul class="check-list">
+                            <li>Diagnostic et résolution d'incidents</li>
+                            <li>Communication avec les utilisateurs</li>
+                            <li>Respect des procédures</li>
+                            <li>Documentation des interventions</li>
+                        </ul>
+                    </article>
+
+                </div>
+
+                <div class="card documentation-banner">
+                    <div>
+                        <span class="section-number">MES MISSIONS</span>
+                        <h3>Ajouter des exemples d'interventions</h3>
+                        <p>
+                            Prévoir ici des fiches décrivant le contexte,
+                            le problème, le diagnostic, la solution et
+                            le résultat obtenu, sans publier de données
+                            confidentielles de l'entreprise.
+                        </p>
+                    </div>
+                    <a href="#projets" class="btn btn-primary">
+                        Voir les réalisations ↘
+                    </a>
+                </div>
+
+            </div>
         </section>
 
-        <section id="objectif">
-            <h2>Mon objectif</h2>
+        <!-- ENTREPRISE ET ECOLE -->
+        <section id="entreprise" class="section section-alt">
+            <div class="container">
 
-            <p>
-                Mon objectif est de continuer à développer mes compétences
-                techniques, de gagner en autonomie et de me préparer
-                au monde professionnel.
-            </p>
+                <div class="section-heading">
+                    <span class="section-number">04 / MON ENVIRONNEMENT</span>
+                    <h2>Entreprise et école<span class="accent">.</span></h2>
+                    <p>
+                        Les deux environnements qui accompagnent
+                        mon parcours professionnel.
+                    </p>
+                </div>
 
-            <p>
-                Grâce à ce portfolio, je souhaite mettre en valeur mon
-                évolution, mes réalisations et les connaissances acquises
-                pendant mon BTS SIO option SISR.
-            </p>
+                <div class="two-columns">
+
+                    <article class="card organization-card">
+                        <div class="organization-banner company-banner">
+                            <span>THOMGROUP</span>
+                        </div>
+
+                        <div class="organization-content">
+                            <span class="pill pill-orange">ENTREPRISE</span>
+                            <h3>THOMGroup</h3>
+
+                            <p>
+                                THOMGroup est mon environnement
+                                professionnel dans lequel j'exerce
+                                le rôle de technicien support informatique.
+                            </p>
+
+                            <p>
+                                Ajouter ici une présentation vérifiée
+                                de l'activité du groupe, de son secteur,
+                                de son organisation et de la place
+                                du service informatique.
+                            </p>
+
+                            <h4>Informations à compléter</h4>
+                            <ul class="check-list">
+                                <li>Activité et secteur de l'entreprise</li>
+                                <li>Organisation du service informatique</li>
+                                <li>Équipe et interlocuteurs</li>
+                                <li>Environnement technique</li>
+                            </ul>
+
+                            <a href="https://www.thomgroup.com/"
+                               class="project-link"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                Site de THOMGroup ↗
+                            </a>
+                        </div>
+                    </article>
+
+                    <article class="card organization-card">
+                        <div class="organization-banner school-banner">
+                            <span>IPSSI</span>
+                        </div>
+
+                        <div class="organization-content">
+                            <span class="pill pill-cyan">ÉTABLISSEMENT</span>
+                            <h3>IPSSI</h3>
+
+                            <p>
+                                IPSSI est l'établissement dans lequel
+                                je prépare mon BTS Services Informatiques
+                                aux Organisations, option SISR.
+                            </p>
+
+                            <p>
+                                Ma formation me permet d'acquérir des
+                                connaissances techniques et de mettre
+                                en pratique les compétences nécessaires
+                                aux métiers de l'informatique.
+                            </p>
+
+                            <h4>Ma formation</h4>
+                            <ul class="check-list">
+                                <li>BTS Services Informatiques aux Organisations</li>
+                                <li>Option SISR</li>
+                                <li>Travaux pratiques et projets</li>
+                                <li>Préparation aux épreuves professionnelles</li>
+                            </ul>
+
+                            <a href="https://www.ipssi.com/"
+                               class="project-link"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                Site d'IPSSI ↗
+                            </a>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- =====================================
+             02 - EPREUVE E5
+        ====================================== -->
+        <section id="e5" class="section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span class="section-number">05 / ÉPREUVE PROFESSIONNELLE</span>
+                    <h2>Mon dossier E5<span class="accent">.</span></h2>
+                    <p>
+                        Espace dédié aux documents de synthèse et
+                        aux preuves de compétences de mon parcours.
+                    </p>
+                </div>
+
+                <article class="card e5-intro">
+                    <span class="card-icon cyan-bg">▤</span>
+                    <h3>Tableau de synthèse des compétences</h3>
+
+                    <p>
+                        Le tableau de synthèse permet de présenter
+                        les situations professionnelles et les
+                        réalisations mobilisées pour développer
+                        les compétences du BTS SIO.
+                    </p>
+
+                    <p>
+                        Je déposerai ici la version complétée de mon
+                        tableau ainsi que les documents complémentaires
+                        utiles à la présentation de mes réalisations.
+                    </p>
+
+                    <div class="document-actions">
+                        <a href="documents/tableau-synthese-e5.pdf"
+                           class="btn btn-primary"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            Consulter le tableau PDF ↗
+                        </a>
+
+                        <a href="documents/tableau-synthese-e5.pdf"
+                           class="btn btn-secondary"
+                           download>
+                            Télécharger le tableau ↓
+                        </a>
+                    </div>
+
+                    <p class="small-note">
+                        Remplacer le fichier exemple par ton tableau
+                        de synthèse réel. Les deux boutons utilisent
+                        le même PDF.
+                    </p>
+                </article>
+
+                <div class="section-heading subsection-heading">
+                    <span class="section-number">JUSTIFICATIFS</span>
+                    <h3>Documents complémentaires</h3>
+                    <p>
+                        Un espace pour organiser les preuves associées
+                        aux compétences présentées.
+                    </p>
+                </div>
+
+                <div class="cards-grid three-columns">
+
+                    <article class="card document-card">
+                        <span class="document-icon purple-bg">PDF</span>
+                        <h3>Fiches de réalisation</h3>
+                        <p>
+                            Documents décrivant le contexte,
+                            les étapes et les résultats des réalisations.
+                        </p>
+                        <a href="projets/projet-01/documentation.pdf"
+                           class="project-link"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            Exemple de documentation ↗
+                        </a>
+                    </article>
+
+                    <article class="card document-card">
+                        <span class="document-icon cyan-bg">PDF</span>
+                        <h3>Documents de stage</h3>
+                        <p>
+                            Documents professionnels communicables
+                            permettant d'illustrer les missions
+                            réalisées en entreprise.
+                        </p>
+                        <a href="#missions" class="project-link">
+                            Présenter mes missions ↗
+                        </a>
+                    </article>
+
+                    <article class="card document-card">
+                        <span class="document-icon orange-bg">PDF</span>
+                        <h3>Autres justificatifs</h3>
+                        <p>
+                            Captures, comptes rendus, procédures
+                            et autres preuves pertinentes.
+                        </p>
+                        <a href="#projets" class="project-link">
+                            Voir mes projets ↗
+                        </a>
+                    </article>
+
+                </div>
+
+                <p class="notice">
+                    Vérifier les exigences exactes de l'épreuve E5
+                    applicables à ta session avec ton établissement.
+                    Ne publie aucune information confidentielle
+                    ou donnée personnelle d'un tiers.
+                </p>
+
+            </div>
+        </section>
+
+        <!-- =====================================
+             03 - QUATRE PROJETS
+        ====================================== -->
+        <section id="projets" class="section section-alt">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span class="section-number">06 / MES RÉALISATIONS</span>
+                    <h2>Mes projets<span class="accent">.</span></h2>
+                    <p>
+                        Projets réalisés en formation, en groupe,
+                        personnellement ou dans un cadre professionnel
+                        lorsque leur présentation est autorisée.
+                    </p>
+                </div>
+
+                <div class="project-filter-info">
+                    <span class="status-dot"></span>
+                    <p>
+                        4 emplacements prévus — contenu à compléter
+                    </p>
+                </div>
+
+                <div class="projects-grid">
+
+                    <!-- PROJET 1 : DUPLIQUER CETTE CARTE POUR AJOUTER UN PROJET -->
+                    <article class="card project-card">
+                        <div class="project-visual project-purple">
+                            <span class="project-number">PROJET 01</span>
+                            <span class="project-symbol">⌘</span>
+                            <span class="project-type">GROUPE / PERSONNEL</span>
+                        </div>
+
+                        <div class="project-content">
+                            <span class="pill pill-purple">À COMPLÉTER</span>
+                            <h3>Titre du projet 1</h3>
+
+                            <p>
+                                Présenter brièvement le besoin,
+                                le contexte du projet et l'objectif
+                                recherché.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Contexte :</strong> à compléter</p>
+                                <p><strong>Technologies :</strong> à compléter</p>
+                                <p><strong>Rôle personnel :</strong> à compléter</p>
+                            </div>
+
+                            <h4>Compétences mobilisées</h4>
+                            <div class="tag-list">
+                                <span>Compétence 1</span>
+                                <span>Compétence 2</span>
+                            </div>
+
+                            <div class="project-actions">
+                                <a href="projets/projet-01/documentation.pdf"
+                                   class="btn btn-primary btn-small"
+                                   target="_blank"
+                                   rel="noopener noreferrer">
+                                    Documentation ↗
+                                </a>
+
+                                <a href="projets/projet-01/documentation.pdf"
+                                   class="download-link"
+                                   download>
+                                    Télécharger ↓
+                                </a>
+                            </div>
+
+                            <p class="small-note">
+                                Ajouter les captures dans
+                                projets/projet-01/
+                            </p>
+                        </div>
+                    </article>
+
+                    <!-- PROJET 2 -->
+                    <article class="card project-card">
+                        <div class="project-visual project-cyan">
+                            <span class="project-number">PROJET 02</span>
+                            <span class="project-symbol">▣</span>
+                            <span class="project-type">GROUPE / PERSONNEL</span>
+                        </div>
+
+                        <div class="project-content">
+                            <span class="pill pill-cyan">À COMPLÉTER</span>
+                            <h3>Titre du projet 2</h3>
+
+                            <p>
+                                Présenter le problème rencontré,
+                                les objectifs et la solution
+                                développée pendant le projet.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Contexte :</strong> à compléter</p>
+                                <p><strong>Technologies :</strong> à compléter</p>
+                                <p><strong>Rôle personnel :</strong> à compléter</p>
+                            </div>
+
+                            <h4>Compétences mobilisées</h4>
+                            <div class="tag-list">
+                                <span>Compétence 1</span>
+                                <span>Compétence 2</span>
+                            </div>
+
+                            <div class="project-actions">
+                                <a href="projets/projet-02/documentation.pdf"
+                                   class="btn btn-primary btn-small"
+                                   target="_blank"
+                                   rel="noopener noreferrer">
+                                    Documentation ↗
+                                </a>
+
+                                <a href="projets/projet-02/documentation.pdf"
+                                   class="download-link"
+                                   download>
+                                    Télécharger ↓
+                                </a>
+                            </div>
+
+                            <p class="small-note">
+                                Ajouter les captures dans
+                                projets/projet-02/
+                            </p>
+                        </div>
+                    </article>
+
+                    <!-- PROJET 3 -->
+                    <article class="card project-card">
+                        <div class="project-visual project-orange">
+                            <span class="project-number">PROJET 03</span>
+                            <span class="project-symbol">⛨</span>
+                            <span class="project-type">GROUPE / PERSONNEL</span>
+                        </div>
+
+                        <div class="project-content">
+                            <span class="pill pill-orange">À COMPLÉTER</span>
+                            <h3>Titre du projet 3</h3>
+
+                            <p>
+                                Décrire la réalisation, les choix
+                                techniques et les tests effectués.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Contexte :</strong> à compléter</p>
+                                <p><strong>Technologies :</strong> à compléter</p>
+                                <p><strong>Rôle personnel :</strong> à compléter</p>
+                            </div>
+
+                            <h4>Compétences mobilisées</h4>
+                            <div class="tag-list">
+                                <span>Compétence 1</span>
+                                <span>Compétence 2</span>
+                            </div>
+
+                            <div class="project-actions">
+                                <a href="projets/projet-03/documentation.pdf"
+                                   class="btn btn-primary btn-small"
+                                   target="_blank"
+                                   rel="noopener noreferrer">
+                                    Documentation ↗
+                                </a>
+
+                                <a href="projets/projet-03/documentation.pdf"
+                                   class="download-link"
+                                   download>
+                                    Télécharger ↓
+                                </a>
+                            </div>
+
+                            <p class="small-note">
+                                Ajouter les captures dans
+                                projets/projet-03/
+                            </p>
+                        </div>
+                    </article>
+
+                    <!-- PROJET 4 -->
+                    <article class="card project-card">
+                        <div class="project-visual project-green">
+                            <span class="project-number">PROJET 04</span>
+                            <span class="project-symbol">$_</span>
+                            <span class="project-type">GROUPE / PERSONNEL</span>
+                        </div>
+
+                        <div class="project-content">
+                            <span class="pill pill-green">À COMPLÉTER</span>
+                            <h3>Titre du projet 4</h3>
+
+                            <p>
+                                Décrire le résultat obtenu,
+                                les difficultés rencontrées et
+                                les améliorations possibles.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Contexte :</strong> à compléter</p>
+                                <p><strong>Technologies :</strong> à compléter</p>
+                                <p><strong>Rôle personnel :</strong> à compléter</p>
+                            </div>
+
+                            <h4>Compétences mobilisées</h4>
+                            <div class="tag-list">
+                                <span>Compétence 1</span>
+                                <span>Compétence 2</span>
+                            </div>
+
+                            <div class="project-actions">
+                                <a href="projets/projet-04/documentation.pdf"
+                                   class="btn btn-primary btn-small"
+                                   target="_blank"
+                                   rel="noopener noreferrer">
+                                    Documentation ↗
+                                </a>
+
+                                <a href="projets/projet-04/documentation.pdf"
+                                   class="download-link"
+                                   download>
+                                    Télécharger ↓
+                                </a>
+                            </div>
+
+                            <p class="small-note">
+                                Ajouter les captures dans
+                                projets/projet-04/
+                            </p>
+                        </div>
+                    </article>
+
+                </div>
+
+                <div class="card project-template-info">
+                    <h3>Comment ajouter un nouveau projet ?</h3>
+                    <p>
+                        Duplique une carte existante dans le HTML,
+                        modifie son titre et ses informations, puis
+                        remplace les chemins de documentation et de
+                        captures par ceux de ton nouveau dossier.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- =====================================
+             04 - VEILLE TECHNOLOGIQUE
+        ====================================== -->
+        <section id="veille" class="section">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span class="section-number">07 / VEILLE TECHNOLOGIQUE</span>
+                    <h2>Rester à jour<span class="accent">.</span></h2>
+                    <p>
+                        Ma méthode pour suivre les évolutions
+                        technologiques et maintenir mes connaissances.
+                    </p>
+                </div>
+
+                <article class="card content-card veille-intro">
+                    <h3>Comment je réalise ma veille</h3>
+
+                    <p>
+                        La veille technologique consiste à rechercher,
+                        sélectionner et analyser des informations
+                        concernant les évolutions d'un domaine technique.
+                    </p>
+
+                    <p>
+                        Dans le cadre de mon BTS SIO SISR et de mon
+                        activité de technicien support, je souhaite
+                        suivre les actualités relatives à la cybersécurité,
+                        aux systèmes, aux réseaux et aux outils informatiques.
+                    </p>
+
+                    <p>
+                        Je peux consulter des sources spécialisées,
+                        les bulletins de sécurité des éditeurs, les
+                        documentations officielles et les actualités
+                        professionnelles, puis conserver les informations
+                        pertinentes dans mes notes.
+                    </p>
+                </article>
+
+                <div class="cards-grid three-columns">
+
+                    <article class="card veille-card">
+                        <span class="card-icon purple-bg">01</span>
+                        <h3>Rechercher</h3>
+                        <p>
+                            Consulter des sites spécialisés,
+                            des flux d'actualité, des bulletins
+                            de sécurité et les documentations officielles.
+                        </p>
+                    </article>
+
+                    <article class="card veille-card">
+                        <span class="card-icon cyan-bg">02</span>
+                        <h3>Analyser</h3>
+                        <p>
+                            Vérifier la source, la date, la fiabilité
+                            de l'information et son intérêt pour
+                            les systèmes et les réseaux.
+                        </p>
+                    </article>
+
+                    <article class="card veille-card">
+                        <span class="card-icon green-bg">03</span>
+                        <h3>Documenter</h3>
+                        <p>
+                            Rédiger un résumé, noter les sources
+                            et expliquer les conséquences possibles
+                            pour les environnements informatiques.
+                        </p>
+                    </article>
+
+                </div>
+
+                <div class="section-heading subsection-heading">
+                    <span class="section-number">MES SOURCES</span>
+                    <h3>Sites de référence</h3>
+                    <p>
+                        Quelques sources que je peux utiliser pour
+                        commencer ma veille.
+                    </p>
+                </div>
+
+                <div class="source-list">
+
+                    <a class="card source-card"
+                       href="https://www.cert.ssi.gouv.fr/"
+                       target="_blank" rel="noopener noreferrer">
+                        <span class="source-icon purple-bg">!</span>
+                        <div>
+                            <h4>CERT-FR / ANSSI</h4>
+                            <p>
+                                Alertes, avis et informations
+                                relatives aux menaces de cybersécurité.
+                            </p>
+                        </div>
+                        <span class="source-arrow">↗</span>
+                    </a>
+
+                    <a class="card source-card"
+                       href="https://learn.microsoft.com/"
+                       target="_blank" rel="noopener noreferrer">
+                        <span class="source-icon cyan-bg">M</span>
+                        <div>
+                            <h4>Microsoft Learn</h4>
+                            <p>
+                                Documentation technique et actualités
+                                des technologies Microsoft.
+                            </p>
+                        </div>
+                        <span class="source-arrow">↗</span>
+                    </a>
+
+                    <a class="card source-card"
+                       href="https://www.debian.org/"
+                       target="_blank" rel="noopener noreferrer">
+                        <span class="source-icon orange-bg">D</span>
+                        <div>
+                            <h4>Debian</h4>
+                            <p>
+                                Informations officielles sur le système,
+                                ses versions et ses mises à jour.
+                            </p>
+                        </div>
+                        <span class="source-arrow">↗</span>
+                    </a>
+
+                </div>
+
+                <div class="section-heading subsection-heading">
+                    <span class="section-number">JOURNAL DE VEILLE</span>
+                    <h3>Mes articles étudiés</h3>
+                    <p>
+                        Ajoute une nouvelle fiche à chaque information
+                        importante que tu analyses.
+                    </p>
+                </div>
+
+                <!-- DUPLIQUER CETTE CARTE POUR AJOUTER UN ARTICLE -->
+                <article class="card article-card">
+                    <div class="article-meta">
+                        <span class="pill pill-purple">THÈME À COMPLÉTER</span>
+                        <span class="muted-text">Date : à compléter</span>
+                    </div>
+
+                    <h3>Titre de l'article ou de l'actualité</h3>
+
+                    <p>
+                        Résumer ici l'information étudiée,
+                        expliquer pourquoi elle est importante
+                        et préciser son impact éventuel sur
+                        les systèmes, les réseaux ou la sécurité.
+                    </p>
+
+                    <p>
+                        <strong>Mon analyse :</strong>
+                        à compléter avec les conséquences,
+                        les risques et les éventuelles mesures
+                        à prendre.
+                    </p>
+
+                    <a href="#veille"
+                       class="project-link">
+                        Remplacer par la source de l'article ↗
+                    </a>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- =====================================
+             05 - CERTIFICATIONS
+        ====================================== -->
+        <section id="certifications" class="section section-alt">
+            <div class="container">
+
+                <div class="section-heading">
+                    <span class="section-number">08 / CERTIFICATIONS</span>
+                    <h2>Mes certifications<span class="accent">.</span></h2>
+                    <p>
+                        Un espace pour présenter mes certifications,
+                        formations complémentaires et attestations.
+                    </p>
+                </div>
+
+                <div class="projects-grid">
+
+                    <!-- CERTIFICATION 1 : DUPLIQUER POUR EN AJOUTER -->
+                    <article class="card certification-card">
+                        <div class="certification-visual purple-bg">
+                            <span class="certification-medal">★</span>
+                            <span>CERTIFICATION 01</span>
+                        </div>
+
+                        <div class="certification-content">
+                            <span class="pill pill-purple">À COMPLÉTER</span>
+                            <h3>Nom de la certification</h3>
+
+                            <p>
+                                Présenter l'organisme émetteur,
+                                la date d'obtention et les
+                                connaissances validées.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Organisme :</strong> à compléter</p>
+                                <p><strong>Date :</strong> à compléter</p>
+                                <p><strong>Statut :</strong> à compléter</p>
+                            </div>
+
+                            <a href="certifications/certification-01.pdf"
+                               class="btn btn-primary btn-small"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                Voir l'attestation ↗
+                            </a>
+
+                            <a href="certifications/certification-01.pdf"
+                               class="download-link"
+                               download>
+                                Télécharger le document ↓
+                            </a>
+                        </div>
+                    </article>
+
+                    <!-- CERTIFICATION 2 -->
+                    <article class="card certification-card">
+                        <div class="certification-visual cyan-bg">
+                            <span class="certification-medal">★</span>
+                            <span>CERTIFICATION 02</span>
+                        </div>
+
+                        <div class="certification-content">
+                            <span class="pill pill-cyan">À COMPLÉTER</span>
+                            <h3>Nom de la certification</h3>
+
+                            <p>
+                                Ajouter une présentation de la
+                                certification et des compétences
+                                ou connaissances validées.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Organisme :</strong> à compléter</p>
+                                <p><strong>Date :</strong> à compléter</p>
+                                <p><strong>Statut :</strong> à compléter</p>
+                            </div>
+
+                            <a href="certifications/certification-02.pdf"
+                               class="btn btn-primary btn-small"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                Voir l'attestation ↗
+                            </a>
+
+                            <a href="certifications/certification-02.pdf"
+                               class="download-link"
+                               download>
+                                Télécharger le document ↓
+                            </a>
+                        </div>
+                    </article>
+
+                    <!-- CERTIFICATION 3 -->
+                    <article class="card certification-card">
+                        <div class="certification-visual orange-bg">
+                            <span class="certification-medal">★</span>
+                            <span>CERTIFICATION 03</span>
+                        </div>
+
+                        <div class="certification-content">
+                            <span class="pill pill-orange">À COMPLÉTER</span>
+                            <h3>Nom de la certification</h3>
+
+                            <p>
+                                Utiliser cette carte pour une
+                                certification ou une attestation
+                                réellement obtenue.
+                            </p>
+
+                            <div class="project-details">
+                                <p><strong>Organisme :</strong> à compléter</p>
+                                <p><strong>Date :</strong> à compléter</p>
+                                <p><strong>Statut :</strong> à compléter</p>
+                            </div>
+
+                            <a href="certifications/certification-03.pdf"
+                               class="btn btn-primary btn-small"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                Voir l'attestation ↗
+                            </a>
+
+                            <a href="certifications/certification-03.pdf"
+                               class="download-link"
+                               download>
+                                Télécharger le document ↓
+                            </a>
+                        </div>
+                    </article>
+
+                </div>
+
+                <p class="notice">
+                    Ces trois cartes sont des emplacements vierges.
+                    Ajoute uniquement les certifications et attestations
+                    que tu possèdes réellement. Tu peux dupliquer une
+                    carte pour en ajouter d'autres.
+                </p>
+
+            </div>
         </section>
 
     </main>
 
-    <footer>
-        <p>Portfolio de Nader Moslah</p>
-        <p>BTS SIO - Option SISR - IPSSI</p>
-        <p>&copy; 2026 - Tous droits réservés</p>
+    <!-- =====================================
+         PIED DE PAGE
+    ====================================== -->
+    <footer class="footer">
+        <div class="container footer-content">
+
+            <a href="#accueil" class="logo">N<span>.</span>M</a>
+
+            <p>
+                Nader Moslah · BTS SIO SISR · IPSSI · THOMGroup
+            </p>
+
+            <a href="#accueil" class="back-top">
+                Retour en haut ↑
+            </a>
+        </div>
+
+        <div class="container footer-bottom">
+            <p>© 2026 Nader Moslah — Portfolio personnel</p>
+            <p>HTML & CSS</p>
+        </div>
     </footer>
 
 </body>
