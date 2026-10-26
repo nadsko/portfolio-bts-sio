@@ -797,3 +797,283 @@ footer p {
     transition: none !important;
   }
 }
+
+/* ==========================================
+   ANIMATIONS DU PORTFOLIO
+   ========================================== */
+
+:root {
+  --motion-ease: cubic-bezier(.22, 1, .36, 1);
+}
+
+/* BARRE DE PROGRESSION AU SCROLL */
+
+.topbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--blue),
+    var(--turquoise),
+    var(--purple)
+  );
+  transform: scaleX(var(--scroll-progress, 0));
+  transform-origin: left;
+  pointer-events: none;
+}
+
+/* NAVIGATION ANIMÉE */
+
+nav a {
+  position: relative;
+  transition: color .25s ease;
+}
+
+nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 100%;
+  height: 2px;
+  background: var(--blue);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform .3s var(--motion-ease);
+}
+
+nav a:hover::after,
+nav a.is-active::after {
+  transform: scaleX(1);
+}
+
+nav a.is-active {
+  color: var(--blue);
+}
+
+/* APPARITION DES SECTIONS AU DÉFILEMENT */
+
+.js-motion .reveal {
+  opacity: 0;
+  transform: translate3d(0, 26px, 0);
+  transition:
+    opacity .7s var(--motion-ease),
+    transform .7s var(--motion-ease),
+    box-shadow .3s ease;
+  transition-delay: var(--reveal-delay, 0ms);
+}
+
+.js-motion .reveal.is-visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+.js-motion .card.reveal.is-visible:hover {
+  transform: translate3d(0, -7px, 0);
+}
+
+/* ANIMATION D'ENTRÉE DE L'ACCUEIL */
+
+.js-motion .hero-content > *,
+.js-motion .profile-card {
+  animation: hero-appear .75s var(--motion-ease) both;
+}
+
+.js-motion .hero-content > :nth-child(2) {
+  animation-delay: .10s;
+}
+
+.js-motion .hero-content > :nth-child(3) {
+  animation-delay: .18s;
+}
+
+.js-motion .hero-content > :nth-child(4) {
+  animation-delay: .25s;
+}
+
+.js-motion .hero-content > :nth-child(5) {
+  animation-delay: .32s;
+}
+
+.js-motion .hero-content > :nth-child(6) {
+  animation-delay: .39s;
+}
+
+.js-motion .profile-card {
+  animation-delay: .3s;
+}
+
+@keyframes hero-appear {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ANIMATION DE L'AVATAR */
+
+.avatar {
+  transition:
+    transform .45s var(--motion-ease),
+    box-shadow .35s ease;
+}
+
+.profile-card:hover .avatar {
+  transform: rotate(-6deg) scale(1.06);
+  box-shadow: 0 9px 20px rgba(40,120,240,.15);
+}
+
+/* POINT DE STATUT PULSANT */
+
+.status-dot {
+  animation: status-pulse 2.6s ease-in-out infinite;
+}
+
+@keyframes status-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(8,187,170,.32);
+  }
+
+  50% {
+    box-shadow: 0 0 0 6px rgba(8,187,170,0);
+  }
+}
+
+/* CARTES INTERACTIVES */
+
+.card {
+  transition:
+    transform .35s var(--motion-ease),
+    box-shadow .35s ease,
+    border-color .35s ease;
+}
+
+.card:hover {
+  box-shadow: 0 18px 40px rgba(44,61,104,.13);
+}
+
+/* ANIMATION DES ICÔNES */
+
+.card-icon,
+.skill-icon,
+.document-icon {
+  transition: transform .4s var(--motion-ease);
+}
+
+.card:hover .card-icon,
+.card:hover .skill-icon,
+.card:hover .document-icon {
+  transform: translateY(-3px) rotate(-5deg) scale(1.08);
+}
+
+/* LIGNE ANIMÉE SUR LES PROJETS */
+
+.project-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.project-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--blue),
+    var(--turquoise),
+    var(--purple)
+  );
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform .55s var(--motion-ease);
+}
+
+.project-card:hover::before {
+  transform: scaleX(1);
+}
+
+/* ANIMATION DES LIENS DES CARTES */
+
+.project-card > a,
+.presentation-card > a,
+.certification-card > a {
+  transition:
+    color .25s ease,
+    letter-spacing .25s ease;
+}
+
+.project-card > a:hover,
+.presentation-card > a:hover,
+.certification-card > a:hover {
+  letter-spacing: .3px;
+}
+
+/* BARRES DE COMPÉTENCES ANIMÉES */
+
+.js-motion .xp-fill {
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 1.25s var(--motion-ease);
+}
+
+.js-motion .xp-fill.is-filled {
+  transform: scaleX(1);
+}
+
+/* BOUTONS */
+
+.button {
+  transition:
+    transform .28s var(--motion-ease),
+    box-shadow .28s ease,
+    background .28s ease;
+}
+
+.button:active {
+  transform: translateY(0) scale(.97);
+}
+
+/* ACCESSIBILITÉ */
+
+a:focus-visible {
+  outline: 3px solid var(--turquoise);
+  outline-offset: 4px;
+}
+
+/* RÉDUCTION DES ANIMATIONS SI DEMANDÉE */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .js-motion .reveal,
+  .js-motion .reveal.is-visible,
+  .js-motion .xp-fill,
+  .js-motion .xp-fill.is-filled {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+
+  .js-motion .hero-content > *,
+  .js-motion .profile-card,
+  .status-dot {
+    animation: none !important;
+  }
+
+  .topbar::after,
+  nav a::after,
+  .project-card::before {
+    transition: none !important;
+  }
+}
