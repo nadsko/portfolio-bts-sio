@@ -1,5 +1,1222 @@
 {
-  "updated_at": null,
-  "articles": [],
-  "sources": []
+  "updated_at": "2026-10-26T18:40:12.750570+00:00",
+  "articles": [
+    {
+      "id": "eed5417b6fdc37cf",
+      "title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
+      "summary": "The JSAUX FlipGo features dual 16-inch touch displays and a built-in hub.",
+      "url": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T16:33:31+00:00"
+    },
+    {
+      "id": "ad48058b46de9c2a",
+      "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "summary": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet...",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "id": "7a14dbb97155c6a2",
+      "title": "Save $134 on this WD Red Plus 10TB HDD bundle at Newegg",
+      "summary": "Grab two 10TB NAS Hard Disk Drives and save $134 — this two-pack WD Red Plus bundle is the best deal for adding capacity to your NAS",
+      "url": "https://www.tomshardware.com/pc-components/hdds/save-usd134-on-this-wd-red-plus-10tb-hdd-bundle-at-newegg-this-double-drive-deal-lands-you-with-20tb-of-total-capacity-for-your-nas",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "id": "41de2a71b391307f",
+      "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
+      "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
+      "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-26T15:05:12+00:00"
+    },
+    {
+      "id": "ec17f0212ac94073",
+      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "summary": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency...",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-26T15:00:00+00:00"
+    },
+    {
+      "id": "fa556731a289112d",
+      "title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
+      "summary": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T15:00:00+00:00"
+    },
+    {
+      "id": "9166cac48d594891",
+      "title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
+      "summary": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
+      "url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T14:43:37+00:00"
+    },
+    {
+      "id": "a332e5e245b566bd",
+      "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
+      "summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T14:31:43+00:00"
+    },
+    {
+      "id": "e6867c3ba004512e",
+      "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
+      "summary": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next few years.",
+      "url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T14:00:00+00:00"
+    },
+    {
+      "id": "234b5ba558afaf20",
+      "title": "Windows 11’s ‘whole ISO’ squeezed into a CD-ROM",
+      "summary": "Professional Windows crusher NTDEV has showcased their next-generation tool for compressing Windows 11 with a video of an install that fits on a single CD-ROM.",
+      "url": "https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T13:40:00+00:00"
+    },
+    {
+      "id": "bd3ce0e0cd5e3a52",
+      "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+      "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T13:20:00+00:00"
+    },
+    {
+      "id": "92d28f31dcf45c80",
+      "title": "Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds",
+      "summary": "Chinese vessels are spending more time near undersea cables in the Pacific than nearly 50 other nations, according to a new report by the Center for Strategic and International Studies.",
+      "url": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T13:00:00+00:00"
+    },
+    {
+      "id": "1890427b56e36d28",
+      "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T12:40:00+00:00"
+    },
+    {
+      "id": "b08fd50213b8ff9f",
+      "title": "Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5",
+      "summary": "Newegg have cut this Alienware Aurora gaming PC by over $1,000, netting yo ua 4K-ready machine with an RTX 5070 and 32GB of DDR5 RAM for $2,199.99.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T12:20:00+00:00"
+    },
+    {
+      "id": "cfdc3fa09fae0e9e",
+      "title": "Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg",
+      "summary": "Lack of funding likely led to the recent PHP security snafu, but that's just the tip of the iceberg — dreary situation caused by services running old versions with no support",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T11:50:00+00:00"
+    },
+    {
+      "id": "ea6edbdd1e3c3d0d",
+      "title": "Modder turns NES into a Windows-like desktop with original hardware",
+      "summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T11:20:00+00:00"
+    },
+    {
+      "id": "5329540d96d07acc",
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+      "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T11:00:00+00:00"
+    },
+    {
+      "id": "68c9eb7ff728c50e",
+      "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+      "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted inve",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T10:30:00+00:00"
+    },
+    {
+      "id": "9e914142d9344019",
+      "title": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+      "summary": "Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors, while restrictions on non-English speakers have sparked further backlash. The debate ",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T10:00:00+00:00"
+    },
+    {
+      "id": "c182a5f6e830045c",
+      "title": "Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
+      "summary": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting challenges, among other complaints.",
+      "url": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T09:30:00+00:00"
+    },
+    {
+      "id": "d413a503be4a478d",
+      "title": "Meccha Chameleon : How two devs built the indie smash hit of the summer",
+      "summary": "Get the full story on how two Japanese developers took just two months to build Prop Hunt-inspired indie game Meccha Chameleon in UE5—and instantly had a massive hit on their hands that sold an impressive 1,000,000 copies in its first four days.",
+      "url": "https://www.unrealengine.com/developer-interviews/meccha-chameleon-how-two-devs-built-the-indie-smash-hit-of-the-summer",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "13089ca5ac7a2f9c",
+      "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+      "summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of the S&P 500.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-25T15:25:40+00:00"
+    },
+    {
+      "id": "008425a11c06449d",
+      "title": "IQUNIX MQ80 low profile mechanical keyboard review",
+      "summary": "The IQUNIX MQ80 is well-made and super stylish, but it’s not quite the instant sell it used to be. Catch this one if you don’t like magnetic switches, but otherwise wait for a sale.",
+      "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-25T15:08:23+00:00"
+    },
+    {
+      "id": "c3ed6200ebf1d328",
+      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+      "summary": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-25T14:05:00+00:00"
+    },
+    {
+      "id": "7383f2fa84171fd1",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "summary": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T17:27:52+00:00"
+    },
+    {
+      "id": "7e6eaaa1dc0a2da9",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+      "summary": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For...",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T17:27:35+00:00"
+    },
+    {
+      "id": "5d794c3788a3a4be",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-23T16:15:50+00:00"
+    },
+    {
+      "id": "2322f2a38aa69878",
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "summary": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions...",
+      "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-23T14:58:32+00:00"
+    },
+    {
+      "id": "2b3f616d26d343fe",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "51888f116f5b0837",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-22T22:24:34+00:00"
+    },
+    {
+      "id": "c10dae251e662270",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-22T17:21:30+00:00"
+    },
+    {
+      "id": "72473aca758fbc8b",
+      "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI...",
+      "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-22T16:39:09+00:00"
+    },
+    {
+      "id": "782124816a0361db",
+      "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+      "summary": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting...",
+      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-22T16:00:00+00:00"
+    },
+    {
+      "id": "0e5fad3ca5f8a881",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-22T07:51:31+00:00"
+    },
+    {
+      "id": "b5f4c08d21b15f89",
+      "title": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1365/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "baba46c3236c4eb3",
+      "title": "Multiples vulnérabilités dans Node (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1367/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "937230a3b5ac3170",
+      "title": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1363/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "4bf4755218f85d3d",
+      "title": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1366/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "5d77966ec7303635",
+      "title": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1360/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "66879ff8cc62d4d4",
+      "title": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1361/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "683220fc6ba97f44",
+      "title": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1364/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "f9c2fa96381e3e98",
+      "title": "Vibe your way to $50k: the 2026 Epic AI MegaJam is coming",
+      "summary": "The 2026 Epic AI MegaJam runs November 12–15. Team up with up to four other humans and as many AI agents as you want to build a playable game in Unreal Engine or UEFN, and compete for cash prizes.",
+      "url": "https://www.unrealengine.com/news/2026-epic-ai-megajam",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "94a5f6526eada9bc",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-21T18:26:30+00:00"
+    },
+    {
+      "id": "40a01666d562060b",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-21T17:35:36+00:00"
+    },
+    {
+      "id": "5b4e08461387ba3b",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-21T16:04:43+00:00"
+    },
+    {
+      "id": "4ba30d9b0c538cac",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "id": "c2ed162a157709f5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-21T14:58:18+00:00"
+    },
+    {
+      "id": "280febea489348bb",
+      "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+      "summary": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino...",
+      "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T12:30:00+00:00"
+    },
+    {
+      "id": "b2842111c9af260e",
+      "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+      "summary": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using...",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T09:52:16+00:00"
+    },
+    {
+      "id": "88a80623a9615ed2",
+      "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+      "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex...",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T09:50:14+00:00"
+    },
+    {
+      "id": "1642ad325f565486",
+      "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+      "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...",
+      "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T09:38:49+00:00"
+    },
+    {
+      "id": "3c46a6dfc80ab06c",
+      "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+      "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,...",
+      "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-21T09:35:32+00:00"
+    },
+    {
+      "id": "ac94fcb0524e51f6",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1354/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "b3de61d017563357",
+      "title": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "387608ef7ec4a48f",
+      "title": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1359/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "80c5f0172ba11068",
+      "title": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "f1f22689c9aabc2a",
+      "title": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1357/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "1594113aeb2f351c",
+      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1352/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "d970cd21182d8d9e",
+      "title": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "27164cf0c4bd1fb0",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1358/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "a73acf7794ce3ee6",
+      "title": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1355/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "ae1f78ce4cf7a1c3",
+      "title": "Vulnérabilité dans Traefik (21 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1356/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "2cb53d7885887934",
+      "title": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1353/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "0f4de67236acef69",
+      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "summary": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "id": "806b1f92932cb664",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-20T16:05:03+00:00"
+    },
+    {
+      "id": "5e5f2403446d1e3e",
+      "title": "Can a local git remote replace GitHub in your agent eval?",
+      "summary": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The post Can a local git remote replace GitHub in ",
+      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-20T14:53:27+00:00"
+    },
+    {
+      "id": "39e60f901a735303",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-20T00:00:00+00:00"
+    },
+    {
+      "id": "41fb25a47d12d204",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-20T00:00:00+00:00"
+    },
+    {
+      "id": "c2b4b68d7e0027f0",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-20T00:00:00+00:00"
+    },
+    {
+      "id": "5e09805dda87945d",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-19T18:47:22+00:00"
+    },
+    {
+      "id": "be58f6497da33a85",
+      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...",
+      "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-19T17:00:00+00:00"
+    },
+    {
+      "id": "5c52b7d34becd1cc",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-19T00:00:00+00:00"
+    },
+    {
+      "id": "b4f80026218d1197",
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "id": "c9a6184923cc1a58",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-16T00:00:00+00:00"
+    },
+    {
+      "id": "7a377f4a7dd617b3",
+      "title": "Check out the top Fortnite islands from the UEFN Student Bootcamp",
+      "summary": "The UEFN Student Bootcamp has wrapped! Watch this sizzle reel of some of the best Fortnite islands created during this intensive three-week course, which was completed by over 300 students.",
+      "url": "https://www.unrealengine.com/learning/check-out-the-top-fortnite-islands-from-the-uefn-student-bootcamp",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-16T00:00:00+00:00"
+    },
+    {
+      "id": "a47e85dd89b9a253",
+      "title": "The next developer interface is ambient intelligence",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-15T19:39:27+00:00"
+    },
+    {
+      "id": "bc3eb8977fc1d5b5",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
+      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-15T18:01:00+00:00"
+    },
+    {
+      "id": "da7a313328786ce1",
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "summary": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on...",
+      "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-15T18:00:01+00:00"
+    },
+    {
+      "id": "377b59f097432230",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "id": "39052ad94a8a76cc",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-15T09:08:45+00:00"
+    },
+    {
+      "id": "ff0cf28c5d753057",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "eb67409897ed2136",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/flux-3",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "cee3c687eb6d813b",
+      "title": "SILENT HILL: Townfall delivers haunting psychological horror at its very best with UE5",
+      "summary": "Discover how UE5 tools including Lumen, Nanite, and MetaHuman helped Screen Burn Interactive craft complex, beautifully rendered scenes and compelling characters for chilling, slow-burn survival horror SILENT HILL: Townfall .",
+      "url": "https://www.unrealengine.com/developer-interviews/silent-hill-townfall-delivers-haunting-psychological-horror-at-its-very-best-with-ue5",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "3cbafd4338038f81",
+      "title": "GitHub availability report: September 2026",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-14T20:01:35+00:00"
+    },
+    {
+      "id": "f919ddb4bb1767a4",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The Gi",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-14T19:11:33+00:00"
+    },
+    {
+      "id": "aa4e18d41776f954",
+      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+      "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes...",
+      "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-14T16:10:45+00:00"
+    },
+    {
+      "id": "98f52657a01ad848",
+      "title": "UEFN Professional Bootcamp: Prepare for Unreal Engine 6",
+      "summary": "With Epic’s roadmap bringing together Unreal Engine and UEFN in UE6, build your UEFN skills with our free UEFN Professional Bootcamp for games industry pros. Register today to create and publish a playable Fortnite island and strengthen your portfolio.",
+      "url": "https://www.unrealengine.com/news/uefn-professional-bootcamp-prepare-for-unreal-engine-6",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-14T00:00:00+00:00"
+    },
+    {
+      "id": "769f877f10eac4a8",
+      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+      "summary": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...",
+      "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-13T21:33:21+00:00"
+    },
+    {
+      "id": "7a679d710e8c186b",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-13T17:56:33+00:00"
+    },
+    {
+      "id": "53911f98c21c784f",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-13T17:05:48+00:00"
+    },
+    {
+      "id": "b3dd2a0f914f65ea",
+      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+      "summary": "NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...",
+      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-13T14:19:40+00:00"
+    },
+    {
+      "id": "e9232f52a1b103a1",
+      "title": "Fuse Games uses UE5 to make a fast and authentic Star Wars ™ racing game",
+      "summary": "Star Wars: Galactic Racer™ blends high-speed racing with a roguelite twist. Discover how Fuse Games used Unreal Engine 5’s Lumen, Nanite, and World Partition to create striking visuals that do justice to the game’s innovative gameplay and worldbuilding.",
+      "url": "https://www.unrealengine.com/developer-interviews/fuse-games-uses-ue5-to-make-a-fast-and-authentic-star-wars-racing-game",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-13T00:00:00+00:00"
+    },
+    {
+      "id": "23216cfbe10c8c92",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-12T17:43:59+00:00"
+    },
+    {
+      "id": "3ea8663ef4cdebc3",
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "summary": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...",
+      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-12T16:00:54+00:00"
+    },
+    {
+      "id": "be5e504cf45b3d8c",
+      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
+      "summary": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don't. The post Introducing the Agent Experien",
+      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-09T09:44:25+00:00"
+    },
+    {
+      "id": "ffd2818196374b7e",
+      "title": "The model that didn't exist, so you made it yourself",
+      "summary": "",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "id": "df4be6f3b63827e6",
+      "title": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
+      "summary": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the principles and lifecycle of SDD. Here, we focus ",
+      "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-07T15:00:26+00:00"
+    },
+    {
+      "id": "16b7810afb00bdc0",
+      "title": "Introducing Falcon ASR",
+      "summary": "",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-07T13:21:03+00:00"
+    },
+    {
+      "id": "0082b21d38cb2fed",
+      "title": "Build Azure canvases with the Canvas authoring plugin",
+      "summary": "Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugin appeared first on Microsoft for Developer",
+      "url": "https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-06T18:30:00+00:00"
+    },
+    {
+      "id": "3c083504fded628a",
+      "title": "What is Agent Experience (AX)?",
+      "summary": "Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one. The post What is Agent Experience (AX)? appeared first on Micros",
+      "url": "https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-06T09:18:05+00:00"
+    },
+    {
+      "id": "bd1136d0fcfd6f13",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-03T22:56:48+00:00"
+    },
+    {
+      "id": "d2c64b711b4359f0",
+      "title": "Gears of War: E-Day sees a return to dark, survival-horror roots with UE5",
+      "summary": "With the latest major main-series installment of Gears of War about to drop, we caught up with The Coalition to find out how UE5 helped recapture the desperate “destroyed beauty” aesthetic of the original games—while evolving gameplay, animation, and more.",
+      "url": "https://www.unrealengine.com/developer-interviews/gears-of-war-e-day-sees-a-return-to-dark-survival-horror-roots-with-ue5",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "id": "d98f139f17799655",
+      "title": "Build with Azure Canvases: a shared workspace for agents",
+      "summary": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microsoft for Developers .",
+      "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-09-29T18:30:00+00:00"
+    },
+    {
+      "id": "583ce8f789fb325b",
+      "title": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
+      "summary": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sharing the files is straightforward, but kee",
+      "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-09-29T16:30:35+00:00"
+    },
+    {
+      "id": "876839af842c953e",
+      "title": "Get started with the GitHub Copilot app: a free, hands-on course",
+      "summary": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft for Developers .",
+      "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-09-28T18:05:00+00:00"
+    },
+    {
+      "id": "1f634868c3e890f0",
+      "title": "Knowledge cutoff is a poor proxy for model capability",
+      "summary": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is a poor proxy for model capability appeared ",
+      "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-09-21T07:51:46+00:00"
+    },
+    {
+      "id": "d6392e1b99c949fd",
+      "title": "Unreal Engine 5.8 is now available",
+      "summary": "Build bigger, better, more differentiated worlds in less time; easily populate them with high-fidelity animated characters and custom vegetation; and light and render them at the speed and quality your audiences demand.",
+      "url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "b033e60c4709f0ec",
+      "title": "The road to Unreal Engine 6",
+      "summary": "We have started the road to UE6, where Unreal Engine and UEFN will come together into a single, unified engine. Read more about our vision, transition plans, and timeline.",
+      "url": "https://www.unrealengine.com/news/the-road-to-ue-6",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-06-22T00:00:00+00:00"
+    },
+    {
+      "id": "d036198611c6b310",
+      "title": "State of Unreal 2026: Top news from the show",
+      "summary": "At State of Unreal 2026, we shared our vision for Unreal Engine 6, released Unreal Engine 5.8, open-sourced the next-generation version control system Lore, highlighted UEFN’s growing developer ecosystem, and previewed improvements to the Epic Games Store. Learn more here.",
+      "url": "https://www.unrealengine.com/news/state-of-unreal-2026-top-news-from-the-show",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-06-17T00:00:00+00:00"
+    },
+    {
+      "id": "86db40da0a745bef",
+      "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau (22 janvier 2026)",
+      "summary": "**Objet** : Recommandations de sécurisation des systèmes d’information à destination des producteurs, des intégrateurs et des installateurs des systèmes de production industriels du secteur de l’énergie et de l’eau en France. **Annexe** : Liens et références Depuis plusieurs mois",
+      "url": "https://www.cert.cyber.gouv.fr/dur/CERTFR-2025-DUR-003/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-01-22T00:00:00+00:00"
+    },
+    {
+      "id": "61d0a2271016d28e",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-06-05T00:00:00+00:00"
+    },
+    {
+      "id": "e9ea430ef2a1edb7",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilité",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-05-14T00:00:00+00:00"
+    },
+    {
+      "id": "3bb7e1e0c7ba08a5",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constat",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-05-13T00:00:00+00:00"
+    },
+    {
+      "id": "780bdcaa5985c153",
+      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
+      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-005/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-04-28T00:00:00+00:00"
+    },
+    {
+      "id": "bae307389188b5e3",
+      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
+      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-004/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-04-11T00:00:00+00:00"
+    },
+    {
+      "id": "81c21c85f94d9744",
+      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
+      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoqu",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-003/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-04-03T00:00:00+00:00"
+    },
+    {
+      "id": "09a90e13229f514a",
+      "title": "[MàJ] Vulnérabilité dans les produits Fortinet (14 janvier 2025)",
+      "summary": "\\[Mise à jour du 28 janvier 2025\\] Une preuve de concept permettant l'exploitation de cette vulnérabilité est disponible publiquement. Le 14 janvier 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-55591 affectant FortiOS et FortiProxy. El",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-002/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-01-14T00:00:00+00:00"
+    },
+    {
+      "id": "e8626ac001835d49",
+      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (09 janvier 2025)",
+      "summary": "Une vulnérabilité jour-zéro de type débordement de pile a été découverte dans Ivanti Connect Secure (ICS), Policy Secure (IPS), Neurons for Zero Trust Access (ZTA) gateways. Cette vulnérabilité, d'identifiant CVE-2025-0282, permet à un attaquant non authentifié de provoquer une e",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-001/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2025-01-09T00:00:00+00:00"
+    },
+    {
+      "id": "a39bb6b6bd9eec0c",
+      "title": "[MàJ] Multiples vulnérabilités sur l'interface d'administration des équipements Palo Alto Networks (15 novembre 2024)",
+      "summary": "Le 8 novembre 2024, Palo Alto Networks a publié un avis de sécurité relatif à une vulnérabilité critique dans certains pare-feux Palo Alto Networks. Elle permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur l'interface d'administration des équipement",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-015/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-11-15T00:00:00+00:00"
+    },
+    {
+      "id": "6375351014f075e4",
+      "title": "[MàJ] Multiples vulnérabilités dans Fortinet FortiManager (23 octobre 2024)",
+      "summary": "**[Mise à jour du 14 janvier 2025]** **Publication des correctifs** Le 14 janvier 2025, Fortinet a publié un avis de sécurité relatif à la vulnérabilité CVE-2024-50566 qui correspond à la vulnérabilité de type jour-zéro pour laquelle une preuve de concept a été publiée en novembr",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-014/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "c2bc3322f4081075",
+      "title": "Exploitations de vulnérabilités dans Ivanti Cloud Services Appliance (CSA) (22 octobre 2024)",
+      "summary": "Ivanti a publié plusieurs avis de sécurité sur des vulnérabilités affectant CSA qui sont activement exploitées : * le 10 septembre 2024, Ivanti a publié un avis de sécurité concernant la vulnérabilité CVE-2024-8190 qui permet à un attaquant, authentifié en tant qu'administrateur,",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-013/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "3311bc72b612e140",
+      "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
+      "summary": "**[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la détection des attaques connues. **[Publicatio",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-09-27T00:00:00+00:00"
+    },
+    {
+      "id": "934e6027cde9693c",
+      "title": "Vulnérabilité dans SonicWall (10 septembre 2024)",
+      "summary": "Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance,",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-09-10T00:00:00+00:00"
+    },
+    {
+      "id": "078cf74db5ce22da",
+      "title": "Multiples vulnérabilités dans Roundcube (09 août 2024)",
+      "summary": "Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exemple, conduire à la r",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-08-09T00:00:00+00:00"
+    },
+    {
+      "id": "56be3e1be1bede9f",
+      "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
+      "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-07-01T00:00:00+00:00"
+    },
+    {
+      "id": "cba00091cf5352ac",
+      "title": "[MàJ] Vulnérabilité dans les produits Check Point (30 mai 2024)",
+      "summary": "[Mise à jour du 31 mai 2024] Des preuves de concept sont désormais disponibles publiquement sur Internet. De plus, l'éditeur indique avoir détecté des tentatives de compromission à partir du 7 avril 2024. **[Publication Initiale]** Une vulnérabilité a été découverte dans les prod",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-008/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-05-30T00:00:00+00:00"
+    },
+    {
+      "id": "bd07046854fba600",
+      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
+      "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées.",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-04-25T00:00:00+00:00"
+    },
+    {
+      "id": "197ed00bacdeb488",
+      "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
+      "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information ",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-04-12T00:00:00+00:00"
+    },
+    {
+      "id": "91477cc43d41948e",
+      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+      "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette ",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2024-02-09T00:00:00+00:00"
+    },
+    {
+      "id": "e16e294163e09d07",
+      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
+      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR Alertes",
+      "date": "2015-07-24T00:00:00+00:00"
+    }
+  ],
+  "sources": [
+    {
+      "source": "CERT-FR",
+      "ok": true,
+      "entries": 20
+    },
+    {
+      "source": "CERT-FR Alertes",
+      "ok": true,
+      "entries": 20
+    },
+    {
+      "source": "NVIDIA Developer",
+      "ok": true,
+      "entries": 20
+    },
+    {
+      "source": "Hugging Face",
+      "ok": true,
+      "entries": 20
+    },
+    {
+      "source": "Unreal Engine",
+      "ok": true,
+      "entries": 10
+    },
+    {
+      "source": "Tom’s Hardware",
+      "ok": true,
+      "entries": 20
+    },
+    {
+      "source": "NVIDIA News",
+      "ok": false,
+      "error": "aucune entrée RSS/Atom"
+    },
+    {
+      "source": "GitHub Blog",
+      "ok": true,
+      "entries": 10
+    },
+    {
+      "source": "Microsoft DevBlogs",
+      "ok": true,
+      "entries": 10
+    }
+  ]
 }
