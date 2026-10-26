@@ -1077,3 +1077,147 @@ a:focus-visible {
     transition: none !important;
   }
 }
+
+/* ===========================
+   SECTION TECHWATCH
+   =========================== */
+
+.techwatch-card {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  align-items: center;
+  gap: 30px;
+  padding: 45px;
+  background: linear-gradient(
+    125deg,
+    #ffffff,
+    #eaf2ff,
+    #e4faf4
+  );
+  border: 1px solid #dce6f3;
+  overflow: hidden;
+}
+
+.techwatch-label {
+  display: inline-block;
+  margin-bottom: 20px;
+  color: var(--turquoise);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.techwatch-content h3 {
+  font-size: clamp(1.5rem, 3vw, 2.3rem);
+  margin-bottom: 15px;
+}
+
+.techwatch-content p {
+  max-width: 510px;
+}
+
+.techwatch-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin: 25px 0;
+}
+
+.techwatch-tags span {
+  padding: 7px 12px;
+  border-radius: 20px;
+  background: white;
+  color: var(--text);
+  font-size: 0.78rem;
+  font-weight: 600;
+  border: 1px solid var(--line);
+}
+
+/* VISUEL ANIMÉ */
+
+.techwatch-visual {
+  position: relative;
+  display: grid;
+  place-items: center;
+  min-height: 260px;
+  isolation: isolate;
+}
+
+.techwatch-center {
+  display: grid;
+  place-items: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 28px;
+  background: var(--blue);
+  color: white;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.1rem;
+  font-weight: 700;
+  box-shadow: 0 15px 35px rgba(40, 120, 240, 0.25);
+  z-index: 2;
+  animation: techwatch-float 4s ease-in-out infinite;
+}
+
+.techwatch-orbit {
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  border: 2px dashed rgba(40,120,240,.3);
+  border-radius: 50%;
+  animation: techwatch-rotate 25s linear infinite;
+}
+
+.orbit-two {
+  width: 245px;
+  height: 245px;
+  border-color: rgba(8,187,170,.25);
+  animation-direction: reverse;
+  animation-duration: 35s;
+}
+
+.techwatch-orbit::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -7px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--turquoise);
+}
+
+@keyframes techwatch-rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes techwatch-float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* MOBILE */
+
+@media (max-width: 720px) {
+  .techwatch-card {
+    grid-template-columns: 1fr;
+    padding: 28px;
+  }
+
+  .techwatch-visual {
+    min-height: 220px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .techwatch-center,
+  .techwatch-orbit {
+    animation: none;
+  }
+}
