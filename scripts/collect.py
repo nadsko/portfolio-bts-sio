@@ -1,0 +1,72 @@
+#!/usr/bin/env python3
+"""Collect RSS/Atom news into static JSON. Only fetches configured public feeds."""
+import json, re, hashlib, os
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urlparse
+import feedparser
+import requests
+from bs4 import BeautifulSoup
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / 'data' / 'news.json'
+FEEDS = [
+  ('Cybersécurité', 'CERT-FR', 'https://www.cert.ssi.gouv.fr/feed/'),
+  ('Cybersécurité', 'CERT-FR Alertes', 'https://www.cert.ssi.gouv.fr/alerte/feed/'),
+  ('IA', 'NVIDIA Developer', 'https://developer.nvidia.com/blog/feed/'),
+  ('IA', 'Hugging Face', 'https://huggingface.co/blog/feed.xml'),
+  ('Jeux vidéo', 'Unreal Engine', 'https://www.unrealengine.com/en-US/rss'),
+  ('Hardware', 'Tom’s Hardware', 'https://www.tomshardware.com/feeds/all'),
+  ('Acteurs tech', 'NVIDIA News', 'https://nvidianews.nvidia.com/rss'),
+  ('BTS SIO', 'GitHub Blog', 'https://github.blog/feed/'),
+  ('BTS SIO', 'Microsoft DevBlogs', 'https://devblogs.microsoft.com/feed/'),
+]
+
+def clean(value, limit=280):
+    content = BeautifulSoup(value or '', 'html.parser').get_text(' ', strip=True)
+    return re.sub(r'\s+', ' ', content)[:limit]
+
+def safeurl(url):
+    p = urlparse(url or '')
+    return url if p.scheme == 'https' and p.netloc else ''
+
+def main():
+    old = {}
+    if OUT.exists():
+        try: old = json.loads(OUT.read_text(encoding='utf-8'))
+        except (ValueError, OSError): pass
+    items = {x['id']: x for x in old.get('articles', []) if isinstance(x, dict) and 'id' in x}
+    outcomes=[]
+    for category, source, url in FEEDS:
+        try:
+            response = requests.get(url, headers={'User-Agent':'TechWatchPortfolio/1.0 (RSS reader)'}, timeout=18)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
+            if not feed.entries: raise ValueError('aucune entrée RSS/Atom')
+            count = 0
+            for entry in feed.entries[:20]:
+                link = safeurl(entry.get('link', ''))
+                if not link: continue
+                title = clean(entry.get('title', ''), 180)
+                if not title: continue
+                key = hashlib.sha256(link.encode()).hexdigest()[:16]
+                date = ''
+                for attr in ('published_parsed', 'updated_parsed'):
+                    value = entry.get(attr)
+                    if value:
+                        date = datetime(*value[:6], tzinfo=timezone.utc).isoformat()
+                        break
+                items[key] = {'id':key,'title':title,'summary':clean(entry.get('summary','')),
+                    'url':link,'category':category,'source':source,'date':date}
+                count += 1
+            outcomes.append({'source':source,'ok':True,'entries':count})
+        except (requests.RequestException, ValueError, OSError) as exc:
+            outcomes.append({'source':source,'ok':False,'error':str(exc)[:140]})
+    articles = sorted(items.values(),key=lambda a:a.get('date') or '',reverse=True)[:240]
+    now = datetime.now(timezone.utc).isoformat()
+    # Preserve last successful refresh if no feeds work.
+    updated = now if any(x['ok'] for x in outcomes) else old.get('updated_at')
+    OUT.write_text(json.dumps({'updated_at':updated,'articles':articles,'sources':outcomes},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    print(f'{len(articles)} articles ; {sum(x["ok"] for x in outcomes)}/{len(FEEDS)} flux OK')
+
+if __name__ == '__main__': main()
