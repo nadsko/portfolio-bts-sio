@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-10-27T12:06:11.246179+00:00",
+  "updated_at": "2026-10-27T17:58:21.579884+00:00",
   "articles": [
+    {
+      "id": "d44c747d4bb803d6",
+      "title": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture",
+      "summary": "The defense contractor aims to fully bring back laptop manufacturing on U.S. shores, with its first BlueChip laptop prototypes having 90% procurement cost coming from suppliers in the U.S. and other allied countries.",
+      "url": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T17:42:49+00:00"
+    },
+    {
+      "id": "5f0f60e19fa86ff2",
+      "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
+      "summary": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identified related activity under the codename “SHADOW-EARTH-79.” ",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T17:37:00+00:00"
+    },
+    {
+      "id": "1c5b51464767c2ad",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-27T17:16:52+00:00"
+    },
+    {
+      "id": "f4247e9fd2a272b2",
+      "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+      "summary": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX...",
+      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-27T17:00:00+00:00"
+    },
+    {
+      "id": "1d6c5c59e46e52b9",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-27T16:12:42+00:00"
+    },
+    {
+      "id": "73f1440d47c57bf1",
+      "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+      "summary": "As AI adoption expands globally, people across languages and cultures are using it in more aspects of their daily lives. General-purpose language models serve...",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-27T16:00:00+00:00"
+    },
+    {
+      "id": "0e62b0d0f4210d10",
+      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+      "summary": "Generating tokens faster starts with identifying what limits inference performance. In the batch-size-1 evaluation of Ling-3.0-flash from Inclusion AI on NVIDIA...",
+      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-27T15:00:00+00:00"
+    },
+    {
+      "id": "cc8f21d6ed3be69f",
+      "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
+      "summary": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases o",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T14:30:00+00:00"
+    },
+    {
+      "id": "43f6b3d8753d182b",
+      "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
+      "summary": "Samsung’s Portable SSD P9 is the new USB4 external drive to beat. It feels premium and performed very well in our testing. But you’ll have to pay a lot for it, or any similarly performing drive, these days.",
+      "url": "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "id": "d5f79e45869b47c2",
+      "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
+      "summary": "An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag motorists based on travel patterns, raising concerns that innocent drivers could be pulled over because an algorithm deemed their movements suspicious.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T13:53:32+00:00"
+    },
+    {
+      "id": "0b160cc74a1bd49a",
+      "title": "Walmart slashes $750 off this MSI RTX 5060 gaming laptop",
+      "summary": "A massive $750 discount at Walmart brings the price of MSI's Crosshair gaming laptop crashing down. RTX 5060 graphics and a bright 240Hz IPS display are just two of the standout features of this laptop.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T13:47:15+00:00"
+    },
+    {
+      "id": "a57c85eef36b71a8",
+      "title": "Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos",
+      "summary": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller.",
+      "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T13:34:43+00:00"
+    },
+    {
+      "id": "666869acac2e8425",
+      "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "summary": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T13:28:23+00:00"
+    },
+    {
+      "id": "91c6045772a04457",
+      "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit",
+      "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
+      "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T13:22:04+00:00"
+    },
+    {
+      "id": "89ec46798cb5f678",
+      "title": "Roblox accused of downloading 145GB of 3D assets, including adult content, for AI training purposes during scraping spree",
+      "summary": "Independent 3D modeling community Open3DLab has publicly claimed that a web crawler, attributed to Roblox, downloaded 145.5GB of its data, for what it assumes is for AI training purposes.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open3dlab-accuses-roblox-of-downloading-145gb-of-3d-assets-for-ai-training-purposes-automated-crawler-ignored-site-rules-to-grab-over-1-000-files-including-adult-content-during-scraping-spree",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T12:26:13+00:00"
+    },
     {
       "id": "b7feb9350bff8982",
       "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
@@ -63,6 +198,15 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-27T09:20:00+00:00"
+    },
+    {
+      "id": "08db9e7aa3100bf9",
+      "title": "Mutable Sample for runtime character customization—now updated for UE 5.8!",
+      "summary": "The Mutable toolset is now Production-Ready in Unreal Engine 5.8—and to celebrate, there’s a completely updated Mutable Sample. Download it today and start building characters your players can truly customize in real time.",
+      "url": "https://www.unrealengine.com/news/mutable-sample-for-runtime-character-customization-now-updated-for-ue-5-8",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-27T00:00:00+00:00"
     },
     {
       "id": "05e541d0d88f4fdd",
@@ -332,6 +476,96 @@
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "category": "IA",
       "source": "Hugging Face",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "d7937cdc86ab7b18",
+      "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "2e022119a505cae7",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "af8e3a91714e1307",
+      "title": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1368/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "c9a91c458384697e",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "96d352808bacd76e",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1375/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "b9d2a9b47cf945ab",
+      "title": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "f15ba8dcd5fd412f",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1374/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "00f94a8eb15a9f91",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1376/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "92d9983d37ada225",
+      "title": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "7e3ba132d707a21c",
+      "title": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1378/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-10-23T00:00:00+00:00"
     },
     {
