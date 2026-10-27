@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-27T17:58:21.579884+00:00",
+  "updated_at": "2026-10-27T22:10:46.528033+00:00",
   "articles": [
+    {
+      "id": "08b65e1468b74e86",
+      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+      "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads...",
+      "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-27T20:50:39+00:00"
+    },
+    {
+      "id": "eec13aaee82c4609",
+      "title": "Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating",
+      "summary": "Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI answers, so he now only uses in-person exams to see how well his students are doing in his classes.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-27T20:09:05+00:00"
+    },
     {
       "id": "d44c747d4bb803d6",
       "title": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture",
