@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-26T18:40:12.750570+00:00",
+  "updated_at": "2026-10-27T04:59:20.251899+00:00",
   "articles": [
+    {
+      "id": "05e541d0d88f4fdd",
+      "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+      "summary": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be on the way right now.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-26T18:50:28+00:00"
+    },
     {
       "id": "eed5417b6fdc37cf",
       "title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
