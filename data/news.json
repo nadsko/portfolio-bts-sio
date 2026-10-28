@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-28T12:47:43.863988+00:00",
+  "updated_at": "2026-10-28T22:31:59.681981+00:00",
   "articles": [
+    {
+      "id": "d3a830a559075685",
+      "title": "Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899",
+      "summary": "The computer is also lighter and has an updated speaker system.",
+      "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T17:15:39+00:00"
+    },
+    {
+      "id": "de303f1a7924abd7",
+      "title": "Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers",
+      "summary": "Malaysian customs seized 30 servers containing more than $12 million worth of advanced AI chips at Kuala Lumpur International Airport, as authorities investigate a suspected smuggling network linked to multiple previous seizures.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T17:02:14+00:00"
+    },
+    {
+      "id": "4aeaa8472780d0b6",
+      "title": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
+      "summary": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing appeared first on Microsoft for Developers .",
+      "url": "https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-28T16:59:00+00:00"
+    },
+    {
+      "id": "8d24f5677c199a45",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-28T16:09:28+00:00"
+    },
+    {
+      "id": "34902b30f790e3e6",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-10-28T16:07:40+00:00"
+    },
+    {
+      "id": "8acdd667e0942a63",
+      "title": "AI component hikes force the world's largest PC makers to return manufacturing capacity to China",
+      "summary": "PC manufacturing in China tends to be cheaper because of an established supply chain and workforce. Smaller Chinese suppliers are also winning orders by offering easier access to domestic chip manufacturers like CXMT.",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/ai-component-hikes-force-the-worlds-largest-pc-makers-to-return-manufacturing-capacity-to-china-brands-to-seek-lower-production-costs-and-efficiency-in-established-supply-chain",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T15:24:16+00:00"
+    },
+    {
+      "id": "4574f6e8720d29a3",
+      "title": "Amazon tells engineers to stop ‘tokenmaxxing’ to look productive",
+      "summary": "Amazon has published new engineering guidelines warning developers and managers against ‘tokenmaxxing,’ arguing that AI usage metrics are ‘deeply flawed’ unless tied to long-term outcomes. The move follows similar spending concerns at Uber and Accenture.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T15:13:48+00:00"
+    },
+    {
+      "id": "6583d09dc45bccba",
+      "title": "FCC rebuffs TP-Link again as it attempts to sell Wi-Fi 8 gear in the US",
+      "summary": "TP-Link just can’t seem to catch a break with the FCC, as it’s not under fire for exceeding power limits on its routers",
+      "url": "https://www.tomshardware.com/networking/routers/fcc-rebuffs-tp-link-again-as-it-attempts-to-sell-wi-fi-8-gear-in-the-us-fcc-alleges-inaccurate-documentation-and-out-of-spec-power-levels-for-routers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T15:07:35+00:00"
+    },
+    {
+      "id": "ec733f799e1aaee3",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-28T14:58:17+00:00"
+    },
+    {
+      "id": "466233b26d14ac78",
+      "title": "Corsair Warthog case review: A rugged, military-themed chassis with plenty of airflow",
+      "summary": "The military-inspired Warthog mid-tower borrows from Corsair’s Vengeance C70 and takes the military aesthetic up a couple of notches. Is the rugged look worth it?",
+      "url": "https://www.tomshardware.com/pc-components/pc-cases/corsair-warthog-case-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "id": "0b578a9b41fc98d9",
+      "title": "US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk",
+      "summary": "50 U.S. marines are joining a NATO mission to help protect and monitor undersea infrastructure in the Baltic Sea.",
+      "url": "https://www.tomshardware.com/tech-industry/us-marines-join-nato-mission-in-the-baltic-sea-to-protect-undersea-cables-from-sabotage-as-russia-continues-to-lurk-around-four-dozen-recon-and-intel-specialists-deployed-to-deter-seabed-threats",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T13:24:14+00:00"
+    },
+    {
+      "id": "039d438b82e4c5a6",
+      "title": "SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims",
+      "summary": "Solidigm, an American subsidiary of SK hynix, is in discussions about potentially investing $45 billion in a new flash chip factory that would be built in the United States.",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T13:01:21+00:00"
+    },
+    {
+      "id": "f006939d289bbad4",
+      "title": "Seagate's 16TB external HDD falls to 0.025 cents per GB at Newegg",
+      "summary": "Save $150 on this 16TB Seagate Expansion Desktop External HDD when you make use of this Newegg deal.",
+      "url": "https://www.tomshardware.com/pc-components/external-hdds/seagates-16tb-external-hdd-falls-to-0-025-cents-per-gb-at-newegg-this-storage-deal-is-usd50-cheaper-than-even-its-prime-day-sale-price",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T13:00:00+00:00"
+    },
     {
       "id": "21e11ec29090756d",
       "title": "Why native PC ports of console games are suddenly everywhere",
@@ -30,7 +147,7 @@
     },
     {
       "id": "e3a94afde9c5325d",
-      "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics — island has already completed flight simulations, now working towar",
+      "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics",
       "summary": "The island is building an autonomous system that would work with various drones, allowing it to extend the reach and endurance of its coast guard ships.",
       "url": "https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas",
       "category": "Hardware",
@@ -39,7 +156,7 @@
     },
     {
       "id": "e0f3607f9558101d",
-      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual",
+      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment",
       "summary": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
       "category": "Hardware",
@@ -57,7 +174,7 @@
     },
     {
       "id": "1b46ec79e44e83dc",
-      "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact' — seven isolation stages per port were chosen with 'listening comparisons,' u",
+      "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact'",
       "summary": "$4,700 audiophile-grade network hub promises a noise-free experience and music with \"emotional impact.\" Seven isolation stages per port were chosen with \"listening comparisons\"",
       "url": "https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons",
       "category": "Hardware",
@@ -72,6 +189,15 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-28T09:40:00+00:00"
+    },
+    {
+      "id": "b82999e3a9c0d036",
+      "title": "October’s Epic learning content: Mobile development in Unreal Engine",
+      "summary": "This month’s free learning content puts mobile development in Unreal Engine in the spotlight. Learn how to get started, optimize performance, and ship your game. Plus, find out how to create realistic characters for cross-platform experiences, and much more.",
+      "url": "https://www.unrealengine.com/learning/octobers-epic-learning-content-mobile-development-in-unreal-engine",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-10-28T00:00:00+00:00"
     },
     {
       "id": "08b65e1468b74e86",
@@ -299,6 +425,24 @@
       "date": "2026-10-27T00:00:00+00:00"
     },
     {
+      "id": "15792461026ab23b",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "1ba9011b153be930",
+      "title": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
       "id": "05e541d0d88f4fdd",
       "title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
       "summary": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be on the way right now.",
@@ -497,6 +641,87 @@
       "date": "2026-10-26T00:00:00+00:00"
     },
     {
+      "id": "5c3a2ad0f7f8ad3b",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-045 (26 octobre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'app",
+      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-045/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "1dfbe0eed94d4193",
+      "title": "Multiples vulnérabilités dans les produits Tenable (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1381/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "86af10fcce7b7f5d",
+      "title": "Vulnérabilité dans Citrix XenServer (26 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1384/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "f6f6171ec84838d1",
+      "title": "Multiples vulnérabilités dans Microsoft .Net (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1382/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "e9f4bbc5ac11cecf",
+      "title": "Multiples vulnérabilités dans les produits VMware (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "8768f1dc539d4a63",
+      "title": "Vulnérabilité dans Mattermost Server (26 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1380/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "e3cf9d92dd93afb1",
+      "title": "Vulnérabilité dans les produits Microsoft (26 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1383/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "04d0edc624bc8c32",
+      "title": "Multiples vulnérabilités dans les produits MongoDB (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1386/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
+      "id": "91d63d61cafc6f28",
+      "title": "Multiples vulnérabilités dans CPython (26 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1379/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-26T00:00:00+00:00"
+    },
+    {
       "id": "13089ca5ac7a2f9c",
       "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
       "summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of the S&P 500.",
@@ -654,6 +879,15 @@
       "title": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1378/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "id": "57eb6260f01b531d",
+      "title": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1377/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-23T00:00:00+00:00"
