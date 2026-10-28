@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-28T05:36:22.468800+00:00",
+  "updated_at": "2026-10-28T12:47:43.863988+00:00",
   "articles": [
+    {
+      "id": "21e11ec29090756d",
+      "title": "Why native PC ports of console games are suddenly everywhere",
+      "summary": "With dozens of titles unofficially ported to PC over the past few months, the big questions are: why is this now possible, and what changed?",
+      "url": "https://www.tomshardware.com/video-games/why-native-pc-ports-of-console-games-are-suddenly-everywhere-reverse-engineer-anything-gives-ai-agents-a-unified-toolkit-and-byte-for-byte-checks-keep-hallucinations-in-line",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "id": "a8890d0bc42679b3",
+      "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips",
+      "summary": "Palit denies news that Galax is going out of production.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-gpu-vendor-palit-denies-its-galax-factory-has-closed-due-to-a-shortage-of-chips-company-says-brand-continues-to-operate-as-usual",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T11:56:26+00:00"
+    },
+    {
+      "id": "3693cbbcc491b997",
+      "title": "Save $249 on 32GB of DDR5 with this 9800X3D parts bundle",
+      "summary": "Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi motherboard and 32GB of DDR5-6000 RAM, now just $1,094.99.",
+      "url": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T11:48:55+00:00"
+    },
+    {
+      "id": "e3a94afde9c5325d",
+      "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics — island has already completed flight simulations, now working towar",
+      "summary": "The island is building an autonomous system that would work with various drones, allowing it to extend the reach and endurance of its coast guard ships.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T11:30:00+00:00"
+    },
+    {
+      "id": "e0f3607f9558101d",
+      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual",
+      "summary": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T11:00:00+00:00"
+    },
+    {
+      "id": "0d78e5d28bec8826",
+      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
+      "summary": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.",
+      "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T10:30:00+00:00"
+    },
+    {
+      "id": "1b46ec79e44e83dc",
+      "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact' — seven isolation stages per port were chosen with 'listening comparisons,' u",
+      "summary": "$4,700 audiophile-grade network hub promises a noise-free experience and music with \"emotional impact.\" Seven isolation stages per port were chosen with \"listening comparisons\"",
+      "url": "https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "id": "3f8f285c3cd223c9",
+      "title": "Japan experiments with autonomous AI chainsaw-wielding robots",
+      "summary": "A scary-looking humanoid robot with a chainsaw arm was shown in action on Japanese TV news trimming tree branches that had begun encroaching on railway lines.",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-28T09:40:00+00:00"
+    },
     {
       "id": "08b65e1468b74e86",
       "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
