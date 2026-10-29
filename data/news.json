@@ -1,9 +1,90 @@
 {
-  "updated_at": "2026-10-29T12:56:21.917646+00:00",
+  "updated_at": "2026-10-29T22:43:38.436050+00:00",
   "articles": [
     {
+      "id": "aa2b5d53406bb43a",
+      "title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+      "summary": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T21:55:48+00:00"
+    },
+    {
+      "id": "b3b8067279117498",
+      "title": "Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit",
+      "summary": "The properties will supposedly house SpaceXSI staff while also giving a chance to those who don't want to live near the data center to sell their homes.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacex-buying-out-418-homes-near-flagship-ai-data-center-but-only-if-they-drop-participation-in-lawsuit-report-claims-the-company-is-targeting-an-entire-neighborhood-but-will-only-buy-from-people-who-dont-pursue-noise-pollution-complaints",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T15:40:20+00:00"
+    },
+    {
+      "id": "75767d8337bdcc35",
+      "title": "AI demand triggers massive PCB shortage for PC makers as order books full until 2030",
+      "summary": "The AI industry continues to gobble up manufacturing resources that were once dedicated to serving PC, smart device, and gadget makers. Inevitably, the PCB industry has started to feel its effects.",
+      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T15:25:25+00:00"
+    },
+    {
+      "id": "411c66dec517a32d",
+      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "summary": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...",
+      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-10-29T15:00:00+00:00"
+    },
+    {
+      "id": "0418ef33a16dea18",
+      "title": "US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims",
+      "summary": "The Sierra Club, one of the oldest environmental preservation organizations in the U.S., has now put forth an estimate that by 2030, U.S. data center buildouts will be outputting as much carbon dioxide as the entirety of Mexico.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T14:34:54+00:00"
+    },
+    {
+      "id": "7e0ee933a01cc0df",
+      "title": "Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available",
+      "summary": "It costs just as much to buy an Nvidia GeForce RTX 5080 right now as the launch price for the RTX 5090, with prices now at least two times higher for this high spec GPU.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T14:21:59+00:00"
+    },
+    {
+      "id": "655e81ae435d0d76",
+      "title": "HyperX Omen 35L review: A polished gaming PC for deep pockets",
+      "summary": "Premium styling, quiet operation, and impressive performance elevates the HyperX Omen 35L into competition with the best the market has to offer. But whether it's worth the money depends on which configuration you choose.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/hyperx-omen-35l-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "id": "e508e29ae812fe58",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-29T13:37:07+00:00"
+    },
+    {
+      "id": "a4474a1908f50a5c",
+      "title": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims",
+      "summary": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with Jensen Huang, is suspected of passing information to Beijing.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T13:04:23+00:00"
+    },
+    {
       "id": "03fbcc4430b9d01e",
-      "title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition — concerns raised over competition in AI and pressure on customers",
+      "title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition",
       "summary": "Nvidia's near $13 billion buyout of Hugging Face has come under scrutiny over concerns that it will impact competition in the AI space.",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
       "category": "Hardware",
@@ -12,7 +93,7 @@
     },
     {
       "id": "7e0f5b075acff5f4",
-      "title": "Tech whizz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic er",
+      "title": "Tech whiz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw",
       "summary": "Tech whizz' internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
       "category": "Hardware",
@@ -30,7 +111,7 @@
     },
     {
       "id": "7de21dd1342f4bb5",
-      "title": "Score a huge $1,250 saving on this Alienware gaming PC with an RTX 5070 Ti and 32GB DDR5 right now — big Newegg price drop means you can grab this 4K-ready rig with a 24-core Intel",
+      "title": "Score a huge $1,250 saving on this Alienware gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
       "summary": "You can save $1,250 on this Alienware Aurora gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM, now priced at just $2,599.99.",
       "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-250-saving-on-this-alienware-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-big-newegg-price-drop-means-you-can-grab-this-4k-ready-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-599-99",
       "category": "Hardware",
@@ -39,7 +120,7 @@
     },
     {
       "id": "82b8035be55238c5",
-      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years",
+      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand",
       "summary": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage.",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
       "category": "Hardware",
@@ -66,7 +147,7 @@
     },
     {
       "id": "8491748c911f3e75",
-      "title": "Fake PS5 emulators are being used to steal gamers' passwords — two well-known GitHub repos, including popular AnyPS5, get hit, infecting gamers' computers with password-scraping ma",
+      "title": "Fake PS5 emulators are being used to steal gamers' passwords",
       "summary": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit",
       "category": "Hardware",
@@ -105,6 +186,24 @@
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
       "summary": "",
       "url": "https://huggingface.co/blog/anydecisionmodel",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "718617961cab3abc",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "b6b30743068c2627",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "",
+      "url": "https://huggingface.co/blog/mistral-large4",
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-10-29T00:00:00+00:00"
@@ -305,6 +404,42 @@
       "url": "https://www.unrealengine.com/learning/octobers-epic-learning-content-mobile-development-in-unreal-engine",
       "category": "Jeux vidéo",
       "source": "Unreal Engine",
+      "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "id": "8719296264c78b89",
+      "title": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "id": "186c251c81e59845",
+      "title": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "id": "8ebc1293e31cede4",
+      "title": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "id": "344f06e9b6777a88",
+      "title": "Vulnérabilité dans CPython (28 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-10-28T00:00:00+00:00"
     },
     {
@@ -546,6 +681,78 @@
       "title": "Multiples vulnérabilités dans GLPI (27 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et une injection de code indirecte à distance (XSS).",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1389/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "f53463f637a1e2fc",
+      "title": "Multiples vulnérabilités dans les produits Nextcloud (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1392/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "b350e7cab6b47e55",
+      "title": "Multiples vulnérabilités dans les produits Moxa (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1393/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "87423683fdff1bc2",
+      "title": "Vulnérabilité dans les produits Palo Alto Networks (27 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1396/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "f9380f8b279a9b1d",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1394/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "9e20288c49296945",
+      "title": "Multiples vulnérabilités dans les produits Apple (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données. Apple indique que la vulnérabili",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1387/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "b466c7711cd95800",
+      "title": "Multiples vulnérabilités dans Tenable Network Monitor (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1390/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "d3e97537045330f2",
+      "title": "Vulnérabilité dans Mattermost Server (27 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1388/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-27T00:00:00+00:00"
+    },
+    {
+      "id": "3b9f8ecce0da12b0",
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (27 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1391/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-27T00:00:00+00:00"
