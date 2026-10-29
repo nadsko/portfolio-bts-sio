@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-29T05:43:18.237471+00:00",
+  "updated_at": "2026-10-29T12:56:21.917646+00:00",
   "articles": [
+    {
+      "id": "03fbcc4430b9d01e",
+      "title": "Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition — concerns raised over competition in AI and pressure on customers",
+      "summary": "Nvidia's near $13 billion buyout of Hugging Face has come under scrutiny over concerns that it will impact competition in the AI space.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T12:49:19+00:00"
+    },
+    {
+      "id": "7e0f5b075acff5f4",
+      "title": "Tech whizz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic er",
+      "summary": "Tech whizz' internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T12:41:14+00:00"
+    },
+    {
+      "id": "066d06571f9fed13",
+      "title": "Our first step at defining a CPU benchmark for agentic AI",
+      "summary": "Over the past six months, CPUs have taken center stage as agentic AI workloads evolve. Here’s our first attempt at trying to measure CPU performance when running agentic workloads.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T12:20:00+00:00"
+    },
+    {
+      "id": "7de21dd1342f4bb5",
+      "title": "Score a huge $1,250 saving on this Alienware gaming PC with an RTX 5070 Ti and 32GB DDR5 right now — big Newegg price drop means you can grab this 4K-ready rig with a 24-core Intel",
+      "summary": "You can save $1,250 on this Alienware Aurora gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM, now priced at just $2,599.99.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-250-saving-on-this-alienware-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-big-newegg-price-drop-means-you-can-grab-this-4k-ready-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-599-99",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:55:45+00:00"
+    },
+    {
+      "id": "82b8035be55238c5",
+      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years",
+      "summary": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:40:00+00:00"
+    },
+    {
+      "id": "1604c64fe7f88183",
+      "title": "Save $234 on 32GB of DDR5 RAM with this 3-item AM5 Newegg bundle",
+      "summary": "This Newegg AM5 combo deal is $234 off. Priced at only $1,069, you get a Ryzen7 9800X3D, X870E Aorus Elite Wifi7 board, 32GB of G.Skill DDR5-6000 RAM and a free MSI AIO cooler.",
+      "url": "https://www.tomshardware.com/pc-components/save-usd234-on-32gb-of-ddr5-ram-with-this-four-item-am5-newegg-bundle-score-g-skill-trident-z5-neox-ram-the-venerable-ryzen-7-9800x3d-processor-gigabyte-x870e-aorus-elite-wifi7-motherboard-and-a-free-240mm-aio-for-only-usd1-069",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:31:57+00:00"
+    },
+    {
+      "id": "0a14b4446137eeee",
+      "title": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers",
+      "summary": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:30:00+00:00"
+    },
+    {
+      "id": "8491748c911f3e75",
+      "title": "Fake PS5 emulators are being used to steal gamers' passwords — two well-known GitHub repos, including popular AnyPS5, get hit, infecting gamers' computers with password-scraping ma",
+      "summary": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:20:00+00:00"
+    },
+    {
+      "id": "c1c3becbb64fc1a6",
+      "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work",
+      "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T11:00:00+00:00"
+    },
+    {
+      "id": "6fd955ca2b24555b",
+      "title": "GitHub says massive influx of AI-generated code required extra 4 million CPU cores and 160 petabytes of storage to manage",
+      "summary": "Agentic AI led to a sixfold year-on-year influx of new code at GitHub, leading the company to add 4 million CPU cores and 160PB of storage to its datacenters",
+      "url": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T10:30:00+00:00"
+    },
+    {
+      "id": "91071756db1c218e",
+      "title": "Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras",
+      "summary": "Dayton, MN's city council removed Flock cameras and canceled its contract in August, but Flock reinstalled cameras anyway, almost a month after the program's suspension.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-citys-orders-not-to-reinstall-ai-surveillance-cameras-citizens-complain-after-spotting-two-cameras-despite-the-city-canceling-its-contract",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-29T10:00:00+00:00"
+    },
+    {
+      "id": "6394645bd5105adc",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
     {
       "id": "d3a830a559075685",
       "title": "Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899",
