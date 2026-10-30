@@ -1,9 +1,108 @@
 {
-  "updated_at": "2026-10-30T05:42:33.199216+00:00",
+  "updated_at": "2026-10-30T12:49:17.599462+00:00",
   "articles": [
     {
+      "id": "d6802ac164b210a4",
+      "title": "Does ‘eval’ in the workspace path change what your agent does?",
+      "summary": "Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The agent sees that path on every turn, in the ",
+      "url": "https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-10-30T12:49:14+00:00"
+    },
+    {
+      "id": "069d4b26f876e01c",
+      "title": "5 years’ worth of salary in bonuses given to 700 eligible Micron workers as company continues to battle union",
+      "summary": "Eligible employees get an annual performance bonus, a mass-production bonus, and a one-time appreciation bonus. A quarterly profit bonus has also been introduced starting January 2027.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/5-years-worth-of-salary-in-bonuses-given-to-700-eligible-micron-workers-as-company-continues-to-battle-union-more-than-4-300-production-line-staff-to-receive-three-bonuses-of-more-than-usd31-000-plus-quarterly-profit-bonuses-starting-next-year",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T11:44:03+00:00"
+    },
+    {
+      "id": "3064f6be408c5d02",
+      "title": "Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs",
+      "summary": "An Intel leaker revealed Moon Lake chip as a likely replacement for N-series SoCs with four lower-power-efficiency cores, no performance cores, and a 6-watt TDP",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T11:40:00+00:00"
+    },
+    {
+      "id": "8db759a7708af251",
+      "title": "Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months",
+      "summary": "Cisco President Jeetu Patel has handed a 27-year-old ex-startup founder a huge job to rewrite 98% of Cisco's legacy code within 24 months.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T11:26:56+00:00"
+    },
+    {
+      "id": "94fa1947b5ddc252",
+      "title": "Former esports commentator builds his own custom mouse shell generator for 3D printing that doesn’t use AI",
+      "summary": "A Counter-Strike commentator just showed the demo of his customizable gaming mouse shell generator for 3D printing that detects key components like mouse buttons, the scroll wheel, and screw hole locations without using AI.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/esports-commentator-builds-his-own-custom-mouse-shell-generator-for-3d-printing-that-doesnt-use-ai-mausstudio-automatically-detects-buttons-screwholes-and-sensor-locations",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T11:20:00+00:00"
+    },
+    {
+      "id": "d977e76b24ef203e",
+      "title": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
+      "summary": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T11:00:00+00:00"
+    },
+    {
+      "id": "97274cd24d475ca4",
+      "title": "Grab a Nintendo Switch 2 with a free game for as low as $459 in this limited-time deal",
+      "summary": "Grab the Nintendo Switch 2 with a free digital game for as low as $459 for a limited-time only at Woot! if you use coupon code SAVETOBER.",
+      "url": "https://www.tomshardware.com/video-games/nintendo/grab-a-nintendo-switch-2-with-a-free-game-for-as-low-as-usd459-in-this-limited-time-deal-coupon-code-knocks-usd60-off-sale-price-for-new-woot-customers-usd40-for-existing-ones",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T10:44:01+00:00"
+    },
+    {
+      "id": "762dd873dde29d59",
+      "title": "Google hit with criminal probe over unapproved AI data center deforestation",
+      "summary": "A criminal investigation into the environmental damage caused by Google’s Finnish subsidiary has been launched.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T10:40:00+00:00"
+    },
+    {
+      "id": "3b04785d21674a6b",
+      "title": "Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen",
+      "summary": "Binance withdrawals frozen after thieves run off with $5.6 billion in crypto — firm says it will cover losses as stablecoin networks move to freeze $2.4b in stolen assets",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-withdrawals-frozen-after-thieves-steal-usd5-6-billion-in-crypto-in-record-breaking-cryptocurrency-heist-firm-says-it-will-cover-losses-as-stablecoin-networks-move-to-freeze-usd2-4b-in-stolen-assets",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T10:31:11+00:00"
+    },
+    {
+      "id": "77c97bdae5bd5ef8",
+      "title": "South Korea clamps down on Tesla drivers for unlocking restricted full self-driving feature, $15,000 fines and prison possible sentences",
+      "summary": "South Korean police have booked 80 Tesla owners for bypassing regional restrictions on Full Self-Driving (FSD), seizing 21 devices allegedly used to unlock the driver-assistance software. Some suspects reportedly built their own hardware using information from GitHub, while other",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/south-korea-clamps-down-on-tesla-drivers-for-unlocking-restricted-fsd-usd15-000-fines-and-prison-possible-sentences-suspects-imported-hardware-from-europe-and-china-then-traded-tips-on-concealing-activation-logs",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T10:20:00+00:00"
+    },
+    {
+      "id": "5af964818beb9f66",
+      "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months",
+      "summary": "A two-week shutdown of Intel's Fab 28 in Israel will affect server CPU shipments for two consecutive quarters.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-30T09:30:00+00:00"
+    },
+    {
       "id": "aa2b5d53406bb43a",
-      "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CP",
+      "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES",
       "summary": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
       "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
       "category": "Hardware",
@@ -2061,60 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR Alertes",
       "date": "2024-08-09T00:00:00+00:00"
-    },
-    {
-      "id": "56be3e1be1bede9f",
-      "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-      "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2024-07-01T00:00:00+00:00"
-    },
-    {
-      "id": "cba00091cf5352ac",
-      "title": "[MàJ] Vulnérabilité dans les produits Check Point (30 mai 2024)",
-      "summary": "[Mise à jour du 31 mai 2024] Des preuves de concept sont désormais disponibles publiquement sur Internet. De plus, l'éditeur indique avoir détecté des tentatives de compromission à partir du 7 avril 2024. **[Publication Initiale]** Une vulnérabilité a été découverte dans les prod",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-008/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2024-05-30T00:00:00+00:00"
-    },
-    {
-      "id": "bd07046854fba600",
-      "title": "Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-      "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées.",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2024-04-25T00:00:00+00:00"
-    },
-    {
-      "id": "197ed00bacdeb488",
-      "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
-      "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information ",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2024-04-12T00:00:00+00:00"
-    },
-    {
-      "id": "91477cc43d41948e",
-      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
-      "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette ",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2024-02-09T00:00:00+00:00"
-    },
-    {
-      "id": "e16e294163e09d07",
-      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
-      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2015-ALE-009/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR Alertes",
-      "date": "2015-07-24T00:00:00+00:00"
     }
   ],
   "sources": [
