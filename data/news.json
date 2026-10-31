@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-31T05:35:33.746156+00:00",
+  "updated_at": "2026-10-31T12:20:43.875517+00:00",
   "articles": [
+    {
+      "id": "fe6dc9f8b41dc8ae",
+      "title": "Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "id": "5ad59a5a0b357034",
+      "title": "Veteran Microsoft engineer makes his own RAM from scratch using AI",
+      "summary": "Expensive memory forces former Microsoft engineer to make his own — Dave Plummer makes PDP-11 RAM from scratch",
+      "url": "https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T11:40:00+00:00"
+    },
+    {
+      "id": "041a6c7ac3eebec0",
+      "title": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
+      "summary": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T11:20:00+00:00"
+    },
+    {
+      "id": "2cd10be7e1905175",
+      "title": "3D-printed ghost guns may now have a way to be traced to their source",
+      "summary": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
+      "url": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "id": "5a7d7e5c7139cf9e",
+      "title": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
+      "summary": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
+      "url": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T10:00:00+00:00"
+    },
     {
       "id": "1f766ec7b68d14d4",
       "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
@@ -2115,51 +2160,6 @@
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-10-13T17:05:48+00:00"
-    },
-    {
-      "id": "b3dd2a0f914f65ea",
-      "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-      "summary": "NVIDIA is making the full NVIDIA Run:ai platform available as open source software, giving customers, developers, and ecosystem partners access to...",
-      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-13T14:19:40+00:00"
-    },
-    {
-      "id": "e9232f52a1b103a1",
-      "title": "Fuse Games uses UE5 to make a fast and authentic Star Wars ™ racing game",
-      "summary": "Star Wars: Galactic Racer™ blends high-speed racing with a roguelite twist. Discover how Fuse Games used Unreal Engine 5’s Lumen, Nanite, and World Partition to create striking visuals that do justice to the game’s innovative gameplay and worldbuilding.",
-      "url": "https://www.unrealengine.com/developer-interviews/fuse-games-uses-ue5-to-make-a-fast-and-authentic-star-wars-racing-game",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-13T00:00:00+00:00"
-    },
-    {
-      "id": "23216cfbe10c8c92",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-12T17:43:59+00:00"
-    },
-    {
-      "id": "3ea8663ef4cdebc3",
-      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
-      "summary": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...",
-      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-12T16:00:54+00:00"
-    },
-    {
-      "id": "be5e504cf45b3d8c",
-      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
-      "summary": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don't. The post Introducing the Agent Experien",
-      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
-      "category": "BTS SIO",
-      "source": "Microsoft DevBlogs",
-      "date": "2026-10-09T09:44:25+00:00"
     }
   ],
   "sources": [
