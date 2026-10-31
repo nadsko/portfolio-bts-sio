@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-10-31T12:20:43.875517+00:00",
+  "updated_at": "2026-10-31T21:30:04.767631+00:00",
   "articles": [
     {
+      "id": "02a5615ca51a1497",
+      "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off",
+      "summary": "The Bambu Lab P1S earned our Editor's Choice recognition in testing, and this discounted bundle gives you access to its high-speed printing capabilities alongside the convenience of the AMS color printing system.",
+      "url": "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T19:19:50+00:00"
+    },
+    {
+      "id": "a44b6c89ce0dbd9b",
+      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
+      "summary": "French lawmakers have approved an amendment proposing a €0.055-per-gigabyte tax on digital content delivered to internet subscribers in France. The measure could generate an estimated €10 billion annually, with companies including Google, Meta, Netflix and potentially TikTok amon",
+      "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T16:11:40+00:00"
+    },
+    {
+      "id": "6c31fdbfab84c36d",
+      "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
+      "summary": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going to class.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T15:37:41+00:00"
+    },
+    {
+      "id": "4c854b587ab828fb",
+      "title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199",
+      "summary": "Pick up a bargain 3D printer, thanks to these big discounts on resin and filament 3DP models from big names like Creality, Elegoo, Prusa and more.",
+      "url": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T14:00:00+00:00"
+    },
+    {
+      "id": "c4820ebfda4811da",
+      "title": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
+      "summary": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs, and a dated BIOS keep it from standing out, even at the lower price.",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T14:00:00+00:00"
+    },
+    {
+      "id": "c386da02453c5529",
+      "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
+      "summary": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop, with Anthropic token falling 77% in under five months.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T13:49:09+00:00"
+    },
+    {
+      "id": "97f87a87fd7b5f5c",
+      "title": "This week in Tom's Hardware Premium: October 31, 2026",
+      "summary": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week",
+      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T13:30:00+00:00"
+    },
+    {
+      "id": "2a593f2dab5a11b0",
+      "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+      "summary": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T13:00:00+00:00"
+    },
+    {
+      "id": "5f0b9bcb37ac1ca0",
+      "title": "Developer builds a complete Intel 486 PC emulator in a browser",
+      "summary": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T12:40:00+00:00"
+    },
+    {
+      "id": "eb5b416ace686049",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "summary": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-10-31T12:20:00+00:00"
+    },
+    {
       "id": "fe6dc9f8b41dc8ae",
-      "title": "Startup uses AI agent to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+      "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
       "summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
       "category": "Hardware",
@@ -2070,96 +2160,6 @@
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-10-15T09:08:45+00:00"
-    },
-    {
-      "id": "ff0cf28c5d753057",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "eb67409897ed2136",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/flux-3",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "cee3c687eb6d813b",
-      "title": "SILENT HILL: Townfall delivers haunting psychological horror at its very best with UE5",
-      "summary": "Discover how UE5 tools including Lumen, Nanite, and MetaHuman helped Screen Burn Interactive craft complex, beautifully rendered scenes and compelling characters for chilling, slow-burn survival horror SILENT HILL: Townfall .",
-      "url": "https://www.unrealengine.com/developer-interviews/silent-hill-townfall-delivers-haunting-psychological-horror-at-its-very-best-with-ue5",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "3cbafd4338038f81",
-      "title": "GitHub availability report: September 2026",
-      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-14T20:01:35+00:00"
-    },
-    {
-      "id": "f919ddb4bb1767a4",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The Gi",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-14T19:11:33+00:00"
-    },
-    {
-      "id": "aa4e18d41776f954",
-      "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
-      "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes...",
-      "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-14T16:10:45+00:00"
-    },
-    {
-      "id": "98f52657a01ad848",
-      "title": "UEFN Professional Bootcamp: Prepare for Unreal Engine 6",
-      "summary": "With Epic’s roadmap bringing together Unreal Engine and UEFN in UE6, build your UEFN skills with our free UEFN Professional Bootcamp for games industry pros. Register today to create and publish a playable Fortnite island and strengthen your portfolio.",
-      "url": "https://www.unrealengine.com/news/uefn-professional-bootcamp-prepare-for-unreal-engine-6",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-14T00:00:00+00:00"
-    },
-    {
-      "id": "769f877f10eac4a8",
-      "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
-      "summary": "Enterprise applications have become increasingly demanding. Agentic AI has compounded the need for vast amounts of enterprise data with frequent, complex...",
-      "url": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-13T21:33:21+00:00"
-    },
-    {
-      "id": "7a679d710e8c186b",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-13T17:56:33+00:00"
-    },
-    {
-      "id": "53911f98c21c784f",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-13T17:05:48+00:00"
     }
   ],
   "sources": [
