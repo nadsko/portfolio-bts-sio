@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-01T05:57:50.505533+00:00",
+  "updated_at": "2026-11-01T13:16:01.755031+00:00",
   "articles": [
+    {
+      "id": "592b5e385b9e3381",
+      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case — AI-assisted follow-up finds a backdoor and hardcoded keys in other ‘secure’ USB products",
+      "summary": "Lenovo’s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other ‘secure’ USB products.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T13:00:00+00:00"
+    },
+    {
+      "id": "6e57dee758dbd144",
+      "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’",
+      "summary": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T12:33:52+00:00"
+    },
+    {
+      "id": "23782db5746b3277",
+      "title": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
+      "summary": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T12:30:00+00:00"
+    },
+    {
+      "id": "280cc759cd0986e7",
+      "title": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
+      "summary": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
+      "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T12:00:00+00:00"
+    },
+    {
+      "id": "4dde0a3b923349ec",
+      "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
+      "summary": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
+      "url": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T11:30:00+00:00"
+    },
+    {
+      "id": "ede9dc4f9e82738f",
+      "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
+      "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T11:00:00+00:00"
+    },
     {
       "id": "02a5615ca51a1497",
       "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off",
@@ -12,7 +66,7 @@
     },
     {
       "id": "a44b6c89ce0dbd9b",
-      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
+      "title": "French lawmakers add $11.2 billion internet tax based on traffic usage to budget, costs $0.06 per gigabyte of content accessed",
       "summary": "French lawmakers have approved an amendment proposing a €0.055-per-gigabyte tax on digital content delivered to internet subscribers in France. The measure could generate an estimated €10 billion annually, with companies including Google, Meta, Netflix and potentially TikTok amon",
       "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
       "category": "Hardware",
@@ -2106,60 +2160,6 @@
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "7a377f4a7dd617b3",
-      "title": "Check out the top Fortnite islands from the UEFN Student Bootcamp",
-      "summary": "The UEFN Student Bootcamp has wrapped! Watch this sizzle reel of some of the best Fortnite islands created during this intensive three-week course, which was completed by over 300 students.",
-      "url": "https://www.unrealengine.com/learning/check-out-the-top-fortnite-islands-from-the-uefn-student-bootcamp",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "a47e85dd89b9a253",
-      "title": "The next developer interface is ambient intelligence",
-      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-15T19:39:27+00:00"
-    },
-    {
-      "id": "bc3eb8977fc1d5b5",
-      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-      "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,...",
-      "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-15T18:01:00+00:00"
-    },
-    {
-      "id": "da7a313328786ce1",
-      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
-      "summary": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on...",
-      "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-15T18:00:01+00:00"
-    },
-    {
-      "id": "377b59f097432230",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-15T18:00:00+00:00"
-    },
-    {
-      "id": "39052ad94a8a76cc",
-      "title": "Apertus 1.5 Release Notes",
-      "summary": "",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-15T09:08:45+00:00"
     }
   ],
   "sources": [
