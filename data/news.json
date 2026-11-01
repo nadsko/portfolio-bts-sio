@@ -1,9 +1,126 @@
 {
-  "updated_at": "2026-11-01T13:16:01.755031+00:00",
+  "updated_at": "2026-11-01T21:58:54.459328+00:00",
   "articles": [
     {
+      "id": "9a97986aa28bfe34",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-01T21:36:00+00:00"
+    },
+    {
+      "id": "95d040dc513b3e31",
+      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one ",
+      "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T21:00:00+00:00"
+    },
+    {
+      "id": "757256e5e05fe9e5",
+      "title": "GOG explores reviving physical PC game releases — digital storefront needs publisher approvals, has to figure out the logistics and legal challenges",
+      "summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
+      "url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T18:45:00+00:00"
+    },
+    {
+      "id": "919fdfbe610a4d04",
+      "title": "Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that's not often on sale",
+      "summary": "Snag a Nintendo Switch 2 for only $469 while stocks last — $30 off a system that's not often on sale",
+      "url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T18:09:28+00:00"
+    },
+    {
+      "id": "c6b67598f92e23bb",
+      "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
+      "summary": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T15:53:45+00:00"
+    },
+    {
+      "id": "71ca15f94832530a",
+      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "summary": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T15:05:00+00:00"
+    },
+    {
+      "id": "0aeea75e1bf4e0ae",
+      "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+      "summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T15:00:00+00:00"
+    },
+    {
+      "id": "38559a6891f71240",
+      "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
+      "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
+      "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T15:00:00+00:00"
+    },
+    {
+      "id": "0ac1df0fdc39c8bb",
+      "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
+      "summary": "Strike an early bargain in Bambu Lab's Black Friday sale. Running until December 1st, save up to $300 on their flagship 3D printer.",
+      "url": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T14:30:00+00:00"
+    },
+    {
+      "id": "d30b23d2ea82ea20",
+      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, pu",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T14:21:23+00:00"
+    },
+    {
+      "id": "ec05ed24c3766117",
+      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+      "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "id": "d541cfea2c2cc3af",
+      "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
+      "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T13:55:26+00:00"
+    },
+    {
+      "id": "327c247bb55f0506",
+      "title": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
+      "summary": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-01T13:30:00+00:00"
+    },
+    {
       "id": "592b5e385b9e3381",
-      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case — AI-assisted follow-up finds a backdoor and hardcoded keys in other ‘secure’ USB products",
+      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
       "summary": "Lenovo’s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other ‘secure’ USB products.",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
       "category": "Hardware",
@@ -2043,123 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "ae1f78ce4cf7a1c3",
-      "title": "Vulnérabilité dans Traefik (21 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1356/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "2cb53d7885887934",
-      "title": "Multiples vulnérabilités dans Oracle Systems (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1353/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "0f4de67236acef69",
-      "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "summary": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "806b1f92932cb664",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-20T16:05:03+00:00"
-    },
-    {
-      "id": "5e5f2403446d1e3e",
-      "title": "Can a local git remote replace GitHub in your agent eval?",
-      "summary": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The post Can a local git remote replace GitHub in ",
-      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
-      "category": "BTS SIO",
-      "source": "Microsoft DevBlogs",
-      "date": "2026-10-20T14:53:27+00:00"
-    },
-    {
-      "id": "39e60f901a735303",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "41fb25a47d12d204",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "c2b4b68d7e0027f0",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "5e09805dda87945d",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-19T18:47:22+00:00"
-    },
-    {
-      "id": "be58f6497da33a85",
-      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-      "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to...",
-      "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-19T17:00:00+00:00"
-    },
-    {
-      "id": "5c52b7d34becd1cc",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-19T00:00:00+00:00"
-    },
-    {
-      "id": "b4f80026218d1197",
-      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-      "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
-      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-16T17:00:00+00:00"
-    },
-    {
-      "id": "c9a6184923cc1a58",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-16T00:00:00+00:00"
     }
   ],
   "sources": [
