@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:58:54.459328+00:00",
+  "updated_at": "2026-11-02T05:57:28.935792+00:00",
   "articles": [
     {
       "id": "9a97986aa28bfe34",
@@ -12,7 +12,7 @@
     },
     {
       "id": "95d040dc513b3e31",
-      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one ",
+      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
       "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
       "category": "Hardware",
@@ -21,7 +21,7 @@
     },
     {
       "id": "757256e5e05fe9e5",
-      "title": "GOG explores reviving physical PC game releases — digital storefront needs publisher approvals, has to figure out the logistics and legal challenges",
+      "title": "GOG explores reviving physical PC game releases",
       "summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
       "url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
       "category": "Hardware",
