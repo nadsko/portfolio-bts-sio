@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-11-02T05:57:28.935792+00:00",
+  "updated_at": "2026-11-02T15:42:50.613245+00:00",
   "articles": [
+    {
+      "id": "1e7e647af43d58e8",
+      "title": "'America hates data centers' — New data highlights public sentiment",
+      "summary": "A new website seeks to distill over 10,000 public comments about data centers in the community across more than 410 local governments, and the consensus is that people don't like them one bit.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T15:19:12+00:00"
+    },
+    {
+      "id": "816da7d57efab0a9",
+      "title": "Gamer's ASUS TUF monitor blocks bullet fired through wall during Call of Duty session — says 280Hz monitor is 'the best $280 I ever spent'",
+      "summary": "A Redditor was playing Call of Duty when they heard gunfire outside their home. After hitting the deck, they discovered that their monitor had potentially saved their life.",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T14:34:50+00:00"
+    },
+    {
+      "id": "545d8840bc07f01c",
+      "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
+      "summary": "NVIDIA is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. NVIDIA has rotated the affected keys ",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+      "id": "e6afbecb49194b69",
+      "title": "Apple finally has a touchscreen MacBook. Why now?",
+      "summary": "Apple is introducing a touchscreen laptop in the MacBook Pro with a PROLED XDR Display. Here's where it falls in the long timeline of touchscreen laptops.",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T14:00:00+00:00"
+    },
+    {
+      "id": "3ef7b0fda6706915",
+      "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
+      "summary": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T13:30:00+00:00"
+    },
+    {
+      "id": "3dcc877d6e009ff8",
+      "title": "Google data center wins approval in Minnesota after protests delay council vote twice",
+      "summary": "Google’s proposed Hermantown data center has cleared a major approval hurdle after the city council unanimously backed the project on October 30.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T13:00:00+00:00"
+    },
+    {
+      "id": "b639e3a472b10bbd",
+      "title": "Triple your Nintendo Switch 2's storage for just $99",
+      "summary": "A 34% price cut at Amazon means you can get the Samsung P9 512GB microSD Express card for the Nintendo Switch 2 for just $99.99 right now.",
+      "url": "https://www.tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T12:54:57+00:00"
+    },
+    {
+      "id": "cba10c8fd123caea",
+      "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures",
+      "summary": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T12:41:54+00:00"
+    },
+    {
+      "id": "fdefa8ea74a47a25",
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+      "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T12:30:00+00:00"
+    },
+    {
+      "id": "6aac99b9309e0b64",
+      "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
+      "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T12:11:21+00:00"
+    },
+    {
+      "id": "cc6077e7bc7f372f",
+      "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution",
+      "summary": "SpaceX loses latest legal fight over xAI's gas-powered data centers in Mississippi — court rejects arguments that mobile turbines are exempt from air permits",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T12:00:00+00:00"
+    },
+    {
+      "id": "bacbd34198341b06",
+      "title": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+      "summary": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T11:52:11+00:00"
+    },
+    {
+      "id": "7d33acf85a86e5bc",
+      "title": "Sony's final 4K Blu-ray player listed as out of stock in Japan, firm may be preparing to abandon standalone players",
+      "summary": "Sony may be preparing to abandon the standalone 4K Blu-ray player market after retailers in Japan reportedly stopped expecting new shipments of its final remaining model, the UBP-X700K. The company has not confirmed a worldwide withdrawal, and the player remains listed in the U.S",
+      "url": "https://www.tomshardware.com/video-games/playstation/sonys-final-4k-blu-ray-player-listed-as-out-of-stock-in-japan-firm-may-be-preparing-to-abandon-standalone-players-retailers-reportedly-told-not-to-expect-new-stock-of-its-remaining-model",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T11:30:00+00:00"
+    },
+    {
+      "id": "9d51cf9bd8e5fa8a",
+      "title": "Military explores commercial 5G networks for enemy drone defense",
+      "summary": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+      "url": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T11:00:00+00:00"
+    },
+    {
+      "id": "3158ea4b10397420",
+      "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+      "summary": "A second cyberattack has struck supermarket freezers across Europe.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-02T10:49:27+00:00"
+    },
     {
       "id": "9a97986aa28bfe34",
       "title": "Game Off 2026: The theme is SHIFT",
@@ -542,6 +677,33 @@
       "date": "2026-10-30T09:30:00+00:00"
     },
     {
+      "id": "ccc9af9289d0fa29",
+      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+      "id": "dcef837646135d3a",
+      "title": "Multiples vulnérabilités dans les produits Apple (30 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1421/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
+      "id": "fd5e3d0ba5453b51",
+      "title": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-30T00:00:00+00:00"
+    },
+    {
       "id": "aa2b5d53406bb43a",
       "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES",
       "summary": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
@@ -800,6 +962,69 @@
       "url": "https://www.unrealengine.com/ue-devs-can-now-choose-to-train-ai-models-on-their-projects",
       "category": "Jeux vidéo",
       "source": "Unreal Engine",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "a865ada3f31a048a",
+      "title": "Multiples vulnérabilités dans PostgreSQL Anonymizer (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL Anonymizer. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1413/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "5017b08b824e533b",
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "9f215bd0065c1ba7",
+      "title": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "496f5f14e3aecab6",
+      "title": "Multiples vulnérabilités dans WordPress (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1420/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "caf69127b5a7eef5",
+      "title": "Multiples vulnérabilités dans Apache Kafka (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Kafka. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1415/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "b0e4d52680a49c71",
+      "title": "Vulnérabilité dans les produits ESET (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1416/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "4c56348691e0bc67",
+      "title": "Multiples vulnérabilités dans Foxit Online Services (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Foxit Online Services. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une falsification de requêtes côté serveur (SSRF).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1418/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-10-29T00:00:00+00:00"
     },
     {
@@ -1935,231 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "937230a3b5ac3170",
-      "title": "Multiples vulnérabilités dans GitLab (22 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1363/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "4bf4755218f85d3d",
-      "title": "Multiples vulnérabilités dans les produits Splunk (22 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1366/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "5d77966ec7303635",
-      "title": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1360/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "66879ff8cc62d4d4",
-      "title": "Vulnérabilité dans les produits Mozilla (22 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1361/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "683220fc6ba97f44",
-      "title": "Multiples vulnérabilités dans les produits SolarWinds (22 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1364/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "f9c2fa96381e3e98",
-      "title": "Vibe your way to $50k: the 2026 Epic AI MegaJam is coming",
-      "summary": "The 2026 Epic AI MegaJam runs November 12–15. Team up with up to four other humans and as many AI agents as you want to build a playable game in Unreal Engine or UEFN, and compete for cash prizes.",
-      "url": "https://www.unrealengine.com/news/2026-epic-ai-megajam",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-22T00:00:00+00:00"
-    },
-    {
-      "id": "94a5f6526eada9bc",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-21T18:26:30+00:00"
-    },
-    {
-      "id": "40a01666d562060b",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-21T17:35:36+00:00"
-    },
-    {
-      "id": "5b4e08461387ba3b",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-21T16:04:43+00:00"
-    },
-    {
-      "id": "4ba30d9b0c538cac",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "id": "c2ed162a157709f5",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-21T14:58:18+00:00"
-    },
-    {
-      "id": "280febea489348bb",
-      "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
-      "summary": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino...",
-      "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-21T12:30:00+00:00"
-    },
-    {
-      "id": "b2842111c9af260e",
-      "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
-      "summary": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using...",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-21T09:52:16+00:00"
-    },
-    {
-      "id": "88a80623a9615ed2",
-      "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
-      "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex...",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-21T09:50:14+00:00"
-    },
-    {
-      "id": "1642ad325f565486",
-      "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-      "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams...",
-      "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-21T09:38:49+00:00"
-    },
-    {
-      "id": "3c46a6dfc80ab06c",
-      "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
-      "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,...",
-      "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-21T09:35:32+00:00"
-    },
-    {
-      "id": "ac94fcb0524e51f6",
-      "title": "Multiples vulnérabilités dans Oracle Virtualization (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1354/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "b3de61d017563357",
-      "title": "Multiples vulnérabilités dans Oracle Database Server (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "387608ef7ec4a48f",
-      "title": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1359/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "80c5f0172ba11068",
-      "title": "Multiples vulnérabilités dans Oracle MySQL (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "f1f22689c9aabc2a",
-      "title": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1357/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "1594113aeb2f351c",
-      "title": "Multiples vulnérabilités dans Oracle PeopleSoft (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1352/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "d970cd21182d8d9e",
-      "title": "Multiples vulnérabilités dans Oracle Java SE (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "27164cf0c4bd1fb0",
-      "title": "Multiples vulnérabilités dans Apache Tomcat (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1358/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "a73acf7794ce3ee6",
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (21 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1355/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-21T00:00:00+00:00"
     }
   ],
   "sources": [
