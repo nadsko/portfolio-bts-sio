@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-03T00:55:39.270405+00:00",
+  "updated_at": "2026-11-03T14:06:49.846699+00:00",
   "articles": [
+    {
+      "id": "a6f54d325d31634f",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
     {
       "id": "218c5dc9b18cefce",
       "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
@@ -2151,15 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "id": "00f94a8eb15a9f91",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1376/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-23T00:00:00+00:00"
     }
   ],
   "sources": [
@@ -2190,8 +2190,8 @@
     },
     {
       "source": "Tom’s Hardware",
-      "ok": true,
-      "entries": 20
+      "ok": false,
+      "error": "aucune entrée RSS/Atom"
     },
     {
       "source": "NVIDIA News",
