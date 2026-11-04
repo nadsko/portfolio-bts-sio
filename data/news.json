@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-11-04T06:11:33.912029+00:00",
+  "updated_at": "2026-11-04T14:27:19.692842+00:00",
   "articles": [
+    {
+      "id": "bd86d948470be96f",
+      "title": "Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
+      "summary": "As DRAM and 3D NAND are about to adopt all-new technologies, custom types of memory are about to become mainstream as AI developers face limitations with current solutions.",
+      "url": "https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T14:00:00+00:00"
+    },
+    {
+      "id": "ef47d9cca7a39f2f",
+      "title": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments",
+      "summary": "Several counties put data center issues on the ballot during the midterm elections, with most Americans voting against data center development in their county.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T13:13:32+00:00"
+    },
+    {
+      "id": "4409ffb34e791593",
+      "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+      "summary": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange’s internal wallet signing systems, enabling the October 2",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "id": "19f36d2514cca333",
+      "title": "PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages ",
+      "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T12:30:00+00:00"
+    },
+    {
+      "id": "536d8c4e8d0d2f35",
+      "title": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge dema",
+      "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T12:15:00+00:00"
+    },
+    {
+      "id": "290a491fb27a6f2c",
+      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
+      "summary": "Open source developers have released a prototype driver for Windows 11 that renders the desktop using an NPU instead of the system’s (i)GPU.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "id": "3f73ee04b477d7c8",
+      "title": "Cloudflare engineers optimize DNS build services for twice the speed and 85% lower RAM usage",
+      "summary": "Cloudflare engineers are at it again, optimizing DNS-building services for twice the speed and 85% less RAM usage",
+      "url": "https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "id": "48efd1bd5347eea6",
+      "title": "Upgrade to an OLED display for only $269 at Walmart — Acer's 27-inch Nitro gaming monitor has a superfast 240Hz refresh rate and crisp WQHD resolution",
+      "summary": "Switch to a QD-OLED gaming monitor for just $269. This Walmart bargain nets you a 27-inch QHD display with a super-fast 240Hz refresh rate.",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/upgrade-to-an-oled-display-for-only-usd269-at-walmart-acers-27-inch-nitro-gaming-monitor-has-a-superfast-240hz-refresh-rate-and-crisp-wqhd-resolution",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T11:51:07+00:00"
+    },
+    {
+      "id": "00b24362709bc4aa",
+      "title": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services — OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pri",
+      "summary": "OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
+      "url": "https://www.tomshardware.com/software/applications/disgruntled-software-developers-start-ambitious-open-source-revolt-using-ai-to-clone-common-services-occupysaas-ai-powered-project-wants-to-kick-auth0-salesforce-and-other-pricy-service-as-software-to-the-curb",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T11:30:00+00:00"
+    },
+    {
+      "id": "02863d758abff1ba",
+      "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
+      "summary": "Grab a CyberPowerPC machine wtih an RTX 5070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-gaming-pc-with-a-9800x3d-and-rtx-5070-right-now-pre-built-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-2tb-ssd-for-just-usd2-199-99",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T11:26:04+00:00"
+    },
+    {
+      "id": "fa1b775b9b5285f3",
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "summary": "AMD's data center business surges as strong demand for Epyc processors and Instinct accelerators continues and sales of client hardware declines only slightly.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T11:15:00+00:00"
+    },
+    {
+      "id": "af1dc7a7056fbd5e",
+      "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals — OEM sold access to criminal affiliates, used massive network as botnet fo",
+      "summary": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T11:00:00+00:00"
+    },
+    {
+      "id": "a80ab5d5846575b2",
+      "title": "US Army successfully flies a hybrid electric drone with 3D-printed heavy-fuel rotary engine — uses advanced engineering to ditch a bulky liquid cooling system",
+      "summary": "The US Army VICTOR drone uses an optimized heavy-fuel rotary engine developed with metal 3D printing for rapid prototyping.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/us-army-successfully-flies-a-hybrid-electric-drone-with-3d-printed-heavy-fuel-rotary-engine-400v-motor-generator-uses-advanced-engineering-to-ditch-a-bulky-liquid-cooling-system",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-04T10:30:00+00:00"
+    },
     {
       "id": "8d86676710497099",
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -2043,123 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-26T16:00:00+00:00"
-    },
-    {
-      "id": "41de2a71b391307f",
-      "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
-      "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
-      "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
-      "category": "BTS SIO",
-      "source": "Microsoft DevBlogs",
-      "date": "2026-10-26T15:05:12+00:00"
-    },
-    {
-      "id": "ec17f0212ac94073",
-      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-      "summary": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency...",
-      "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-26T15:00:00+00:00"
-    },
-    {
-      "id": "fa556731a289112d",
-      "title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
-      "summary": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T15:00:00+00:00"
-    },
-    {
-      "id": "9166cac48d594891",
-      "title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
-      "summary": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
-      "url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T14:43:37+00:00"
-    },
-    {
-      "id": "a332e5e245b566bd",
-      "title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
-      "summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T14:31:43+00:00"
-    },
-    {
-      "id": "e6867c3ba004512e",
-      "title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
-      "summary": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next few years.",
-      "url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T14:00:00+00:00"
-    },
-    {
-      "id": "234b5ba558afaf20",
-      "title": "Windows 11’s ‘whole ISO’ squeezed into a CD-ROM",
-      "summary": "Professional Windows crusher NTDEV has showcased their next-generation tool for compressing Windows 11 with a video of an install that fits on a single CD-ROM.",
-      "url": "https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T13:40:00+00:00"
-    },
-    {
-      "id": "bd3ce0e0cd5e3a52",
-      "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
-      "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T13:20:00+00:00"
-    },
-    {
-      "id": "92d28f31dcf45c80",
-      "title": "Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds",
-      "summary": "Chinese vessels are spending more time near undersea cables in the Pacific than nearly 50 other nations, according to a new report by the Center for Strategic and International Studies.",
-      "url": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T13:00:00+00:00"
-    },
-    {
-      "id": "1890427b56e36d28",
-      "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
-      "summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD’s integration",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T12:40:00+00:00"
-    },
-    {
-      "id": "b08fd50213b8ff9f",
-      "title": "Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5",
-      "summary": "Newegg have cut this Alienware Aurora gaming PC by over $1,000, netting yo ua 4K-ready machine with an RTX 5070 and 32GB of DDR5 RAM for $2,199.99.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T12:20:00+00:00"
-    },
-    {
-      "id": "cfdc3fa09fae0e9e",
-      "title": "Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg",
-      "summary": "Lack of funding likely led to the recent PHP security snafu, but that's just the tip of the iceberg — dreary situation caused by services running old versions with no support",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T11:50:00+00:00"
-    },
-    {
-      "id": "ea6edbdd1e3c3d0d",
-      "title": "Modder turns NES into a Windows-like desktop with original hardware",
-      "summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-26T11:20:00+00:00"
     }
   ],
   "sources": [
