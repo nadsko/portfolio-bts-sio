@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-11-05T06:40:37.757073+00:00",
+  "updated_at": "2026-11-05T19:54:13.096747+00:00",
   "articles": [
+    {
+      "id": "f25b9201ad6bdcc6",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-05T19:35:16+00:00"
+    },
+    {
+      "id": "1b0d02e04850a3de",
+      "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+      "summary": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T18:14:56+00:00"
+    },
+    {
+      "id": "50efc248a7a07c40",
+      "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
+      "summary": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking to commercialize its SHAKTI and VEGA RISC-V processors, expand domestic server production, and attract more s",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T18:00:00+00:00"
+    },
+    {
+      "id": "48883bea1791b2e2",
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "summary": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to...",
+      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "id": "c87d2466c844b3e0",
+      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+      "summary": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T16:48:30+00:00"
+    },
+    {
+      "id": "2ec487a29a31c2e2",
+      "title": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase",
+      "summary": "Nintendo's Switch 2 sales decreased by 41% compared to the same time frame last year due to an increase in the console's price. Investors are pressuring Nintendo to release more big games to attract more Switch 2 buyers.",
+      "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T16:27:28+00:00"
+    },
+    {
+      "id": "d1f9ec74570c4906",
+      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "id": "1558c78d072630b6",
+      "title": "Accessibility statements now have a home on GitHub",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blo",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "id": "f96e957d20b3235d",
+      "title": "Your best AX fixes are hiding in agent trajectories",
+      "summary": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runner's network traffic. Here are the patterns",
+      "url": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-11-05T15:40:49+00:00"
+    },
+    {
+      "id": "a7b077ebb681ba40",
+      "title": "UPERFECT GR14BU portable monitor review: A 120 Hz 3K OLED touch display at a killer price",
+      "summary": "With a 3K OLED panel and a 120 Hz refresh rate, the GR14BU comes out swinging.",
+      "url": "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T15:00:00+00:00"
+    },
+    {
+      "id": "3c94e8d22f809736",
+      "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
+      "summary": "A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the CPU core temperatures aren't kept below 90°C.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T14:57:51+00:00"
+    },
+    {
+      "id": "2b1fe13abc6704a3",
+      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
+      "summary": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T14:28:30+00:00"
+    },
+    {
+      "id": "f37d20e5c500df72",
+      "title": "Apple MacBook Pro (14-inch, M6) review: Speedy M6 chip slips into comfortable shoes",
+      "summary": "Apple’s brings its powerful M6 chip and N1 Wi-Fi 7 chip to the MacBook Pro.",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "id": "42aecb47c4413fb8",
+      "title": "Apple MacBook Pro with PROLED XDR Display review: The screen that every Mac deserves",
+      "summary": "Apple's MacBook Pro with PROLED Display has lots of small tweaks that make it a major upgrade, including a lighter weight and touch functionality, but it's exceptionally expensive and out of reach for many.",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "id": "7c57e14629e34d69",
+      "title": "Boost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48",
+      "summary": "With the Legend of Zelda: Ocarina of Time remake now available for the Nintendo Switch 2, you're going to need enough storage to install it. Here are some Switch 2 microSD Express card deals to help you.",
+      "url": "https://www.tomshardware.com/pc-components/microsd-cards/boost-your-nintendo-switch-2s-storage-for-zelda-ocarina-of-time-with-these-microsd-express-deals-starting-at-usd48-make-room-for-hyrule-with-these-high-speed-cards-that-double-or-triple-your-game-storage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T14:00:00+00:00"
+    },
+    {
+      "id": "835481a50698d760",
+      "title": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep",
+      "summary": "Rep. Yassamin Ansari of Arizona is asking her party to focus on AI issues.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T13:30:16+00:00"
+    },
+    {
+      "id": "fcac55044ebe3206",
+      "title": "This $79.98 TP-Link wireless router with Wi-Fi 7 tech is back down to its lowest-ever price",
+      "summary": "You can pick up a TP-Link Archer BE3600 wireless router at its lowest ever price on Amazon for just $79.98.",
+      "url": "https://www.tomshardware.com/networking/routers/this-usd79-98-tp-link-wireless-router-with-wi-fi-7-tech-is-back-down-to-its-lowest-ever-price-archer-be3600-unlocks-multi-gigabit-networking-ideal-for-gaming-or-4k-streaming-with-33-percent-off",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "id": "47529ca81f26a709",
+      "title": "Two dead, five injured in Taiwan PCB factory explosion",
+      "summary": "An explosion and fire at a PCB factory situated in Taiwan’s Silicon Valley has left two people dead and five injured.",
+      "url": "https://www.tomshardware.com/tech-industry/two-dead-five-injured-in-taiwan-pcb-factory-explosion-panasonic-industrial-devices-materials-facility-fire-prompts-emergency-response",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T12:31:33+00:00"
+    },
+    {
+      "id": "36dfc3e52c523e68",
+      "title": "Hackers target French blood service fridges following supermarket attacks",
+      "summary": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "id": "17ac570a7ef3238c",
+      "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+      "summary": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "id": "42206d3b55c6bc08",
+      "title": "SpaceX's plan to build more data center compute than Google's entire lifetime capacity in just 1.5 years is possible, say analysts",
+      "summary": "SpaceX's bold claim that it's capable of building 10 GW of compute in 2027 may be plausible — analysts dig through the breakneck speed of Colossus buildouts as evidence",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-plans-to-build-more-data-center-compute-than-googles-entire-lifetime-capacity-in-just-1-5-years-analysts-say-target-is-realistic-spacex-to-build-staggering-10-gigawatts-of-compute-in-2027-alone",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T11:30:00+00:00"
+    },
+    {
+      "id": "824c654d1d45afc3",
+      "title": "Anthropic loosens Claude's game cloning ban",
+      "summary": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T11:00:00+00:00"
+    },
+    {
+      "id": "f429842fbe2e68ad",
+      "title": "Grab a huge 44% saving on a 4K 43-inch Samsung smart monitor, now under $280",
+      "summary": "Grab a cheap upgrade from a top brand with this Samsung 43-inch M7 M70F 4K UHD monitor, down to just $279.99, giving you a smart display for TV, movies, and productivity.",
+      "url": "https://www.tomshardware.com/monitors/grab-a-huge-44-percent-saving-on-a-4k-43-inch-samsung-smart-monitor-now-under-usd280-limited-time-woot-discount-on-dual-use-display-thatll-work-as-a-home-office-screen-or-standalone-smart-tv",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T10:52:49+00:00"
+    },
+    {
+      "id": "c65c7708e93995ca",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
     {
       "id": "7b2603b92a595fb0",
       "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
@@ -215,6 +431,24 @@
       "url": "https://www.unrealengine.com/news/unreal-engine-innovation-heads-to-i-itsec-2026",
       "category": "Jeux vidéo",
       "source": "Unreal Engine",
+      "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "id": "f7c951ef06a742c0",
+      "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "id": "e5ad176d99d168da",
+      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-11-04T00:00:00+00:00"
     },
     {
@@ -440,6 +674,51 @@
       "url": "https://www.unrealengine.com/developer-interviews/no-law-crafting-a-living-breathing-cyber-noir-world-with-ue5",
       "category": "Jeux vidéo",
       "source": "Unreal Engine",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "fc6c36ac917e5112",
+      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "34acc417a51f3d4e",
+      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "526ff31eeaeaa227",
+      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "af0be5d0fba756c0",
+      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "2552caf5c667e374",
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-11-03T00:00:00+00:00"
     },
     {
@@ -753,6 +1032,15 @@
       "title": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+      "id": "304acafe49e44ec0",
+      "title": "Vulnérabilité dans Traefik (02 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-02T00:00:00+00:00"
@@ -1872,294 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-28T11:30:00+00:00"
-    },
-    {
-      "id": "e0f3607f9558101d",
-      "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment",
-      "summary": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T11:00:00+00:00"
-    },
-    {
-      "id": "0d78e5d28bec8826",
-      "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
-      "summary": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.",
-      "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T10:30:00+00:00"
-    },
-    {
-      "id": "1b46ec79e44e83dc",
-      "title": "$4,700 audiophile-grade network hub promises a noise-free experience and music with 'emotional impact'",
-      "summary": "$4,700 audiophile-grade network hub promises a noise-free experience and music with \"emotional impact.\" Seven isolation stages per port were chosen with \"listening comparisons\"",
-      "url": "https://www.tomshardware.com/pc-components/sound-cards/usd4-700-audiophile-grade-network-hub-promises-a-noise-free-experience-and-music-with-emotional-impact-seven-isolation-stages-per-port-were-chosen-with-listening-comparisons",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T10:00:00+00:00"
-    },
-    {
-      "id": "3f8f285c3cd223c9",
-      "title": "Japan experiments with autonomous AI chainsaw-wielding robots",
-      "summary": "A scary-looking humanoid robot with a chainsaw arm was shown in action on Japanese TV news trimming tree branches that had begun encroaching on railway lines.",
-      "url": "https://www.tomshardware.com/tech-industry/robotics/japan-experiments-with-autonomous-ai-chainsaw-wielding-robots-video-shows-rail-truck-mounted-metal-humanoid-cutting-down-tree-branches",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T09:40:00+00:00"
-    },
-    {
-      "id": "b82999e3a9c0d036",
-      "title": "October’s Epic learning content: Mobile development in Unreal Engine",
-      "summary": "This month’s free learning content puts mobile development in Unreal Engine in the spotlight. Learn how to get started, optimize performance, and ship your game. Plus, find out how to create realistic characters for cross-platform experiences, and much more.",
-      "url": "https://www.unrealengine.com/learning/octobers-epic-learning-content-mobile-development-in-unreal-engine",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "8719296264c78b89",
-      "title": "Multiples vulnérabilités dans Metabase (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1403/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "186c251c81e59845",
-      "title": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "8ebc1293e31cede4",
-      "title": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "344f06e9b6777a88",
-      "title": "Vulnérabilité dans CPython (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1397/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "b8a7e1c215d18017",
-      "title": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "13104214d9fa4342",
-      "title": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "0ef306acc0faed27",
-      "title": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "4662a21ac834a768",
-      "title": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "10b99c1b6c27a16f",
-      "title": "Multiples vulnérabilités dans Docker Desktop (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Docker Desktop. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1401/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "2f004fa4599fe3f2",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "90cd5080f7aa30d1",
-      "title": "Vulnérabilité dans Samba (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Samba. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1400/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "e23ea1c47794411f",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-28T00:00:00+00:00"
-    },
-    {
-      "id": "08b65e1468b74e86",
-      "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
-      "summary": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads...",
-      "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-27T20:50:39+00:00"
-    },
-    {
-      "id": "eec13aaee82c4609",
-      "title": "Fields Medal-winning UC Berkeley professor ends graded homework due to AI cheating",
-      "summary": "Award-winning mathematician Richard Brocherds says that it's a waste of time and money to grade AI answers, so he now only uses in-person exams to see how well his students are doing in his classes.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fields-medal-winning-uc-berkeley-professor-ends-graded-homework-due-to-ai-cheating-says-in-person-exams-are-the-only-solution-left-to-widespread-ai-use",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T20:09:05+00:00"
-    },
-    {
-      "id": "d44c747d4bb803d6",
-      "title": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture",
-      "summary": "The defense contractor aims to fully bring back laptop manufacturing on U.S. shores, with its first BlueChip laptop prototypes having 90% procurement cost coming from suppliers in the U.S. and other allied countries.",
-      "url": "https://www.tomshardware.com/laptops/military-drone-outfit-anduril-partners-with-qualcomm-to-build-laptops-on-us-soil-with-new-bluechip-venture-defense-contractor-targets-a-100-percent-domestic-supply-chain-in-the-future",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T17:42:49+00:00"
-    },
-    {
-      "id": "5f0f60e19fa86ff2",
-      "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
-      "summary": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identified related activity under the codename “SHADOW-EARTH-79.” ",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T17:37:00+00:00"
-    },
-    {
-      "id": "1c5b51464767c2ad",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-27T17:16:52+00:00"
-    },
-    {
-      "id": "f4247e9fd2a272b2",
-      "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
-      "summary": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX...",
-      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-27T17:00:00+00:00"
-    },
-    {
-      "id": "1d6c5c59e46e52b9",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-27T16:12:42+00:00"
-    },
-    {
-      "id": "73f1440d47c57bf1",
-      "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
-      "summary": "As AI adoption expands globally, people across languages and cultures are using it in more aspects of their daily lives. General-purpose language models serve...",
-      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-27T16:00:00+00:00"
-    },
-    {
-      "id": "0e62b0d0f4210d10",
-      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
-      "summary": "Generating tokens faster starts with identifying what limits inference performance. In the batch-size-1 evaluation of Ling-3.0-flash from Inclusion AI on NVIDIA...",
-      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-27T15:00:00+00:00"
-    },
-    {
-      "id": "cc8f21d6ed3be69f",
-      "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity",
-      "summary": "TSMC is reportedly weighing a price increase of up to 20% for its CoWoS advanced packaging technology as Nvidia’s Blackwell and upcoming Rubin chips intensify pressure on capacity. Equipment deliveries now reportedly take up to eight months, while separate wafer-price increases o",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T14:30:00+00:00"
-    },
-    {
-      "id": "43f6b3d8753d182b",
-      "title": "Samsung Portable SSD P9 review: speedy USB4 in a slim, pricey package",
-      "summary": "Samsung’s Portable SSD P9 is the new USB4 external drive to beat. It feels premium and performed very well in our testing. But you’ll have to pay a lot for it, or any similarly performing drive, these days.",
-      "url": "https://www.tomshardware.com/pc-components/external-ssds/samsung-portable-ssd-p9-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T14:00:00+00:00"
-    },
-    {
-      "id": "d5f79e45869b47c2",
-      "title": "Police are reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious'",
-      "summary": "An ACLU report claims police are increasingly using AI to analyze license plate-reader data and flag motorists based on travel patterns, raising concerns that innocent drivers could be pulled over because an algorithm deemed their movements suspicious.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/police-reportedly-pulling-motorists-over-because-ai-algorithms-deem-their-driving-patterns-suspicious-rights-group-report-warns-ai-surveillance-systems-will-sweep-in-more-innocent-people-than-wrongdoers",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T13:53:32+00:00"
-    },
-    {
-      "id": "0b160cc74a1bd49a",
-      "title": "Walmart slashes $750 off this MSI RTX 5060 gaming laptop",
-      "summary": "A massive $750 discount at Walmart brings the price of MSI's Crosshair gaming laptop crashing down. RTX 5060 graphics and a bright 240Hz IPS display are just two of the standout features of this laptop.",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-slashes-usd750-off-this-msi-gaming-laptop-16-inch-crosshair-sports-an-rtx-5060-gpu-and-a-fast-240hz-qhd-display",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T13:47:15+00:00"
-    },
-    {
-      "id": "a57c85eef36b71a8",
-      "title": "Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos",
-      "summary": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller.",
-      "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T13:34:43+00:00"
-    },
-    {
-      "id": "666869acac2e8425",
-      "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
-      "summary": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-27T13:28:23+00:00"
     }
   ],
   "sources": [
