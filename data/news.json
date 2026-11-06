@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-05T19:54:13.096747+00:00",
+  "updated_at": "2026-11-06T06:36:47.138617+00:00",
   "articles": [
+    {
+      "id": "4bd2a81c8417f215",
+      "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
+      "summary": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-05T21:00:00+00:00"
+    },
+    {
+      "id": "51dc1d2f6b3bd6df",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-05T20:23:21+00:00"
+    },
     {
       "id": "f25b9201ad6bdcc6",
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
@@ -2142,24 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-28T11:56:26+00:00"
-    },
-    {
-      "id": "3693cbbcc491b997",
-      "title": "Save $249 on 32GB of DDR5 with this 9800X3D parts bundle",
-      "summary": "Save $248.99 on this AMD Ryzen 7 9800X3D bundle at Newegg with an MSI MAG X870E Tomahawk Max Wifi motherboard and 32GB of DDR5-6000 RAM, now just $1,094.99.",
-      "url": "https://www.tomshardware.com/pc-components/save-usd249-on-32gb-of-ddr5-with-this-9800x3d-parts-bundle-grab-one-of-amds-top-cpus-with-an-msi-x870e-motherboard-and-a-free-aio-cooler-for-under-usd1-100",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T11:48:55+00:00"
-    },
-    {
-      "id": "e3a94afde9c5325d",
-      "title": "Taiwan working on autonomous drone swarms to counter China’s increasingly aggressive grey-zone military tactics",
-      "summary": "The island is building an autonomous system that would work with various drones, allowing it to extend the reach and endurance of its coast guard ships.",
-      "url": "https://www.tomshardware.com/tech-industry/drones/taiwan-working-on-autonomous-drone-swarms-to-counter-chinas-increasingly-aggressive-grey-zone-military-tactics-island-has-already-completed-flight-simulations-now-working-towards-flight-trials-over-maritime-areas",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-28T11:30:00+00:00"
     }
   ],
   "sources": [
