@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-07T12:56:05.709677+00:00",
+  "updated_at": "2026-11-07T21:46:10.439136+00:00",
   "articles": [
+    {
+      "id": "c1949f816302e68e",
+      "title": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
+      "summary": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to $899 with a Ryzen 5 processor, 16GB of DDR5 memory, and a 1TB SSD",
+      "url": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T21:27:30+00:00"
+    },
+    {
+      "id": "7336f987a01c165a",
+      "title": "This week in Tom's Hardware Premium: November 7, 2026",
+      "summary": "This week on Tom's Hardware Premium, we've published in-depth interviews, roadmaps, and features you won't want to miss.",
+      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-7-2026-micron-roadmap-apples-touchscreen-ambitions-globalfoundries-interview-and-much-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "id": "d0d772ce62512dd4",
+      "title": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation",
+      "summary": "U.S. intelligence sources suggest that Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation involving Megaspeed executive Alice Huang.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T14:47:37+00:00"
+    },
+    {
+      "id": "f69e13755cd1e1be",
+      "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
+      "summary": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the entire month, as long as the stock lasts.",
+      "url": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "id": "ffb047c0af9ab450",
+      "title": "TeamGroup GA Pro 2TB SSD Review: A faltering attempt at a mid-range PCIe 5.0 SSD",
+      "summary": "The TeamGroup GA Pro mostly misses. Decent QD8 and steady-state writes can’t make up for weak overall performance, poor efficiency, and high temps.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "id": "93a7eb121042346b",
+      "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "summary": "Nvidia's Jensen Huang officially called to Congress due to reports of Chinese plot — officials mention growing concerns over national security",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "id": "1806c3112ad7cc06",
+      "title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "summary": "Nvidia reportedly asks TSMC to produce '3D DRAM' to address memory shortages.",
+      "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T13:00:00+00:00"
+    },
     {
       "id": "0849d6e80dfc0775",
       "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
@@ -2097,69 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-29T12:49:19+00:00"
-    },
-    {
-      "id": "7e0f5b075acff5f4",
-      "title": "Tech whiz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw",
-      "summary": "Tech whizz' internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T12:41:14+00:00"
-    },
-    {
-      "id": "066d06571f9fed13",
-      "title": "Our first step at defining a CPU benchmark for agentic AI",
-      "summary": "Over the past six months, CPUs have taken center stage as agentic AI workloads evolve. Here’s our first attempt at trying to measure CPU performance when running agentic workloads.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T12:20:00+00:00"
-    },
-    {
-      "id": "7de21dd1342f4bb5",
-      "title": "Score a huge $1,250 saving on this Alienware gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
-      "summary": "You can save $1,250 on this Alienware Aurora gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM, now priced at just $2,599.99.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/score-a-huge-usd1-250-saving-on-this-alienware-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-big-newegg-price-drop-means-you-can-grab-this-4k-ready-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-599-99",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:55:45+00:00"
-    },
-    {
-      "id": "82b8035be55238c5",
-      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand",
-      "summary": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:40:00+00:00"
-    },
-    {
-      "id": "1604c64fe7f88183",
-      "title": "Save $234 on 32GB of DDR5 RAM with this 3-item AM5 Newegg bundle",
-      "summary": "This Newegg AM5 combo deal is $234 off. Priced at only $1,069, you get a Ryzen7 9800X3D, X870E Aorus Elite Wifi7 board, 32GB of G.Skill DDR5-6000 RAM and a free MSI AIO cooler.",
-      "url": "https://www.tomshardware.com/pc-components/save-usd234-on-32gb-of-ddr5-ram-with-this-four-item-am5-newegg-bundle-score-g-skill-trident-z5-neox-ram-the-venerable-ryzen-7-9800x3d-processor-gigabyte-x870e-aorus-elite-wifi7-motherboard-and-a-free-240mm-aio-for-only-usd1-069",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:31:57+00:00"
-    },
-    {
-      "id": "0a14b4446137eeee",
-      "title": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers",
-      "summary": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:30:00+00:00"
-    },
-    {
-      "id": "8491748c911f3e75",
-      "title": "Fake PS5 emulators are being used to steal gamers' passwords",
-      "summary": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:20:00+00:00"
     }
   ],
   "sources": [
