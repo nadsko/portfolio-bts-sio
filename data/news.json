@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-06T19:21:11.112625+00:00",
+  "updated_at": "2026-11-07T05:54:50.139136+00:00",
   "articles": [
+    {
+      "id": "a6bcd182b2895683",
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "summary": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-06T22:20:20+00:00"
+    },
+    {
+      "id": "aff32afb63af01e7",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appear",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-06T22:15:59+00:00"
+    },
     {
       "id": "e20e4a2681dc2afc",
       "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
@@ -2139,24 +2157,6 @@
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
       "summary": "",
       "url": "https://huggingface.co/blog/anydecisionmodel",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "id": "718617961cab3abc",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "summary": "",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "id": "b6b30743068c2627",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "summary": "",
-      "url": "https://huggingface.co/blog/mistral-large4",
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-10-29T00:00:00+00:00"
