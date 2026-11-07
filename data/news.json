@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-07T05:54:50.139136+00:00",
+  "updated_at": "2026-11-07T12:56:05.709677+00:00",
   "articles": [
+    {
+      "id": "0849d6e80dfc0775",
+      "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+      "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take o",
+      "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T12:30:00+00:00"
+    },
+    {
+      "id": "c2434e3c31d5e70a",
+      "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+      "summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T12:30:00+00:00"
+    },
+    {
+      "id": "8856595491616b1b",
+      "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
+      "summary": "The discovery of thousands of archival media assets led to the creation of Anniversary Editions of some classic titles.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T11:30:00+00:00"
+    },
+    {
+      "id": "53218be3be3e50fe",
+      "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "summary": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-07T11:00:00+00:00"
+    },
     {
       "id": "a6bcd182b2895683",
       "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
@@ -2124,42 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-29T11:20:00+00:00"
-    },
-    {
-      "id": "c1c3becbb64fc1a6",
-      "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work",
-      "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T11:00:00+00:00"
-    },
-    {
-      "id": "6fd955ca2b24555b",
-      "title": "GitHub says massive influx of AI-generated code required extra 4 million CPU cores and 160 petabytes of storage to manage",
-      "summary": "Agentic AI led to a sixfold year-on-year influx of new code at GitHub, leading the company to add 4 million CPU cores and 160PB of storage to its datacenters",
-      "url": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T10:30:00+00:00"
-    },
-    {
-      "id": "91071756db1c218e",
-      "title": "Flock ignores Minnesota city’s orders not to reinstall AI surveillance cameras",
-      "summary": "Dayton, MN's city council removed Flock cameras and canceled its contract in August, but Flock reinstalled cameras anyway, almost a month after the program's suspension.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/flock-ignores-minnesota-citys-orders-not-to-reinstall-ai-surveillance-cameras-citizens-complain-after-spotting-two-cameras-despite-the-city-canceling-its-contract",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T10:00:00+00:00"
-    },
-    {
-      "id": "6394645bd5105adc",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "summary": "",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-29T00:00:00+00:00"
     }
   ],
   "sources": [
