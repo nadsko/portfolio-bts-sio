@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-08T13:18:22.761924+00:00",
+  "updated_at": "2026-11-08T21:59:43.096807+00:00",
   "articles": [
+    {
+      "id": "8654b5b2c252df8b",
+      "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "summary": "Nvidia's board of directors is investigating the report about Jensen Huang's alleged affair with a client, claims its confidence in Jensen and leadership team.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T21:27:29+00:00"
+    },
+    {
+      "id": "3533c38867255eec",
+      "title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+      "summary": "This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots from forming on AI processors.",
+      "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T15:25:00+00:00"
+    },
+    {
+      "id": "9bed5a9bf4eae0cd",
+      "title": "Logitech G502 X Lightspeed Review: No lights, same price",
+      "summary": "Logitech's G502 X Lightspeed strips the G502 X Plus of its lighting, but retains the $160 price tag.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T15:00:00+00:00"
+    },
+    {
+      "id": "25230af0dbbac606",
+      "title": "Japanese arcades suffer week-long blackout following Sega server hack",
+      "summary": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
+      "url": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T15:00:00+00:00"
+    },
+    {
+      "id": "a8d01c56a8899314",
+      "title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+      "summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+      "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T14:40:00+00:00"
+    },
+    {
+      "id": "5ac77fbe4486e20d",
+      "title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
+      "summary": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T14:36:39+00:00"
+    },
+    {
+      "id": "6bc69733b65166ec",
+      "title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+      "summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T14:20:00+00:00"
+    },
+    {
+      "id": "14c6be8544c775ec",
+      "title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+      "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T13:40:00+00:00"
+    },
+    {
+      "id": "6fd49da430c7405c",
+      "title": "Hundreds arrested after Microsoft data center protest turns violent",
+      "summary": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-08T13:20:00+00:00"
+    },
     {
       "id": "36a165c93981d413",
       "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
@@ -2079,87 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "790786b72cf7b581",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "8b3777694bd8fde6",
-      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "9fe1301eec3c0b7d",
-      "title": "Multiples vulnérabilités dans Suricata (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1428/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "1f4a2b0a7dcce4e9",
-      "title": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "d1919a3b016e99f2",
-      "title": "Vulnérabilité dans GitLab (30 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1427/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "aa2b5d53406bb43a",
-      "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES",
-      "summary": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T21:55:48+00:00"
-    },
-    {
-      "id": "b3b8067279117498",
-      "title": "Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit",
-      "summary": "The properties will supposedly house SpaceXSI staff while also giving a chance to those who don't want to live near the data center to sell their homes.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacex-buying-out-418-homes-near-flagship-ai-data-center-but-only-if-they-drop-participation-in-lawsuit-report-claims-the-company-is-targeting-an-entire-neighborhood-but-will-only-buy-from-people-who-dont-pursue-noise-pollution-complaints",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T15:40:20+00:00"
-    },
-    {
-      "id": "75767d8337bdcc35",
-      "title": "AI demand triggers massive PCB shortage for PC makers as order books full until 2030",
-      "summary": "The AI industry continues to gobble up manufacturing resources that were once dedicated to serving PC, smart device, and gadget makers. Inevitably, the PCB industry has started to feel its effects.",
-      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-29T15:25:25+00:00"
-    },
-    {
-      "id": "411c66dec517a32d",
-      "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-      "summary": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These...",
-      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-29T15:00:00+00:00"
     }
   ],
   "sources": [
