@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-11-09T06:19:09.374000+00:00",
+  "updated_at": "2026-11-09T22:17:08.258271+00:00",
   "articles": [
+    {
+      "id": "863ec2da227d1a34",
+      "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "summary": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a...",
+      "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-09T19:09:32+00:00"
+    },
+    {
+      "id": "d9341ff69ea251a4",
+      "title": "Ethereum Foundation sued after firing employee over mandatory 'Source Seppuku' suicide pact",
+      "summary": "A former employee of The Ethereum Foundation is suing the nonprofit after being fired for refusing to sign its 'Source Seppuku License.'",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ethereum-foundation-sued-after-firing-employee-over-mandatory-source-seppuku-suicide-pact-crypto-firm-demanded-employees-pledge-to-take-their-own-lives-with-a-sword-to-protect-open-source-code-founder-vitalik-claims-1-000-year-mandate-just-artwork",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T18:43:48+00:00"
+    },
+    {
+      "id": "fdbf3bde08486933",
+      "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
+      "summary": "Nvidia may cap cloud partners’ Chinese business at 49% as Chinese firms buy up more than 1 million gaming and workstation GPUs.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T17:48:17+00:00"
+    },
+    {
+      "id": "57db6c18b4579be4",
+      "title": "Do AI coding agents care about SemVer?",
+      "summary": "We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your version numbers, and what a patch label talks ",
+      "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+      "category": "BTS SIO",
+      "source": "Microsoft DevBlogs",
+      "date": "2026-11-09T16:01:03+00:00"
+    },
+    {
+      "id": "d4a23ffb1f8078af",
+      "title": "Nvidia CEO Jensen Huang summoned to Congress over affair with alleged Chinese spy",
+      "summary": "Jensen Huang has been summoned to appear before Congress's Select Committee on the CCP.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T15:57:13+00:00"
+    },
+    {
+      "id": "d1780cfad3e31bcc",
+      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition",
+      "summary": "DEEPX demonstrated its DX-M1 processor’s cool running capabilities in a bizarre dairy-based thermal benchmark.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/deepx-ai-chip-runs-so-cool-that-a-butter-heatsink-doesnt-melt-the-dx-m1-processor-impresses-in-a-bizarre-new-dairy-based-benchmark",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T15:15:00+00:00"
+    },
+    {
+      "id": "ac8f18750241a65f",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-09T15:05:57+00:00"
+    },
+    {
+      "id": "75ace779b3271663",
+      "title": "Acer Predator Helios Neo 16S AI Review: Slim OLED gaming that doesn't last long",
+      "summary": "The Acer Predator Helios Neo 16S AI pairs strong gaming performance, a 240 Hz OLED display, and good upgradeability but compromises the package with relatively short battery life.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/acer-predator-helios-neo-16s-ai-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T14:05:00+00:00"
+    },
+    {
+      "id": "06a7c8e1f4291317",
+      "title": "Nvidia RTX PRO 6000 user’s cables almost melted, even when limited to 500W",
+      "summary": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T14:00:00+00:00"
+    },
+    {
+      "id": "227858537374cd0a",
+      "title": "Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal",
+      "summary": "Anthropic has committed $3.4 billion to secure 1.7GW of gas-fired generators from OnePWR Solutions, taking over existing Caterpillar orders as lengthy equipment lead times push AI companies to build their own power infrastructure",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T13:45:00+00:00"
+    },
+    {
+      "id": "42bada2e22bbb055",
+      "title": "Memory shortage spurs smartphone makers to melt used memory off old devices, then re-solder it onto new products",
+      "summary": "Reballed memory currently accounts for a small share of smartphone components, but adoption could nearly double by 2027 as manufacturers look for alternatives to increasingly expensive DRAM.",
+      "url": "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T13:40:00+00:00"
+    },
+    {
+      "id": "f0fe8760df8ceefe",
+      "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+      "summary": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T13:20:00+00:00"
+    },
+    {
+      "id": "a2ed43efbf1c3ddb",
+      "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project",
+      "summary": "Envision has delivered the first 120MW of its Galaxy AI datacenter in less than a year, combining wind farms, battery storage and an unconventional cooling system to cut costs and keep power-hungry servers running",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "id": "55d059b88c6c576a",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-09T12:34:29+00:00"
+    },
+    {
+      "id": "37d0d55528006a80",
+      "title": "Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization",
+      "summary": "A new GitHub repository dubbed ram-altman features a script to monitor your PC’s RAM usage and report back to the eponymous OpenAI boss.",
+      "url": "https://www.tomshardware.com/pc-components/ram/spoof-program-monitors-and-emails-your-ram-usage-to-sam-altman-if-under-90-percent-utilization-ram-altman-logs-usage-and-reports-you-for-wasting-memory",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T12:31:12+00:00"
+    },
+    {
+      "id": "d17f6609fe06ddc1",
+      "title": "Huawei develops 'entirely Chinese' homegrown desktop PC system",
+      "summary": "Huawei's 'entirely Chinese' desktop system does not use components made outside of China, yet they still rely on semiconductor supply chain that includes tools and materials from America, the Netherlands, and Japan.",
+      "url": "https://www.tomshardware.com/tech-industry/huawei-develops-entirely-chinese-homegrown-desktop-pc-system-features-10-core-20-thread-kirin-x90-consumer-cpu-and-huaweis-own-harmonyos-operating-system-but-western-supply-chain-lingers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T12:30:00+00:00"
+    },
+    {
+      "id": "8ccce5e744045a23",
+      "title": "Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now",
+      "summary": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T12:21:50+00:00"
+    },
+    {
+      "id": "1f9b665cab8a4bd7",
+      "title": "Wearable sleep trackers are using your brainwaves to train AI models without explicit user consent",
+      "summary": "Wearable neurotech companies have collected millions of hours of brainwave recordings to train AI models, raising questions about user consent, data privacy and who ultimately controls our neural data",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "id": "c13ac47826a58a51",
+      "title": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs",
+      "summary": "AMD is investigating reports that its External Events Utility generates continuous SSD writes of up to 5MB/s, even when Radeon-powered PCs are idle. Users have also reported declining SSD health, while potential workarounds come with performance trade-offs",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T11:46:33+00:00"
+    },
+    {
+      "id": "f3bdda1739eef3f8",
+      "title": "Save $300 on this RTX 5070 gaming PC with 32GB DDR5, now under $2,000",
+      "summary": "This ABS Flux II Aqua gaming PC deal unlocks 1440p and 4K gameplay for just $1,999.99. This pre-built comes with a 20-core Intel CPU, an Nvidia GeForce RTX 5070, a 1TB SSD, and 32GB of DDR5 RAM, saving you $300.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-rtx-5070-gaming-pc-with-32gb-ddr5-now-under-usd2-000-pre-built-abs-rig-from-newegg-is-4k-ready-with-an-intel-cpu-and-a-1tb-ssd",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T11:36:31+00:00"
+    },
+    {
+      "id": "9efdef0b8b1c9473",
+      "title": "LG WOLED TVs suffer from 'edge rot' pixel death",
+      "summary": "LG WOLED TV panels made around 2019 to 2023 may be susceptible to edge rot — almost all of RTings' WOLED test units show clear signs of degradation",
+      "url": "https://www.tomshardware.com/monitors/lg-woled-tvs-suffer-from-edge-rot-pixel-death-pixels-go-dark-around-the-edges-similar-to-a-mold-pattern-nearly-all-woled-test-units-show-clear-signs-of-degradation",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T11:30:00+00:00"
+    },
+    {
+      "id": "ac6f5f1eb5b30576",
+      "title": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats",
+      "summary": "A hobbyist's effort to make DisplayLink work better on Linux is turning into a legal saga.",
+      "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/synaptics-sends-cease-and-desist-order-to-creator-of-open-source-displaylink-driver-dares-him-to-publicize-its-threats-dev-reverse-engineers-displaylink-using-claude-ai-and-rust-synaptics-threatens-to-bill-creator-for-legal-documentation",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T11:00:00+00:00"
+    },
+    {
+      "id": "53a098e2a4201413",
+      "title": "Security researcher had to jailbreak their car just to update the clock",
+      "summary": "A security researcher has revealed how they managed to update the time on their car infotainment system using reverse engineering techniques.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/security-researcher-had-to-jailbreak-their-car-just-to-update-the-clock-missing-tomtom-sd-card-locked-settings-menu-custom-linux-exploit-deployed-to-adjust-daylight-saving-time",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T10:40:00+00:00"
+    },
+    {
+      "id": "87473b9e29a12958",
+      "title": "Grab 32 GB of RAM for just $209.99 thanks to the G.Skill Ripjaws V DDR4-3200 kit",
+      "summary": "Grab 32 GB of RAM for just $209.99 thanks to the G.Skill Ripjaws V DDR4-3200 kit",
+      "url": "https://www.tomshardware.com/pc-components/grab-32-gb-of-ram-for-just-usd209-99-thanks-to-the-g-skill-ripjaws-v-ddr4-3200-kit-rare-sale-on-a-quality-kit-from-an-enthusiast-brand-with-a-stellar-reputation",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-09T10:20:00+00:00"
+    },
     {
       "id": "8654b5b2c252df8b",
       "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
@@ -629,6 +845,78 @@
       "url": "https://huggingface.co/blog/phonon-tts",
       "category": "IA",
       "source": "Hugging Face",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "efc9c259c8350659",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "75a010f3b2c4aaae",
+      "title": "Multiples vulnérabilités dans les produits Siemens (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1464/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "0baa73c838fb0fc8",
+      "title": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1468/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "52b240fe68cdeda1",
+      "title": "Multiples vulnérabilités dans les produits Cisco (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1467/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "5024ae961bd15f18",
+      "title": "Multiples vulnérabilités dans OpenOffice (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1463/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "2a83c8e61fc98cc2",
+      "title": "Multiples vulnérabilités dans SPIP (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1465/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "9ea2d9fc38d3d68b",
+      "title": "Multiples vulnérabilités dans MongoDB (05 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1462/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "id": "2af442540bfa4a7c",
+      "title": "[MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)",
+      "summary": "[Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-11-05T00:00:00+00:00"
     },
     {
@@ -1872,294 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-31T10:00:00+00:00"
-    },
-    {
-      "id": "1f766ec7b68d14d4",
-      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
-      "summary": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...",
-      "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-30T21:35:31+00:00"
-    },
-    {
-      "id": "ba4f0ba987a7b511",
-      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
-      "summary": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...",
-      "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-30T20:33:18+00:00"
-    },
-    {
-      "id": "f34bcaaf83fb9603",
-      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal",
-      "summary": "First the RTX 5090, now the RTX 5080. Nvidia quietly removes the RTX 5080 listing from the marketplace as prices explode to 2.2X MSRP on the retail market.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T20:13:10+00:00"
-    },
-    {
-      "id": "0df635c1d41790b3",
-      "title": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day",
-      "summary": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalization in a day, barely affects Apple.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-woes-wipe-out-usd1-trillion-of-semiconductor-market-cap-in-one-day-pc-market-bloodbath-leaves-few-chip-stocks-unscathed",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T20:06:11+00:00"
-    },
-    {
-      "id": "9fa1111d0dba0e17",
-      "title": "Celebrate Warhammer Day on the 31st of October with these 20 Warhammer 40K-themed products",
-      "summary": "Warhammer Day is celebrated on October 31st 2026, 2026. Check out these great gift ideas for all fans of the grimdark future.",
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/celebrate-warhammer-day-on-the-31st-of-october-with-these-20-warhammer-40k-themed-products-the-best-space-marine-gear-this-side-of-the-warp",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T18:30:00+00:00"
-    },
-    {
-      "id": "037154e824aaff25",
-      "title": "nemotron-halloween",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-10-30T17:57:24+00:00"
-    },
-    {
-      "id": "969cbc87924e3583",
-      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
-      "summary": "OpenAI CEO Sam Altman said in a podcast interview that \"it's quite terrible\" for people to have RAM in their own PCs when it could go into AI data centers.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T16:28:11+00:00"
-    },
-    {
-      "id": "ab9badac7de59b44",
-      "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-      "summary": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces...",
-      "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-30T16:00:00+00:00"
-    },
-    {
-      "id": "1f8c31d7527badfd",
-      "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
-      "summary": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path...",
-      "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-10-30T15:01:36+00:00"
-    },
-    {
-      "id": "0abb9d52a1900eab",
-      "title": "PsiQuantum turns its photonics know-how into an optical switch for supercharging AI data center GPU networks",
-      "summary": "PsiQuantum’s eight-port optical switch typically loses 1.2 dB, under a quarter of its light, where data centers allow up to 3 dB.",
-      "url": "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T14:30:00+00:00"
-    },
-    {
-      "id": "34be27f8ecbbc923",
-      "title": "TCL 27C2A Pro 27-inch QD-Mini LED 4K gaming monitor review: Extreme color and brightness",
-      "summary": "TCL’s 27C2A Pro is a super-bright 27-inch 4K Mini LED gaming monitor with full-array local dimming (2,304 zones), Quantum Dot color, 160 Hz, 320 Hz/FHD mode, HDR10 and Adaptive-Sync. It’s also color-accurate with premium video processing.",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/tcl-27c2a-pro-27-inch-qd-mini-led-4k-gaming-monitor-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T14:00:00+00:00"
-    },
-    {
-      "id": "7b4b03b5c2228f47",
-      "title": "Intelligence agency misplaced 'a very significant number' of removable drives",
-      "summary": "An investigation revealed that thousands of drives have been lost, with officials having no idea where they could be.",
-      "url": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T13:35:48+00:00"
-    },
-    {
-      "id": "63e3ffcd8216b442",
-      "title": "A primer on key AI LLM concepts — KV cache, weights, quantization, and how inference actually works",
-      "summary": "How do AI models work? This primer explains crucial concepts to understand how LLMs work, with definitions and explanations for all of AI's new nomenclature.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-primer-on-key-ai-llm-concepts-kv-cache-weights-quantization-and-how-inference-actually-works",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T13:30:00+00:00"
-    },
-    {
-      "id": "727c840ee67d59d6",
-      "title": "This is your chance to secure an entire entry-level ABS gaming PC for only $849",
-      "summary": "An affordable desktop gaming PC with an RTX 5060 GPU inside for under $850.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-is-your-chance-to-secure-an-entire-entry-level-abs-gaming-pc-for-only-usd849-amazing-walmart-deal-sets-you-up-with-an-rtx-5060-graphics-card-and-shaves-usd350-off-the-list-price",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "id": "d6802ac164b210a4",
-      "title": "Does ‘eval’ in the workspace path change what your agent does?",
-      "summary": "Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The agent sees that path on every turn, in the ",
-      "url": "https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
-      "category": "BTS SIO",
-      "source": "Microsoft DevBlogs",
-      "date": "2026-10-30T12:49:14+00:00"
-    },
-    {
-      "id": "069d4b26f876e01c",
-      "title": "5 years’ worth of salary in bonuses given to 700 eligible Micron workers as company continues to battle union",
-      "summary": "Eligible employees get an annual performance bonus, a mass-production bonus, and a one-time appreciation bonus. A quarterly profit bonus has also been introduced starting January 2027.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/5-years-worth-of-salary-in-bonuses-given-to-700-eligible-micron-workers-as-company-continues-to-battle-union-more-than-4-300-production-line-staff-to-receive-three-bonuses-of-more-than-usd31-000-plus-quarterly-profit-bonuses-starting-next-year",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T11:44:03+00:00"
-    },
-    {
-      "id": "3064f6be408c5d02",
-      "title": "Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs",
-      "summary": "An Intel leaker revealed Moon Lake chip as a likely replacement for N-series SoCs with four lower-power-efficiency cores, no performance cores, and a 6-watt TDP",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T11:40:00+00:00"
-    },
-    {
-      "id": "8db759a7708af251",
-      "title": "Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months",
-      "summary": "Cisco President Jeetu Patel has handed a 27-year-old ex-startup founder a huge job to rewrite 98% of Cisco's legacy code within 24 months.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T11:26:56+00:00"
-    },
-    {
-      "id": "94fa1947b5ddc252",
-      "title": "Former esports commentator builds his own custom mouse shell generator for 3D printing that doesn’t use AI",
-      "summary": "A Counter-Strike commentator just showed the demo of his customizable gaming mouse shell generator for 3D printing that detects key components like mouse buttons, the scroll wheel, and screw hole locations without using AI.",
-      "url": "https://www.tomshardware.com/peripherals/gaming-mice/esports-commentator-builds-his-own-custom-mouse-shell-generator-for-3d-printing-that-doesnt-use-ai-mausstudio-automatically-detects-buttons-screwholes-and-sensor-locations",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T11:20:00+00:00"
-    },
-    {
-      "id": "d977e76b24ef203e",
-      "title": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
-      "summary": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T11:00:00+00:00"
-    },
-    {
-      "id": "97274cd24d475ca4",
-      "title": "Grab a Nintendo Switch 2 with a free game for as low as $459 in this limited-time deal",
-      "summary": "Grab the Nintendo Switch 2 with a free digital game for as low as $459 for a limited-time only at Woot! if you use coupon code SAVETOBER.",
-      "url": "https://www.tomshardware.com/video-games/nintendo/grab-a-nintendo-switch-2-with-a-free-game-for-as-low-as-usd459-in-this-limited-time-deal-coupon-code-knocks-usd60-off-sale-price-for-new-woot-customers-usd40-for-existing-ones",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T10:44:01+00:00"
-    },
-    {
-      "id": "762dd873dde29d59",
-      "title": "Google hit with criminal probe over unapproved AI data center deforestation",
-      "summary": "A criminal investigation into the environmental damage caused by Google’s Finnish subsidiary has been launched.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T10:40:00+00:00"
-    },
-    {
-      "id": "3b04785d21674a6b",
-      "title": "Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen",
-      "summary": "Binance withdrawals frozen after thieves run off with $5.6 billion in crypto — firm says it will cover losses as stablecoin networks move to freeze $2.4b in stolen assets",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-withdrawals-frozen-after-thieves-steal-usd5-6-billion-in-crypto-in-record-breaking-cryptocurrency-heist-firm-says-it-will-cover-losses-as-stablecoin-networks-move-to-freeze-usd2-4b-in-stolen-assets",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T10:31:11+00:00"
-    },
-    {
-      "id": "77c97bdae5bd5ef8",
-      "title": "South Korea clamps down on Tesla drivers for unlocking restricted full self-driving feature, $15,000 fines and prison possible sentences",
-      "summary": "South Korean police have booked 80 Tesla owners for bypassing regional restrictions on Full Self-Driving (FSD), seizing 21 devices allegedly used to unlock the driver-assistance software. Some suspects reportedly built their own hardware using information from GitHub, while other",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/south-korea-clamps-down-on-tesla-drivers-for-unlocking-restricted-fsd-usd15-000-fines-and-prison-possible-sentences-suspects-imported-hardware-from-europe-and-china-then-traded-tips-on-concealing-activation-logs",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T10:20:00+00:00"
-    },
-    {
-      "id": "5af964818beb9f66",
-      "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months",
-      "summary": "A two-week shutdown of Intel's Fab 28 in Israel will affect server CPU shipments for two consecutive quarters.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-30T09:30:00+00:00"
-    },
-    {
-      "id": "ccc9af9289d0fa29",
-      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "dcef837646135d3a",
-      "title": "Multiples vulnérabilités dans les produits Apple (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1421/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "fd5e3d0ba5453b51",
-      "title": "Vulnérabilité dans Stormshield Management Center (30 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Stormshield Management Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1429/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "a371ae7a2ebab567",
-      "title": "Multiples vulnérabilités dans Google Chrome (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1422/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "8bfd2158e8198fda",
-      "title": "Vulnérabilité dans CPython (30 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "7e5086f13fbe5b99",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
-    },
-    {
-      "id": "1ad3e04923a7dc57",
-      "title": "Vulnérabilité dans Tenable Nessus Plugin (30 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Tenable Nessus Plugin. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1425/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-10-30T00:00:00+00:00"
     }
   ],
   "sources": [
