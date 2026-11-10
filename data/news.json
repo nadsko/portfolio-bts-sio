@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-11-10T07:12:31.537941+00:00",
+  "updated_at": "2026-11-10T19:41:08.201833+00:00",
   "articles": [
+    {
+      "id": "2c15f23ac7aa344c",
+      "title": "Git security vulnerabilities announced",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "id": "78648674a4dc8a1a",
+      "title": "Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports",
+      "summary": "The ITI is lobbying against the ban of these optical transceivers needed by data centers to convert electrical signals into optical signals.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T17:51:31+00:00"
+    },
+    {
+      "id": "e231f53d46ad6208",
+      "title": "AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’",
+      "summary": "Nvidia and Arm have new “agentic CPUs,” a title that high-ranking AMD employees are pushing back against with the launch of Zen 6 EPYC Venice CPUs.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T17:20:00+00:00"
+    },
+    {
+      "id": "dd21c08b4ddf2c0d",
+      "title": "AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking",
+      "summary": "AMD has pulled back the curtain on its Zen 6 microarchitecture. We deep-dive into the differences between Zen 5 and 6, as well as detail our first benchmarks of AMD’s Venice CPUs.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "id": "6ea7e66310b310b1",
+      "title": "Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang",
+      "summary": "Alice Huang is reportedly connected to a web of Chinese companies, which then leveraged her closeness to Jensen Huang to gain access to billions of dollars' worth of Nvidia GPUs.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T16:50:02+00:00"
+    },
+    {
+      "id": "fbdb5550e0a6a1d5",
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "summary": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide...",
+      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "id": "1d8ffc518c4451da",
+      "title": "Secretlab debuts monitor light bar add-on to reduce glare and eye strain",
+      "summary": "Popular desk and chair maker Secretlab has released a new monitor light bar.",
+      "url": "https://www.tomshardware.com/peripherals/secretlab-debuts-monitor-light-bar-add-on-to-reduce-glare-and-eye-strain-ergoarch-has-a-three-point-adjustment-arm-costs-usd179",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T15:30:16+00:00"
+    },
+    {
+      "id": "b140b110e619a8ce",
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "summary": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per...",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "id": "09e34d883ac89522",
+      "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "summary": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference...",
+      "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "id": "728f79aa1f6ba73f",
+      "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "summary": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU infrastructure—NVIDIA Kubernetes Engine (NVKE) and...",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "id": "e74daf9c0f07f2a8",
+      "title": "New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy",
+      "summary": "Frontier Model Forum releases its Jailbreak Rating Framework to estimate how easy it is for models to escape their cages and how much damage they can do.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T13:40:00+00:00"
+    },
+    {
+      "id": "76bf5141bedffd81",
+      "title": "Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark",
+      "summary": "But if you're thinking about dropping over $10K for the purpose of building a local AI inference setup, is a Mac Studio right for you?",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T13:20:00+00:00"
+    },
+    {
+      "id": "597603d2aa92593d",
+      "title": "Elon Musk’s Terafab targets 1 million wafers a month after 2032",
+      "summary": "Tesla and SpaceX’s Terafab reportedly plans 1 million wafers per month after 2032, with about 700,000 for memory.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-targets-1-million-wafers-a-month-after-2032-planned-700-000-monthly-memory-wafers-could-rival-samsungs-entire-estimated-dram-production-capacity",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T13:00:00+00:00"
+    },
+    {
+      "id": "77a3254c600ec6ad",
+      "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+      "summary": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+      "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T12:40:00+00:00"
+    },
+    {
+      "id": "680c54fab25ac073",
+      "title": "President Trump says the FBI is investigating Jensen Huang’s affair",
+      "summary": "The FBI is probably concerned about the implication of a Chinese agent having influence over the leader of the U.S.'s leading AI chip manufacturer.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T12:33:17+00:00"
+    },
+    {
+      "id": "8f77a5fde760b7cc",
+      "title": "$10 programmer saves BIOS-locked Lenovo ThinkPads from the dump",
+      "summary": "Many cheap company ThinkPads come with supervisor passwords and often end up as e-waste. Ukrainian YouTuber Hileeq shows how easy it is to bypass the password with a $10 programmer.",
+      "url": "https://www.tomshardware.com/laptops/usd10-programmer-saves-bios-locked-lenovo-thinkpads-from-the-dump-exploit-bypasses-supervisor-passwords-to-save-4th-to-8th-gen-intel-models-from-e-waste",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T12:20:00+00:00"
+    },
+    {
+      "id": "2979100b804d663a",
+      "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
+      "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T12:18:07+00:00"
+    },
+    {
+      "id": "116b8914b903f44b",
+      "title": "Upgrade your PS5's storage for GTA 6's digital pre-load with these SSD storage options from $174",
+      "summary": "With GTA 6's digital pre-loads beginning on November 10, you'll need enough storage on your PS5 to match. Here are some of the top PS5 SSD options to help you.",
+      "url": "https://www.tomshardware.com/video-games/playstation/upgrade-your-ps5s-storage-for-gta-6s-digital-pre-load-with-these-ssd-storage-options-from-usd174-ultra-fast-drives-slot-into-the-m-2-expansion-slot-to-ready-your-console-for-gtas-huge-212gb-installation",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "id": "6f89d83b72c590f5",
+      "title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
+      "summary": "Valve is adding a new feature to the Steam store that tracks performance data and then displays it anonymously to users who match the hardware.",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T11:53:36+00:00"
+    },
+    {
+      "id": "24cc8bed2b64678b",
+      "title": "Grab this GameSir Super Nova wireless controller at a record-low Amazon price, now under $40",
+      "summary": "Grab this fully loaded wireless gaming controller from GameSir for a record-low Amazon price of $39.99.",
+      "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-gamesir-super-nova-wireless-controller-at-a-record-low-amazon-price-now-under-usd40-20-percent-discount-on-pc-and-switch-gamepad-that-ships-with-drift-free-hall-effect-sticks-and-a-customizable-layout",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T11:42:06+00:00"
+    },
+    {
+      "id": "383098e13929c7e4",
+      "title": "Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less than buying it separately",
+      "summary": "This Newegg bundle brings together the AMD Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free ATX case for $1,090.98.",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-this-newegg-ram-bundle-with-the-9800x3d-usd70-less-than-buying-it-separately-usd138-saving-on-parts-for-a-4k-gaming-pc-including-a-gigabyte-x870-motherboard-and-free-atx-case",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T11:09:51+00:00"
+    },
+    {
+      "id": "280f2a872947cec2",
+      "title": "Seagate resurrects hybrid storage: Hands-on with the FireCuda Forge – 8 or 20TB external hard drive requires you to bring your own NVMe SSD",
+      "summary": "Seagate takes on high SSD storage prices with the Firecuda Forge, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM). It's a throwback to the days of hybrid drives, and the experience is pretty seamless once you install your SSD. Bu",
+      "url": "https://www.tomshardware.com/pc-components/external-ssds/seagate-resurrects-hybrid-storage-hands-on-with-the-firecuda-forge-8-or-20tb-external-hard-drive-requires-you-to-bring-your-own-nvme-ssd",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T11:01:00+00:00"
+    },
+    {
+      "id": "120d87ffeed88faa",
+      "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+      "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T10:50:00+00:00"
+    },
+    {
+      "id": "66157472d8ac134d",
+      "title": "Orbiting ESA satellite plays Doom after receiving voice commands from amateur radio operators on Earth",
+      "summary": "Radio amateurs in Oslo spoke a command to ESA’s OPS-SAT PRETTY satellite, which recognized it on board and launched Doom.",
+      "url": "https://www.tomshardware.com/tech-industry/space/orbiting-esa-satellite-plays-doom-after-receiving-voice-commands-from-amateur-radio-operators-on-earth-27-mb-ai-speech-model-executes-the-game-on-the-seventh-attempt",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T10:30:00+00:00"
+    },
     {
       "id": "7b66bbd769d72b0b",
       "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
@@ -9,6 +225,33 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-10T00:03:08+00:00"
+    },
+    {
+      "id": "cb93d68b445c05b0",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "id": "5f3963726dbe36e6",
+      "title": "Decision Models in Hugging Face",
+      "summary": "",
+      "url": "https://huggingface.co/blog/decision",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "id": "8575d44cc60f9273",
+      "title": "Beyond the product page: Logitech G’s 360° Racing Studio",
+      "summary": "Unreal Engine Service Partner The New Face built Logitech G’s 360° Racing Studio, a sim racing showroom you can step into from the browser. See how they put it together with UE5’s Lumen, Nanite, Sequencer, and Pixel Streaming.",
+      "url": "https://www.unrealengine.com/spotlights/beyond-the-product-page-logitech-g-s-360-racing-studio",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-11-10T00:00:00+00:00"
     },
     {
       "id": "863ec2da227d1a34",
@@ -620,6 +863,105 @@
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "category": "IA",
       "source": "Hugging Face",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "7b7c9ed348677d9d",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1470/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "a6b08f714dbd9648",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1469/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "a6679f4981cb6d5b",
+      "title": "Vulnérabilité dans les produits VMware (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "39eb579f869ef320",
+      "title": "Vulnérabilité dans les produits Mitel (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1477/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "29181ed309fc8fb0",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1471/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "43bb1d4ed66de8eb",
+      "title": "Multiples vulnérabilités dans les produits Foxit (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1478/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "08fce4eef6007ce0",
+      "title": "Multiples vulnérabilités dans les produits IBM (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1472/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "a4a6e7c8ef80de63",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1473/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "3653eb6d0f0189d0",
+      "title": "Multiples vulnérabilités dans les produits Cisco (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1476/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "96f6bd6892284b07",
+      "title": "Multiples vulnérabilités dans les produits Splunk (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1475/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "id": "428a9fc87d6e3c75",
+      "title": "Vulnérabilité dans Alpine (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Alpine. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1480/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
       "date": "2026-11-06T00:00:00+00:00"
     },
     {
@@ -1818,348 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "15dea9de4655bde2",
-      "title": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que les vulnérabilités",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "4ca8078640eeeec2",
-      "title": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "637c88b1914e570a",
-      "title": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "65839cdfb8f38415",
-      "title": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "304acafe49e44ec0",
-      "title": "Vulnérabilité dans Traefik (02 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "9a97986aa28bfe34",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-11-01T21:36:00+00:00"
-    },
-    {
-      "id": "95d040dc513b3e31",
-      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
-      "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "id": "757256e5e05fe9e5",
-      "title": "GOG explores reviving physical PC game releases",
-      "summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
-      "url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T18:45:00+00:00"
-    },
-    {
-      "id": "919fdfbe610a4d04",
-      "title": "Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that's not often on sale",
-      "summary": "Snag a Nintendo Switch 2 for only $469 while stocks last — $30 off a system that's not often on sale",
-      "url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T18:09:28+00:00"
-    },
-    {
-      "id": "c6b67598f92e23bb",
-      "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
-      "summary": "Redditor gets a gaming PC at more than 50% off in a physical Walmart retail store.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T15:53:45+00:00"
-    },
-    {
-      "id": "71ca15f94832530a",
-      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
-      "summary": "The lawyers of a plaintiff in a labor case attempted to use prompt injection to influence the court's AI but were caught. They won the case anyway, as the defendant did not respond, making the move totally unnecessary.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T15:05:00+00:00"
-    },
-    {
-      "id": "0aeea75e1bf4e0ae",
-      "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
-      "summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T15:00:00+00:00"
-    },
-    {
-      "id": "38559a6891f71240",
-      "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
-      "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
-      "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T15:00:00+00:00"
-    },
-    {
-      "id": "0ac1df0fdc39c8bb",
-      "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
-      "summary": "Strike an early bargain in Bambu Lab's Black Friday sale. Running until December 1st, save up to $300 on their flagship 3D printer.",
-      "url": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T14:30:00+00:00"
-    },
-    {
-      "id": "d30b23d2ea82ea20",
-      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
-      "summary": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, pu",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T14:21:23+00:00"
-    },
-    {
-      "id": "ec05ed24c3766117",
-      "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
-      "summary": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia’s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T14:00:00+00:00"
-    },
-    {
-      "id": "d541cfea2c2cc3af",
-      "title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
-      "summary": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T13:55:26+00:00"
-    },
-    {
-      "id": "327c247bb55f0506",
-      "title": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
-      "summary": "Neuralink's second product, Blindsight, aims to bring sight back for blind patients, with the company \"just waiting on regulatory approval.\"",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T13:30:00+00:00"
-    },
-    {
-      "id": "592b5e385b9e3381",
-      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
-      "summary": "Lenovo’s ThinkPlus FU100 fingerprint USB drive held an unencrypted SD card, and Codex found fixed keys in other ‘secure’ USB products.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T13:00:00+00:00"
-    },
-    {
-      "id": "6e57dee758dbd144",
-      "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’",
-      "summary": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T12:33:52+00:00"
-    },
-    {
-      "id": "23782db5746b3277",
-      "title": "California county deploys autonomous firefighting drones with 500-gallon foam payload to attack wildfires",
-      "summary": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
-      "url": "https://www.tomshardware.com/tech-industry/drones/california-county-secures-autonomous-firefighting-drones-with-500-gallon-foam-payload-to-deal-with-wildfires-five-drone-strike-team-can-be-controlled-by-a-single-operator-conduct-nighttime-ops-and-access-difficult-terrain",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T12:30:00+00:00"
-    },
-    {
-      "id": "280cc759cd0986e7",
-      "title": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
-      "summary": "It took the space probe nearly 50 years to get to one light-day, with NASA scientists and engineers going through lengths to ensure that it could keep operating for as long as possible.",
-      "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T12:00:00+00:00"
-    },
-    {
-      "id": "4dde0a3b923349ec",
-      "title": "USAF successfully tests dropping SpaceX Starfall cargo drop pods from space",
-      "summary": "The Rocket Cargo capability should allow U.S. forces to resupply quickly without risking aircrews and equipment, especially in contested areas.",
-      "url": "https://www.tomshardware.com/tech-industry/space/usaf-successfully-tests-dropping-spacex-starfall-cargo-drop-pods-from-space-2-200-pound-capsule-drops-military-supplies-in-the-pacific-to-test-starcraft-like-supply-drops",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T11:30:00+00:00"
-    },
-    {
-      "id": "ede9dc4f9e82738f",
-      "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm",
-      "summary": "An undergraduate student from Georgia Tech is trying his hand at an $800k prize for the fastest jet-powered RC aircraft, achieving 790 km/h (491 mph) and breaking the previous world record.",
-      "url": "https://www.tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-01T11:00:00+00:00"
-    },
-    {
-      "id": "02a5615ca51a1497",
-      "title": "Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off",
-      "summary": "The Bambu Lab P1S earned our Editor's Choice recognition in testing, and this discounted bundle gives you access to its high-speed printing capabilities alongside the convenience of the AMS color printing system.",
-      "url": "https://www.tomshardware.com/pc-components/grab-the-award-winning-bambu-lab-p1s-3d-printer-with-ams-for-usd70-off-save-usd70-on-one-of-the-best-3d-printers-for-beginners",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T19:19:50+00:00"
-    },
-    {
-      "id": "a44b6c89ce0dbd9b",
-      "title": "French lawmakers add $11.2 billion internet tax based on traffic usage to budget, costs $0.06 per gigabyte of content accessed",
-      "summary": "French lawmakers have approved an amendment proposing a €0.055-per-gigabyte tax on digital content delivered to internet subscribers in France. The measure could generate an estimated €10 billion annually, with companies including Google, Meta, Netflix and potentially TikTok amon",
-      "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T16:11:40+00:00"
-    },
-    {
-      "id": "6c31fdbfab84c36d",
-      "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
-      "summary": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going to class.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T15:37:41+00:00"
-    },
-    {
-      "id": "4c854b587ab828fb",
-      "title": "Grab a new 3D printer this Halloween weekend, with prices as low as $199",
-      "summary": "Pick up a bargain 3D printer, thanks to these big discounts on resin and filament 3DP models from big names like Creality, Elegoo, Prusa and more.",
-      "url": "https://www.tomshardware.com/3d-printing/grab-a-new-3d-printer-this-halloween-weekend-with-prices-as-low-as-usd199-big-discounts-from-elegoo-creality-prusa-and-more-with-filament-and-resin-printers-and-consumables-on-sale",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "id": "c4820ebfda4811da",
-      "title": "ASRock B860 Challenger Wifi Motherboard Review: Entry-level ATX at a great price, with drawbacks",
-      "summary": "ASRock’s B860 Challenger Wifi covers the basics and performs well, but slower USB ports, weaker VRMs, and a dated BIOS keep it from standing out, even at the lower price.",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-b860-challenger-wifi-motherboard-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "id": "c386da02453c5529",
-      "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
-      "summary": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop, with Anthropic token falling 77% in under five months.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T13:49:09+00:00"
-    },
-    {
-      "id": "97f87a87fd7b5f5c",
-      "title": "This week in Tom's Hardware Premium: October 31, 2026",
-      "summary": "In case you're not yet subscribed to our Tom's Hardware Premium subscription service, here's what you've been missing out on this week",
-      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T13:30:00+00:00"
-    },
-    {
-      "id": "2a593f2dab5a11b0",
-      "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
-      "summary": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T13:00:00+00:00"
-    },
-    {
-      "id": "5f0b9bcb37ac1ca0",
-      "title": "Developer builds a complete Intel 486 PC emulator in a browser",
-      "summary": "A developer has created a full Intel 486 PC system, using 100% pure-JavaScript, in a browser.",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T12:40:00+00:00"
-    },
-    {
-      "id": "eb5b416ace686049",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "summary": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation — users also claim their non-malicious generic reverse-engineering tasks are block",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T12:20:00+00:00"
-    },
-    {
-      "id": "fe6dc9f8b41dc8ae",
-      "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
-      "summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "id": "5ad59a5a0b357034",
-      "title": "Veteran Microsoft engineer makes his own RAM from scratch using AI",
-      "summary": "Expensive memory forces former Microsoft engineer to make his own — Dave Plummer makes PDP-11 RAM from scratch",
-      "url": "https://www.tomshardware.com/pc-components/ram/veteran-microsoft-engineer-makes-his-own-ram-from-scratch-using-ai-attempts-to-build-4mb-of-1970s-pdp-11-ram-from-scratch",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T11:40:00+00:00"
-    },
-    {
-      "id": "041a6c7ac3eebec0",
-      "title": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
-      "summary": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
-      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T11:20:00+00:00"
-    },
-    {
-      "id": "2cd10be7e1905175",
-      "title": "3D-printed ghost guns may now have a way to be traced to their source",
-      "summary": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
-      "url": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T11:00:00+00:00"
     }
   ],
   "sources": [
