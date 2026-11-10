@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-09T22:17:08.258271+00:00",
+  "updated_at": "2026-11-10T07:12:31.537941+00:00",
   "articles": [
+    {
+      "id": "7b66bbd769d72b0b",
+      "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "summary": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-10T00:03:08+00:00"
+    },
     {
       "id": "863ec2da227d1a34",
       "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
@@ -2151,15 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-10-31T11:00:00+00:00"
-    },
-    {
-      "id": "5a7d7e5c7139cf9e",
-      "title": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
-      "summary": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
-      "url": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-10-31T10:00:00+00:00"
     }
   ],
   "sources": [
