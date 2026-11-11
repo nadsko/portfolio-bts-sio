@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-10T19:41:08.201833+00:00",
+  "updated_at": "2026-11-11T06:08:31.221669+00:00",
   "articles": [
+    {
+      "id": "19b4fcb1faac9c9b",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-11T05:01:16+00:00"
+    },
     {
       "id": "2c15f23ac7aa344c",
       "title": "Git security vulnerabilities announced",
@@ -2148,15 +2157,6 @@
       "title": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "56e69abb591f27e3",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-02T00:00:00+00:00"
