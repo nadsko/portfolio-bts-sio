@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-11-11T06:08:31.221669+00:00",
+  "updated_at": "2026-11-11T14:14:32.279258+00:00",
   "articles": [
+    {
+      "id": "f3a3f70b9e40d7c3",
+      "title": "Montech King 95 3D Pro case review: The King has returned – bigger, and now with three-pane panoramic views",
+      "summary": "The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior space for components and cooling, and the Pro version comes with seven RGB fan",
+      "url": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "id": "2ab77b5e45fc42e7",
+      "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
+      "summary": "Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch",
+      "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T13:42:37+00:00"
+    },
+    {
+      "id": "ec3dffce5a70b9ff",
+      "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer ex",
+      "summary": "Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T13:30:00+00:00"
+    },
+    {
+      "id": "ce1f726d46152766",
+      "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
+      "summary": "Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he had a target on his back as the leader of a trillion-dollar company.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T13:04:44+00:00"
+    },
+    {
+      "id": "43da26cb5fdc06b7",
+      "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+      "summary": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+      "url": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T13:00:00+00:00"
+    },
+    {
+      "id": "24aabd40da1a3f45",
+      "title": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
+      "summary": "Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back",
+      "url": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T12:30:00+00:00"
+    },
+    {
+      "id": "0940059ac636cfac",
+      "title": "Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32",
+      "summary": "Grab a 36% saving on Hoto’s cordless rotary toolkit, with a 25,000 RPM motor, 35 accessories and a built-in LED ring light.",
+      "url": "https://www.tomshardware.com/desktops/pc-building/save-36-percent-on-this-hoto-cordless-rotary-3d-printing-toolkit-for-makers-now-under-usd32-5-speed-tool-ships-with-35-attachments-for-sanding-polishing-carving-and-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T12:00:00+00:00"
+    },
+    {
+      "id": "4e0c4054b89bff6d",
+      "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
+      "summary": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the performance of a full-DRAM system in certain applications.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T12:00:00+00:00"
+    },
+    {
+      "id": "f171c5cd93c6cc42",
+      "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
+      "summary": "The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly regulatory environment that owner Elon Musk might have hoped for.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T11:30:00+00:00"
+    },
+    {
+      "id": "9e800276dd9bc745",
+      "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
+      "summary": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T11:00:00+00:00"
+    },
+    {
+      "id": "ded548c16fc34da9",
+      "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
+      "summary": "Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 in the process.",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd351-with-this-newegg-bundle-with-the-9800x3d-usd87-less-than-the-next-cheapest-memory-gaming-pc-build-kit-includes-enthusiast-asus-x870e-motherboard-and-free-aio-liquid-cooler-with-usd128-99-in-total-savings",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T10:54:55+00:00"
+    },
+    {
+      "id": "fae6a80c665b4abd",
+      "title": "Modder routes PC water cooling loop to radiator outside to beat the winter heat",
+      "summary": "A Reddit PC builder didn't want to bother opening a window in the winter when their system made their legs too hot, so they created an automated split cooling system to dump heat outside.",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/enterprising-pc-modder-makes-a-split-cooling-system-to-keep-it-from-overheating-his-room-winter-cold-keeps-cpu-and-gpu-temperatures-below-50-c-under-load",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T10:30:00+00:00"
+    },
+    {
+      "id": "2575246949f787e3",
+      "title": "3,500 laser-armed AI submarine drones patrol Norwegian salmon farms, killing sea lice and protecting 112 million fish",
+      "summary": "3,500 Stingray AI laser robots deployed around salmon pens along the Norwegian coast 24/7 protect over 112 million fish from sea lice.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T10:00:00+00:00"
+    },
     {
       "id": "19b4fcb1faac9c9b",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -2043,123 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-02T13:00:00+00:00"
-    },
-    {
-      "id": "b639e3a472b10bbd",
-      "title": "Triple your Nintendo Switch 2's storage for just $99",
-      "summary": "A 34% price cut at Amazon means you can get the Samsung P9 512GB microSD Express card for the Nintendo Switch 2 for just $99.99 right now.",
-      "url": "https://www.tomshardware.com/pc-components/microsd-cards/triple-your-nintendo-switch-2s-storage-for-just-usd99-save-usd50-on-this-ultra-fast-512gb-samsung-p9-microsd-card-for-a-limited-time-only",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T12:54:57+00:00"
-    },
-    {
-      "id": "cba10c8fd123caea",
-      "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures",
-      "summary": "Russia's Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T12:41:54+00:00"
-    },
-    {
-      "id": "fdefa8ea74a47a25",
-      "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
-      "summary": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP — company \"iterating to ensure [...] the right balance\"",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T12:30:00+00:00"
-    },
-    {
-      "id": "6aac99b9309e0b64",
-      "title": "Elon Musk mocks OpenAI CEO Sam Altman's claim that PCs having RAM is terrible",
-      "summary": "SpaceX CEO Musk posted a meme to X mocking Altman's belief that it's \"",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible-the-people-deserve-to-have-their-ram-too",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T12:11:21+00:00"
-    },
-    {
-      "id": "cc6077e7bc7f372f",
-      "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution",
-      "summary": "SpaceX loses latest legal fight over xAI's gas-powered data centers in Mississippi — court rejects arguments that mobile turbines are exempt from air permits",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T12:00:00+00:00"
-    },
-    {
-      "id": "bacbd34198341b06",
-      "title": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
-      "summary": "This ABS Stratos II Aqua gaming PC has dropped to $2,549.99 at Newegg right now, giving you a rig with a 24-core Intel Core i9-14900KF CPU, an Nvidia GeForce RTX 5070 Ti GPU, a 2TB SSD, and 32GB of DDR5 RAM.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T11:52:11+00:00"
-    },
-    {
-      "id": "7d33acf85a86e5bc",
-      "title": "Sony's final 4K Blu-ray player listed as out of stock in Japan, firm may be preparing to abandon standalone players",
-      "summary": "Sony may be preparing to abandon the standalone 4K Blu-ray player market after retailers in Japan reportedly stopped expecting new shipments of its final remaining model, the UBP-X700K. The company has not confirmed a worldwide withdrawal, and the player remains listed in the U.S",
-      "url": "https://www.tomshardware.com/video-games/playstation/sonys-final-4k-blu-ray-player-listed-as-out-of-stock-in-japan-firm-may-be-preparing-to-abandon-standalone-players-retailers-reportedly-told-not-to-expect-new-stock-of-its-remaining-model",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T11:30:00+00:00"
-    },
-    {
-      "id": "9d51cf9bd8e5fa8a",
-      "title": "Military explores commercial 5G networks for enemy drone defense",
-      "summary": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
-      "url": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T11:00:00+00:00"
-    },
-    {
-      "id": "3158ea4b10397420",
-      "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
-      "summary": "A second cyberattack has struck supermarket freezers across Europe.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T10:49:27+00:00"
-    },
-    {
-      "id": "f0221b371a39eca6",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'app",
-      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "1711cd945dd14dbe",
-      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "eca36f517ac12131",
-      "title": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
-    },
-    {
-      "id": "1485da5c2be953b3",
-      "title": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-02T00:00:00+00:00"
     }
   ],
   "sources": [
