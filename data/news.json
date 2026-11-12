@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-11-11T14:14:32.279258+00:00",
+  "updated_at": "2026-11-12T00:37:55.833224+00:00",
   "articles": [
     {
+      "id": "3be2b92afc3d7e06",
+      "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
+      "summary": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T23:45:00+00:00"
+    },
+    {
+      "id": "68c307bf96afb626",
+      "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
+      "summary": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy.",
+      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T22:31:39+00:00"
+    },
+    {
+      "id": "e75a4f081b035e02",
+      "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+      "summary": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T21:30:00+00:00"
+    },
+    {
+      "id": "e6822af1afc5ae05",
+      "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
+      "summary": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have.",
+      "url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T21:00:00+00:00"
+    },
+    {
+      "id": "964aed087794010a",
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
+      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "id": "225eab3faf340859",
+      "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+      "summary": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T16:30:00+00:00"
+    },
+    {
+      "id": "aa5191391e01de7b",
+      "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6",
+      "summary": "Accessory maker Logitech has a new \"Logi Game Day\" initiative that allows employees to take a day off from now until this time next year to play a game of their choice — including the one everyone is talking about.",
+      "url": "https://www.tomshardware.com/video-games/pc-peripheral-maker-logitech-giving-all-of-its-7-000-employees-the-day-off-to-play-gta-6-company-announces-game-day-initiative-dedicated-vacation-day-to-play-video-games",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T15:55:12+00:00"
+    },
+    {
+      "id": "89a6798776dde039",
+      "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
+      "summary": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T15:03:08+00:00"
+    },
+    {
+      "id": "416956430caf2757",
+      "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
+      "summary": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T14:29:43+00:00"
+    },
+    {
+      "id": "9ebdf5c3c31a4450",
+      "title": "ASRock quietly rolls out new firmware after disastrous previous update killed Radeon RX 7900-series GPUs",
+      "summary": "Asrock's VBIOS 1.0.6 update follows reports of Radeon RX 7900 XT and XTX graphics cards failing to boot after installing the previous firmware.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/asrock-attempts-to-correct-botched-radeon-rx-7000-firmware-release-with-new-version-revised-release-should-work-ok-but-company-provides-no-explanation-for-bricked-cards",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-11T14:20:00+00:00"
+    },
+    {
       "id": "f3a3f70b9e40d7c3",
-      "title": "Montech King 95 3D Pro case review: The King has returned – bigger, and now with three-pane panoramic views",
+      "title": "Montech King 95 3D Pro case review: The King has returned",
       "summary": "The new Montech King 95 3D case offers 3-panel panoramic views of the inside, loads of interior space for components and cooling, and the Pro version comes with seven RGB fan",
       "url": "https://www.tomshardware.com/pc-components/pc-cases/montech-king-95-3d-pro-case-review",
       "category": "Hardware",
@@ -126,6 +216,15 @@
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-11-11T05:01:16+00:00"
+    },
+    {
+      "id": "11568aa8dfcf9a3c",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-11T00:00:00+00:00"
     },
     {
       "id": "2c15f23ac7aa344c",
@@ -2061,105 +2160,6 @@
       "category": "IA",
       "source": "NVIDIA Developer",
       "date": "2026-11-02T18:00:00+00:00"
-    },
-    {
-      "id": "e756748f59babaaf",
-      "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
-      "summary": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into...",
-      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-02T17:00:00+00:00"
-    },
-    {
-      "id": "a3b334759b7e7f12",
-      "title": "Creality K3 Review: It’s a Tool Changer, not a game changer",
-      "summary": "Creality’s four-color tool changer is a good one, but is it too late?",
-      "url": "https://www.tomshardware.com/3d-printing/creality-k3-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T16:40:58+00:00"
-    },
-    {
-      "id": "27417b1e75769fec",
-      "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price",
-      "summary": "The Raspberry Pi 16GB has gone up in price by $80 to $385. It now costs more than triple its January 2025 launch price.",
-      "url": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T16:17:35+00:00"
-    },
-    {
-      "id": "d8e3c61d1ed07fc2",
-      "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-      "summary": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,...",
-      "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-02T16:00:00+00:00"
-    },
-    {
-      "id": "101167941912268b",
-      "title": "Rivian brings Ghostbusters universe to Halloween Mode, with real-time visuals in Unreal Engine",
-      "summary": "Who you gonna call? Rivian brings Ghostbusters universe to life with its Halloween Mode, featuring Slimer, Mini-Pufts, and spooky surprises—all powered by real-time 3D graphics created in Unreal Engine 5.",
-      "url": "https://www.unrealengine.com/news/rivian-brings-ghostbusters-universe-to-halloween-mode-with-real-time-visuals-in-unreal-engine",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-11-02T15:48:38+00:00"
-    },
-    {
-      "id": "1e7e647af43d58e8",
-      "title": "'America hates data centers' — New data highlights public sentiment",
-      "summary": "A new website seeks to distill over 10,000 public comments about data centers in the community across more than 410 local governments, and the consensus is that people don't like them one bit.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/america-hates-data-centers-new-database-reveals-more-than-90-percent-of-10-000-public-comments-are-negative-only-21-percent-mention-ai-73-percent-of-meetings-had-no-data-center-supporters-water-is-the-number-one-concern",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T15:19:12+00:00"
-    },
-    {
-      "id": "816da7d57efab0a9",
-      "title": "Gamer's Asus TUF monitor blocks bullet fired through wall during Call of Duty session",
-      "summary": "A Redditor was playing Call of Duty when they heard gunfire outside their home. After hitting the deck, they discovered that their monitor had potentially saved their life.",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T14:34:50+00:00"
-    },
-    {
-      "id": "545d8840bc07f01c",
-      "title": "Nvidia Brev security breach may have exposed SSH keys used to access customer VMs",
-      "summary": "Nvidia is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. Nvidia has rotated the affected keys ",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "id": "e6afbecb49194b69",
-      "title": "Apple finally has a touchscreen MacBook. Why now?",
-      "summary": "Apple is introducing a touchscreen laptop in the MacBook Pro with a PROLED XDR Display. Here's where it falls in the long timeline of touchscreen laptops.",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apple-finally-has-a-touchscreen-macbook-why-now",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T14:00:00+00:00"
-    },
-    {
-      "id": "3ef7b0fda6706915",
-      "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
-      "summary": "Qwenputer is an experimental blend of the stock Qwen 3.5 4B LLM with a 32-bit RISC-V CPU compiled and inserted directly into its weights.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T13:30:00+00:00"
-    },
-    {
-      "id": "3dcc877d6e009ff8",
-      "title": "Google data center wins approval in Minnesota after protests delay council vote twice",
-      "summary": "Google’s proposed Hermantown data center has cleared a major approval hurdle after the city council unanimously backed the project on October 30.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T13:00:00+00:00"
     }
   ],
   "sources": [
