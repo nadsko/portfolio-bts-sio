@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-11-12T00:37:55.833224+00:00",
+  "updated_at": "2026-11-12T15:07:22.571309+00:00",
   "articles": [
+    {
+      "id": "e328eabbcc865247",
+      "title": "Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic",
+      "summary": "Corsair puts the internals of a CWT-built, Cybenetics Platinum 1000W platform on display behind three clear panels, adding side-mounted connectors, iCUE LINK integration and per-pin 12V-2x6 protection.",
+      "url": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1000i-shift-crystal-power-supply-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T14:00:00+00:00"
+    },
+    {
+      "id": "25beb5cab8f200a1",
+      "title": "Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations",
+      "summary": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T13:58:41+00:00"
+    },
+    {
+      "id": "66ee081196df522d",
+      "title": "Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors",
+      "summary": "Noctua says the NT-CP1 uses carbon nanotubes originally developed for aerospace applications, with the material gradually adapting to microscopic surface imperfections to improve heat transfer over repeated heating and cooling cycles.",
+      "url": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T13:04:13+00:00"
+    },
+    {
+      "id": "fe18d14c94ffb695",
+      "title": "Suspected Chinese spy at center of Jensen Huang affair surfaces in Beijing",
+      "summary": "There are multiple speculations about Alice Huang's s history and how she built her relationship with Jensen Huang.",
+      "url": "https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T12:53:36+00:00"
+    },
+    {
+      "id": "ffc0b9731ac2f39f",
+      "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
+      "summary": "Grab a CyberPowerPC machine with an RX 9070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd350-on-this-all-amd-1440p-gaming-desktop-with-9800x3d-rx-9070-also-features-32gb-of-ram-and-a-1tb-ssd-for-just-usd1-949",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T11:12:26+00:00"
+    },
+    {
+      "id": "b324eeffcf7405c2",
+      "title": "Google reworks TPU silicon into specialized systems for agents and security",
+      "summary": "Google’s TPU 8i Max and TPU 8tx reuse TPU 8i and TPU 8t silicon to target long-context agents and confidential inference.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-adds-two-new-specialized-chips-for-ai-agents-and-security-to-8th-gen-tpu-lineup-tpu-8i-max-puts-two-chips-on-one-package-for-long-context-work-tpu-8tx-swaps-arm-hosts-for-amd-epyc",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T11:00:00+00:00"
+    },
+    {
+      "id": "602d7e27542aacff",
+      "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+      "summary": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T10:30:00+00:00"
+    },
+    {
+      "id": "e5537bb692757984",
+      "title": "Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue",
+      "summary": "One expert says that it still depends on the perfect confluence of cheap power, favorable regulation, and reliable connectivity.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-12T10:00:00+00:00"
+    },
+    {
+      "id": "cbda9238a3684b28",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
     {
       "id": "3be2b92afc3d7e06",
       "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
@@ -1190,6 +1271,15 @@
       "date": "2026-11-06T00:00:00+00:00"
     },
     {
+      "id": "ee25c738f57dfd68",
+      "title": "Multiples vulnérabilités dans Mattermost Server (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1479/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
       "id": "4bd2a81c8417f215",
       "title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
       "summary": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
@@ -2070,96 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "34acc417a51f3d4e",
-      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "526ff31eeaeaa227",
-      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "af0be5d0fba756c0",
-      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "2552caf5c667e374",
-      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "218c5dc9b18cefce",
-      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
-      "summary": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
-      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-02T23:39:34+00:00"
-    },
-    {
-      "id": "84a791d3975ddc36",
-      "title": "Keep Distributed Training Running with Automated Workload Recovery",
-      "summary": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
-      "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-02T22:43:05+00:00"
-    },
-    {
-      "id": "8ca045b6b127f284",
-      "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
-      "summary": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term “AI compute campuses” for its data centers as it seeks to address concerns over",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T19:15:31+00:00"
-    },
-    {
-      "id": "b91bab8728a68c08",
-      "title": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
-      "summary": "Tachyum files for bankruptcy, the court in Bratislava initiates bankruptcy proceedings.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T18:07:21+00:00"
-    },
-    {
-      "id": "3155d2bdef5f5634",
-      "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks",
-      "summary": "President Putin has told non-state Russian data centers that they must set aside 10% of their total capacity for use by the country's own IT infrastructure.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/putin-demands-russian-data-centers-supply-capacity-to-the-state-in-wake-of-ukraine-drone-attacks-10-percent-capacity-must-be-available-for-state-it-infrastructure-with-24-hours-notice",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-02T18:00:32+00:00"
-    },
-    {
-      "id": "27fbd1c4cf7f186a",
-      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
-      "summary": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,...",
-      "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-02T18:00:00+00:00"
     }
   ],
   "sources": [
