@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-11-13T06:37:31.937135+00:00",
+  "updated_at": "2026-11-13T19:37:42.903191+00:00",
   "articles": [
+    {
+      "id": "e65e42f824f14c2b",
+      "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "summary": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
+      "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-13T18:57:10+00:00"
+    },
+    {
+      "id": "878b4babc56ecb4f",
+      "title": "Keyboards and keyboard accessories under $100 — budget-friendly gifts for keyboard enthusiasts",
+      "summary": "The best sub-$100 gifts to get the keyboard enthusiast in your life — even if they already have their end-game keyboard.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/keyboards-and-keyboard-accessories-under-usd100-budget-friendly-gifts-for-keyboard-enthusiasts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T18:25:25+00:00"
+    },
+    {
+      "id": "cdc8eef67bc55a0d",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-13T18:00:39+00:00"
+    },
+    {
+      "id": "96c7f67bef86f831",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-13T17:02:35+00:00"
+    },
+    {
+      "id": "a17ef475e2c86f35",
+      "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "summary": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations...",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "id": "aaeee469c7091579",
+      "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "summary": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing...",
+      "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "id": "87e7b7bc8e0fc75f",
+      "title": "10 great PC upgrades for under $100",
+      "summary": "If you're in the market for a PC upgrade for a cheaper gift, here are 10 items under $100.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-great-pc-upgrades-for-under-usd100-spice-up-your-setup-for-less-with-these-gifts-and-impulse-purchases",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T17:00:00+00:00"
+    },
+    {
+      "id": "f1141eb849c0f588",
+      "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+      "summary": "The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T16:30:00+00:00"
+    },
+    {
+      "id": "6e9bff3515a6f2cc",
+      "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+      "summary": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 AI servers.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T16:15:28+00:00"
+    },
+    {
+      "id": "cc06bfb7204ad563",
+      "title": "Popular gaming chair and desk maker Secretlab launches dedicated US brick-and-mortar locations — new shop in LA, spaces in Best Buy",
+      "summary": "Secretlab now sells its wares inside Best Buy and in a dedicated store in LA.",
+      "url": "https://www.tomshardware.com/peripherals/popular-gaming-chair-and-desk-maker-secretlab-launches-dedicated-us-brick-and-mortar-locations-new-shop-in-la-spaces-in-best-buy",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T16:00:00+00:00"
+    },
+    {
+      "id": "6841e619fcd7e8d9",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-13T14:05:22+00:00"
+    },
+    {
+      "id": "eb4ae5085e89abeb",
+      "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims",
+      "summary": "Jensen Huang reportedly called himself 'a piece of sh--\" after his forced departure, but employees still want him back.",
+      "url": "https://www.tomshardware.com/tech-industry/broken-and-shattered-nvidia-ceo-jensen-huang-surrendered-during-resignation-meeting-report-claims-thousands-of-employees-rally-calling-for-reinstatement-on-internal-forum",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T13:16:16+00:00"
+    },
+    {
+      "id": "a75cb328d4ba2fd8",
+      "title": "Japanese workers return to fax machines during ongoing Microsoft 365 outage",
+      "summary": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
+      "url": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T12:57:37+00:00"
+    },
+    {
+      "id": "1370d324d3324f4e",
+      "title": "Walmart has slashed $730 off this monster gaming PC with RTX 5070 Ti",
+      "summary": "Save $730 on this CyberPowerPC with Intel Core Ultra 9 285 and RTX 5070 Ti.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/walmart-has-slashed-usd730-off-this-monster-gaming-pc-with-rtx-5070-ti-also-features-a-24-core-intel-processor-32gb-ddr5-2tb-ssd",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T11:30:00+00:00"
+    },
+    {
+      "id": "3aff7a3db8a3d91b",
+      "title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
+      "summary": "Top analyst firm SemiAnalysis says it has tracked staggering 1.5 gigawatts of banned AI accelerators flowing into China.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T11:00:00+00:00"
+    },
+    {
+      "id": "18f3392e0dc68b30",
+      "title": "How Shanghai fund manager Kang Wei introduced his wife Alice Huang to Jensen and built $7.5 billion Nvidia AI GPU smuggling operation",
+      "summary": "While Alice Huang lives on the headlines, it was actually her husband who put her in the same room as Jensen Huang.",
+      "url": "https://www.tomshardware.com/tech-industry/how-shanghai-fund-manager-kang-wei-introduced-his-wife-alice-huang-to-jensen-and-built-usd7-5-billion-nvidia-ai-gpu-smuggling-operation-mistresss-husband-joked-she-was-the-ceos-personal-assistant",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T11:00:00+00:00"
+    },
+    {
+      "id": "56c5c6152281fcb3",
+      "title": "Grab this 8BitDo wireless controller for your gaming PC and Switch 2 at its lowest ever price, now $51.12",
+      "summary": "This 8BitDo Ultimate 2 game controller for your PC or Nintendo Switch is down to a record low price on Amazon right now.",
+      "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/grab-this-8bitdo-wireless-controller-for-your-gaming-pc-and-switch-2-at-its-lowest-ever-price-now-usd51-12-27-percent-off-this-fully-customizable-ultimate-2-gamepad-with-tmr-joysticks-dual-triggers-and-remappable-buttons",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T10:53:49+00:00"
+    },
+    {
+      "id": "f11888ca9526eae7",
+      "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+      "summary": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T10:30:00+00:00"
+    },
+    {
+      "id": "bd8427ee66328968",
+      "title": "macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64",
+      "summary": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 — Hackintoshes",
+      "url": "https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-13T10:00:00+00:00"
+    },
     {
       "id": "7c512829bf524dd8",
       "title": "GitHub availability report: October 2026",
@@ -231,6 +402,114 @@
       "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1521/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "d08fb5c92767e11a",
+      "title": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "64184bd80527d1aa",
+      "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "4177c5f133c1c5e5",
+      "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "9f70d4fba6df3be9",
+      "title": "Multiples vulnérabilités dans HPE Aruba Networking Private 5G Core (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Private 5G Core. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de s",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1503/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "091eeba480709992",
+      "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "91ee7f255da3a9a1",
+      "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "0dc20131773b35ae",
+      "title": "Multiples vulnérabilités dans Traefik (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1517/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "b459b78f7a1eb346",
+      "title": "Multiples vulnérabilités dans les produits Microsoft (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1515/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "5e65deaa8dc35720",
+      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "03bcffdc384cb856",
+      "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "bc7d276ee421aa95",
+      "title": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que l",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "5e298caf3ca9d419",
+      "title": "Multiples vulnérabilités dans Laravel (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1504/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-12T00:00:00+00:00"
@@ -1881,285 +2160,6 @@
       "category": "IA",
       "source": "NVIDIA Developer",
       "date": "2026-11-04T17:00:00+00:00"
-    },
-    {
-      "id": "2236985d06a596a5",
-      "title": "T-Mobile launches $90 5 Gbps fiber internet plan",
-      "summary": "T-Mobile is offering up to 5 Gbps fiber internet for less than $100/month",
-      "url": "https://www.tomshardware.com/service-providers/network-providers/t-mobile-launches-usd90-5-gbps-fiber-internet-plan-2-5x-speed-boost-comes-with-10-year-price-guarantee",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T16:50:33+00:00"
-    },
-    {
-      "id": "8db6db70c49ae8ff",
-      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-      "summary": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...",
-      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-04T16:00:00+00:00"
-    },
-    {
-      "id": "b61b38af375372c6",
-      "title": "Team Group CEO warns memory crisis could reach point where 'even money can't buy goods' — will get worse next year, with 'no downward trend in price whatsoever'",
-      "summary": "“How can prices fall when there’s nothing left?” Team Group CEO Chen Ching-wen said during the company's earnings call.",
-      "url": "https://www.tomshardware.com/pc-components/dram/team-group-ceo-warns-memory-crisis-could-reach-point-where-even-money-cant-buy-goods-will-get-worse-next-year-with-no-downward-trend-in-price-whatsoever",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T15:28:30+00:00"
-    },
-    {
-      "id": "f4e4d04d95f34b87",
-      "title": "Logitech G Pro X3 Superstrike Review: $200 for the illusion of a click",
-      "summary": "Logitech's G Pro X3 Superstrike is a minor but noticeable update to its revolutionary mouse — there's a new chipset and the weight has been rebalanced, so it lasts longer and feels better. And it costs $200.",
-      "url": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g-pro-x3-superstrike-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T15:00:00+00:00"
-    },
-    {
-      "id": "2c69270f3edfa493",
-      "title": "Thermal Grizzly launches PhaseSheet PTM Pro with improved thermal conductivity — new thermal pad promises easier installation and better cooling performance",
-      "summary": "Designed for CPUs, GPUs, and other components without an integrated heat spreader, the PhaseSheet PTM Pro is reusable, electrically non-conductive, and less susceptible to the pump-out effect associated with traditional thermal paste.",
-      "url": "https://www.tomshardware.com/pc-components/thermal-paste/thermal-grizzly-launches-phasesheet-ptm-pro-with-improved-thermal-conductivity-new-thermal-pad-promises-easier-installation-and-better-cooling-performance",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T14:36:13+00:00"
-    },
-    {
-      "id": "bd86d948470be96f",
-      "title": "Micron details ambitious DRAM and NAND roadmap — 3D NAND, High-NA EUV, new materials, and custom silicon makes a comeback",
-      "summary": "As DRAM and 3D NAND are about to adopt all-new technologies, custom types of memory are about to become mainstream as AI developers face limitations with current solutions.",
-      "url": "https://www.tomshardware.com/pc-components/dram/micron-details-ambitious-dram-and-nand-roadmap-3d-nand-high-na-euv-new-materials-and-custom-silicon-makes-a-comeback",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T14:00:00+00:00"
-    },
-    {
-      "id": "ef47d9cca7a39f2f",
-      "title": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments",
-      "summary": "Several counties put data center issues on the ballot during the midterm elections, with most Americans voting against data center development in their county.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T13:13:32+00:00"
-    },
-    {
-      "id": "4409ffb34e791593",
-      "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
-      "summary": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange’s internal wallet signing systems, enabling the October 2",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T13:00:00+00:00"
-    },
-    {
-      "id": "19f36d2514cca333",
-      "title": "PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages ",
-      "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T12:30:00+00:00"
-    },
-    {
-      "id": "536d8c4e8d0d2f35",
-      "title": "Nvidia can only fulfill 1% of China’s massive $70 billion GPU order for AI chips, report claims — supply constraints choke export-friendly RTX Pro 5500 deliveries despite huge dema",
-      "summary": "Just 1% of chips promised to major Chinese companies to power their AI ambitions will be delivered, according to reports.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-can-only-fulfill-1-percent-of-chinas-massive-usd70-billion-gpu-order-for-ai-chips-report-claims-supply-constraints-choke-export-friendly-rtx-pro-5500-deliveries-despite-huge-demand",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T12:15:00+00:00"
-    },
-    {
-      "id": "290a491fb27a6f2c",
-      "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU — ‘npu-driver’ can only run at 2 to 3 Hz, targets 30 Hz performance",
-      "summary": "Open source developers have released a prototype driver for Windows 11 that renders the desktop using an NPU instead of the system’s (i)GPU.",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T12:00:00+00:00"
-    },
-    {
-      "id": "3f73ee04b477d7c8",
-      "title": "Cloudflare engineers optimize DNS build services for twice the speed and 85% lower RAM usage",
-      "summary": "Cloudflare engineers are at it again, optimizing DNS-building services for twice the speed and 85% less RAM usage",
-      "url": "https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T12:00:00+00:00"
-    },
-    {
-      "id": "48efd1bd5347eea6",
-      "title": "Upgrade to an OLED display for only $269 at Walmart — Acer's 27-inch Nitro gaming monitor has a superfast 240Hz refresh rate and crisp WQHD resolution",
-      "summary": "Switch to a QD-OLED gaming monitor for just $269. This Walmart bargain nets you a 27-inch QHD display with a super-fast 240Hz refresh rate.",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/upgrade-to-an-oled-display-for-only-usd269-at-walmart-acers-27-inch-nitro-gaming-monitor-has-a-superfast-240hz-refresh-rate-and-crisp-wqhd-resolution",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T11:51:07+00:00"
-    },
-    {
-      "id": "00b24362709bc4aa",
-      "title": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services",
-      "summary": "OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
-      "url": "https://www.tomshardware.com/software/applications/disgruntled-software-developers-start-ambitious-open-source-revolt-using-ai-to-clone-common-services-occupysaas-ai-powered-project-wants-to-kick-auth0-salesforce-and-other-pricy-service-as-software-to-the-curb",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T11:30:00+00:00"
-    },
-    {
-      "id": "02863d758abff1ba",
-      "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
-      "summary": "Grab a CyberPowerPC machine wtih an RTX 5070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-gaming-pc-with-a-9800x3d-and-rtx-5070-right-now-pre-built-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-2tb-ssd-for-just-usd2-199-99",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T11:26:04+00:00"
-    },
-    {
-      "id": "fa1b775b9b5285f3",
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "summary": "AMD's data center business surges as strong demand for Epyc processors and Instinct accelerators continues and sales of client hardware declines only slightly.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T11:15:00+00:00"
-    },
-    {
-      "id": "af1dc7a7056fbd5e",
-      "title": "Certified Android TV manufacturer put unauthorized backdoor in 1.3 million set-top boxes, Google reveals",
-      "summary": "Google discovered and shut down a backdoor built into millions of Google TV and Android TV set-top boxes built by Videostrong Technology Co.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/certified-android-tv-manufacturer-put-unauthorized-backdoor-in-set-top-boxes-google-reveals-oem-sold-access-to-criminal-affiliates-for-1-3-million-devices-used-massive-network-as-botnet-for-ad-fraud-residential-proxy",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T11:00:00+00:00"
-    },
-    {
-      "id": "a80ab5d5846575b2",
-      "title": "US Army successfully flies a hybrid electric drone with 3D-printed heavy-fuel rotary engine — uses advanced engineering to ditch a bulky liquid cooling system",
-      "summary": "The US Army VICTOR drone uses an optimized heavy-fuel rotary engine developed with metal 3D printing for rapid prototyping.",
-      "url": "https://www.tomshardware.com/tech-industry/drones/us-army-successfully-flies-a-hybrid-electric-drone-with-3d-printed-heavy-fuel-rotary-engine-400v-motor-generator-uses-advanced-engineering-to-ditch-a-bulky-liquid-cooling-system",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-04T10:30:00+00:00"
-    },
-    {
-      "id": "0d8d18bfcbcd59ec",
-      "title": "Unreal Engine Innovation Heads to I/ITSEC 2026",
-      "summary": "Don’t miss our Mesh Terrain demo, discussion on Unreal MCP and agnostic LLM integrations, AI co-developed applications, and much more as we head to I/ITSEC 2026 in Orlando on 30 November. Book your meeting with us today.",
-      "url": "https://www.unrealengine.com/news/unreal-engine-innovation-heads-to-i-itsec-2026",
-      "category": "Jeux vidéo",
-      "source": "Unreal Engine",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "f7c951ef06a742c0",
-      "title": "Multiples vulnérabilités dans les produits Symfony (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1460/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "e5ad176d99d168da",
-      "title": "Multiples vulnérabilités dans Apache Zookeeper (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1448/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "4abe00ea4c221aeb",
-      "title": "Multiples vulnérabilités dans les produits SonicWall (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection SQL (SQLi).",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "21cf21e3ec3e33a0",
-      "title": "Vulnérabilité dans MongoDB (04 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1454/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "0ed069b5aa2a6c7f",
-      "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "2a5b63716ac8b2d9",
-      "title": "Vulnérabilité dans Laravel (04 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1457/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "2f3860416892b4f2",
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1451/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "f471f65d6efb9afe",
-      "title": "Multiples vulnérabilités dans Google Chrome (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1450/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "c8950d94478fba78",
-      "title": "Vulnérabilité dans Mozilla Firefox (04 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1455/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "0e4fc47c1178947e",
-      "title": "Multiples vulnérabilités dans les produits Citrix (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1449/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "1cb04b91fd9325c8",
-      "title": "Multiples vulnérabilités dans NetApp StorageGRID (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp StorageGRID. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1453/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "f1c270a547bd788d",
-      "title": "Multiples vulnérabilités dans les produits Elastic (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
     }
   ],
   "sources": [
