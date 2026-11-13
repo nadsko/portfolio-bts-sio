@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-12T23:35:04.969516+00:00",
+  "updated_at": "2026-11-13T06:37:31.937135+00:00",
   "articles": [
+    {
+      "id": "7c512829bf524dd8",
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "category": "BTS SIO",
+      "source": "GitHub Blog",
+      "date": "2026-11-13T00:20:16+00:00"
+    },
     {
       "id": "8bc9138e516754eb",
       "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -2148,15 +2157,6 @@
       "title": "Multiples vulnérabilités dans les produits Elastic (04 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "id": "75844c2fac605321",
-      "title": "Multiples vulnérabilités dans SolarWinds Dameware (04 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Dameware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1459/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-04T00:00:00+00:00"
