@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-14T13:31:37.466666+00:00",
+  "updated_at": "2026-11-14T22:19:55.155587+00:00",
   "articles": [
+    {
+      "id": "aca626ddb5983657",
+      "title": "Wacky PC and gadget gift guide",
+      "summary": "Our list of fun and wacky PC and gadget gifts is surprising, delightful, and actually useful.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T21:00:00+00:00"
+    },
+    {
+      "id": "442ba46e01fa7edb",
+      "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
+      "summary": "Whether you're building a new PC, expanding your gaming library, or replacing an older SATA drive, Samsung's 990 offers a straightforward way to add high-speed PCIe 4.0 storage to your system.",
+      "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T16:32:48+00:00"
+    },
+    {
+      "id": "6376ec46c19896bb",
+      "title": "This week in Tom's Hardware Premium: November 14, 2026 — Mac Studio versus DGX Spark, AMD's MEXT cuts DRAM requirements in half, and the Huang saga reaches critical mass",
+      "summary": "Catch up with everything we've published this week on our subscription service, Tom's Hardware Premium, including exclusive interviews, local AI deep dives, and much more.",
+      "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T16:00:00+00:00"
+    },
+    {
+      "id": "d1e2bf280c615535",
+      "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
+      "summary": "Scott Bessent wonders whether Nvidia's management knew about selling restricted hardware to shell companies, but does not directly blame Jensen Huang of anything.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T15:35:48+00:00"
+    },
+    {
+      "id": "8f8b238c13bfb7d1",
+      "title": "We tested the RAM-saving storage tech in Gears of War: E-Day",
+      "summary": "Today we’re focusing on a less-discussed technology that plays an equally important role in bringing this visually rich, densely detailed world to systems with more limited hardware resources: storage technology designed to reduce RAM usage.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T15:30:00+00:00"
+    },
+    {
+      "id": "7368f2840f3dae4f",
+      "title": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
+      "summary": "Malaysia plans to track AI GPU imports and data center power consumption to combat chip smuggling. But will it be able to do so?",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T15:10:00+00:00"
+    },
+    {
+      "id": "f69cd34e87cb0178",
+      "title": "AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount",
+      "summary": "Alongside the Ryzen 7 9800X3D and Radeon RX 9070, buyers get a 360mm AIO liquid cooler, 850W PSU, 32GB DDR5-5600 memory, and a 1TB SSD, all inside a premium mid-tower chassis with RGB lighting.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "id": "1b96ee96fb578214",
+      "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+      "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T14:50:00+00:00"
+    },
+    {
+      "id": "0c5b3f662b3c5723",
+      "title": "Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables",
+      "summary": "This Ethernet cable untwisting tool could cut halve the time needed to install an RJ45 connector.",
+      "url": "https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T14:20:00+00:00"
+    },
+    {
+      "id": "c9107ce669565dc3",
+      "title": "Weeks after shipment was swiped by China, Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts",
+      "summary": "The Pentagon is struggling to track an astonishing 26 million F-35 warfighter parts, worth an estimated $31 billion, according to analysis published by the Government Accountability Office this week.",
+      "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-14T14:00:00+00:00"
+    },
     {
       "id": "d907579d20384617",
       "title": "Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale",
@@ -2070,96 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-05T12:31:33+00:00"
-    },
-    {
-      "id": "36dfc3e52c523e68",
-      "title": "Hackers target French blood service fridges following supermarket attacks",
-      "summary": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "id": "17ac570a7ef3238c",
-      "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
-      "summary": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum’s lasers, transceivers, optical switches, and InP manufacturing footprint.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "id": "42206d3b55c6bc08",
-      "title": "SpaceX's plan to build more data center compute than Google's entire lifetime capacity in just 1.5 years is possible, say analysts",
-      "summary": "SpaceX's bold claim that it's capable of building 10 GW of compute in 2027 may be plausible — analysts dig through the breakneck speed of Colossus buildouts as evidence",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-plans-to-build-more-data-center-compute-than-googles-entire-lifetime-capacity-in-just-1-5-years-analysts-say-target-is-realistic-spacex-to-build-staggering-10-gigawatts-of-compute-in-2027-alone",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T11:30:00+00:00"
-    },
-    {
-      "id": "824c654d1d45afc3",
-      "title": "Anthropic loosens Claude's game cloning ban",
-      "summary": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T11:00:00+00:00"
-    },
-    {
-      "id": "f429842fbe2e68ad",
-      "title": "Grab a huge 44% saving on a 4K 43-inch Samsung smart monitor, now under $280",
-      "summary": "Grab a cheap upgrade from a top brand with this Samsung 43-inch M7 M70F 4K UHD monitor, down to just $279.99, giving you a smart display for TV, movies, and productivity.",
-      "url": "https://www.tomshardware.com/monitors/grab-a-huge-44-percent-saving-on-a-4k-43-inch-samsung-smart-monitor-now-under-usd280-limited-time-woot-discount-on-dual-use-display-thatll-work-as-a-home-office-screen-or-standalone-smart-tv",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T10:52:49+00:00"
-    },
-    {
-      "id": "c65c7708e93995ca",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "efc9c259c8350659",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (05 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1466/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "75a010f3b2c4aaae",
-      "title": "Multiples vulnérabilités dans les produits Siemens (05 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1464/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "0baa73c838fb0fc8",
-      "title": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1468/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "52b240fe68cdeda1",
-      "title": "Multiples vulnérabilités dans les produits Cisco (05 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1467/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-05T00:00:00+00:00"
     }
   ],
   "sources": [
