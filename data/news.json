@@ -1,6 +1,168 @@
 {
-  "updated_at": "2026-11-15T06:22:22.399896+00:00",
+  "updated_at": "2026-11-15T18:47:45.422459+00:00",
   "articles": [
+    {
+      "id": "47efab5be3535500",
+      "title": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+      "summary": "Dai's post shows how much Nvidia employees looked up to the former CEO.",
+      "url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T17:56:15+00:00"
+    },
+    {
+      "id": "101a9072d573f4e7",
+      "title": "Cockpit-Simulator 737X CDU (v2) Review: An Essential Component for Flight Sim Enthusiasts",
+      "summary": "The CS 737X CDU (v2) by Cockpit-Simulator is a plug-and-play, 1:1 replica of a Boeing 737 Control Display Unit for home cockpit builds.",
+      "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T17:30:00+00:00"
+    },
+    {
+      "id": "253325c14766f52f",
+      "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
+      "summary": "After rumors of Nvidia GeForce RTX 5090 graphics cards being withdrawn from the consumer retail channel it is pleasing to see major U.S. eTailers like Newegg stuffed with cheaper stock today.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T17:00:00+00:00"
+    },
+    {
+      "id": "812eca929ddfe0db",
+      "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+      "summary": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T16:30:00+00:00"
+    },
+    {
+      "id": "2e7e704d1121fb5f",
+      "title": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+      "summary": "A CPU enthusiast has put together an eye-popping visual database containing crystal clear detailed die shots of 357 legendary, and some lesser-known, processors.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T16:00:00+00:00"
+    },
+    {
+      "id": "a158bfd09bef3194",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "summary": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T15:41:13+00:00"
+    },
+    {
+      "id": "6dcf7b8c2d8a6b27",
+      "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+      "summary": "The judge characterized the three companies as \"hawks flying in formation\" when it came to their business decisions.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T15:09:50+00:00"
+    },
+    {
+      "id": "8ae272fae52129ff",
+      "title": "3D printing dev’s free tool unlocks curved printing along all three axes",
+      "summary": "PancakeSlicer is a self-hostable non-planar 3D printing slicer that might finally make non-planar slicing more accessible to the masses.",
+      "url": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "id": "e9c403b0cb2bb3e4",
+      "title": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+      "summary": "An app engineer has showcased his homemade breadboard 486DX2 PC running Doom, put together in just over two weeks.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T14:30:00+00:00"
+    },
+    {
+      "id": "b15e46707b05a47d",
+      "title": "Pentagon tests pack hunting with autonomous war robots",
+      "summary": "The Pentagon has been testing packs of autonomous ground vehicles in simulated combat situations.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T14:19:24+00:00"
+    },
+    {
+      "id": "dfc0938df33696dc",
+      "title": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal",
+      "summary": "Nvidia Board Director sold around 4.2 million shares beginning August 31 and ending September 18, with the sale making him somewhere around $947 million.",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T14:00:00+00:00"
+    },
+    {
+      "id": "893a04fcae8e7797",
+      "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+      "summary": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop.",
+      "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T13:42:51+00:00"
+    },
+    {
+      "id": "8e4b3a0623b76d25",
+      "title": "Intel reclaims overall CPU market share for the first time since 2025",
+      "summary": "AMD continues to gain server CPU market share amid skyrocketing shipments of data center processors as sales of client CPUs drop in the third quarter, says Mercury Research.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T13:30:00+00:00"
+    },
+    {
+      "id": "d09f6eee8236c53a",
+      "title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+      "summary": "Microbiologists at the University of Rochester have modified an Ender 3 FDM printer into a 3D bioprinter for $450 and outperforming 3D bioprinters costing more than $100,000.",
+      "url": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T13:00:00+00:00"
+    },
+    {
+      "id": "95089a41d6bfe625",
+      "title": "Dev hacks Coway air purifier to cut it off from the cloud",
+      "summary": "A developer reverse-engineered his Coway Airmega IconS air purifier to run it locally in Home Assistant, without Coway’s cloud.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T12:30:00+00:00"
+    },
+    {
+      "id": "0193219ea9e598e8",
+      "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+      "summary": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+      "url": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T12:00:00+00:00"
+    },
+    {
+      "id": "2c0df2937e9931ac",
+      "title": "Dr. Lisa Su graces the opening of Micro Center's new Austin store",
+      "summary": "AMD gave away 300 swag bags to lucky shoppers, plus raffled off AMD gear, including a Radeon RX 9070 XT that Dr. Lisa Su autographed.",
+      "url": "https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T11:30:00+00:00"
+    },
+    {
+      "id": "4f04ec84c5bbd5e9",
+      "title": "The original Xbox was released 25 years ago today",
+      "summary": "Microsoft’s first games console hit North America 25 years ago today powered by a Pentium III CPU and Nvidia GPU.",
+      "url": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-15T11:00:00+00:00"
+    },
     {
       "id": "aca626ddb5983657",
       "title": "Wacky PC and gadget gift guide",
@@ -12,7 +174,7 @@
     },
     {
       "id": "442ba46e01fa7edb",
-      "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
+      "title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis",
       "summary": "Whether you're building a new PC, expanding your gaming library, or replacing an older SATA drive, Samsung's 990 offers a straightforward way to add high-speed PCIe 4.0 storage to your system.",
       "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
       "category": "Hardware",
@@ -1998,168 +2160,6 @@
       "category": "BTS SIO",
       "source": "GitHub Blog",
       "date": "2026-11-05T20:23:21+00:00"
-    },
-    {
-      "id": "f25b9201ad6bdcc6",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-05T19:35:16+00:00"
-    },
-    {
-      "id": "1b0d02e04850a3de",
-      "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-      "summary": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T18:14:56+00:00"
-    },
-    {
-      "id": "50efc248a7a07c40",
-      "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
-      "summary": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking to commercialize its SHAKTI and VEGA RISC-V processors, expand domestic server production, and attract more s",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T18:00:00+00:00"
-    },
-    {
-      "id": "48883bea1791b2e2",
-      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
-      "summary": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to...",
-      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "c87d2466c844b3e0",
-      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
-      "summary": "The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs.",
-      "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T16:48:30+00:00"
-    },
-    {
-      "id": "2ec487a29a31c2e2",
-      "title": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase",
-      "summary": "Nintendo's Switch 2 sales decreased by 41% compared to the same time frame last year due to an increase in the console's price. Investors are pressuring Nintendo to release more big games to attract more Switch 2 buyers.",
-      "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T16:27:28+00:00"
-    },
-    {
-      "id": "d1f9ec74570c4906",
-      "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
-      "summary": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an...",
-      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-05T16:00:00+00:00"
-    },
-    {
-      "id": "1558c78d072630b6",
-      "title": "Accessibility statements now have a home on GitHub",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blo",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-11-05T16:00:00+00:00"
-    },
-    {
-      "id": "f96e957d20b3235d",
-      "title": "Your best AX fixes are hiding in agent trajectories",
-      "summary": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runner's network traffic. Here are the patterns",
-      "url": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
-      "category": "BTS SIO",
-      "source": "Microsoft DevBlogs",
-      "date": "2026-11-05T15:40:49+00:00"
-    },
-    {
-      "id": "a7b077ebb681ba40",
-      "title": "UPERFECT GR14BU portable monitor review: A 120 Hz 3K OLED touch display at a killer price",
-      "summary": "With a 3K OLED panel and a 120 Hz refresh rate, the GR14BU comes out swinging.",
-      "url": "https://www.tomshardware.com/monitors/portable-monitors/uperfect-gr14bu-portable-monitor-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T15:00:00+00:00"
-    },
-    {
-      "id": "3c94e8d22f809736",
-      "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
-      "summary": "A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the CPU core temperatures aren't kept below 90°C.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T14:57:51+00:00"
-    },
-    {
-      "id": "2b1fe13abc6704a3",
-      "title": "Micron's $4.5 billion Taoyuan plant construction halted amidst labor dispute",
-      "summary": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/microns-usd4-5-billion-taoyuan-plant-construction-halted-amidst-labor-dispute-company-and-union-still-havent-reached-agreement-as-latter-asks-for-clearer-profit-sharing-terms",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T14:28:30+00:00"
-    },
-    {
-      "id": "f37d20e5c500df72",
-      "title": "Apple MacBook Pro (14-inch, M6) review: Speedy M6 chip slips into comfortable shoes",
-      "summary": "Apple’s brings its powerful M6 chip and N1 Wi-Fi 7 chip to the MacBook Pro.",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-14-inch-m6-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-      "id": "42aecb47c4413fb8",
-      "title": "Apple MacBook Pro with PROLED XDR Display review: The screen that every Mac deserves",
-      "summary": "Apple's MacBook Pro with PROLED Display has lots of small tweaks that make it a major upgrade, including a lighter weight and touch functionality, but it's exceptionally expensive and out of reach for many.",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-      "id": "7c57e14629e34d69",
-      "title": "Boost your Nintendo Switch 2's storage for Zelda: Ocarina of Time with these microSD Express deals, starting at $48",
-      "summary": "With the Legend of Zelda: Ocarina of Time remake now available for the Nintendo Switch 2, you're going to need enough storage to install it. Here are some Switch 2 microSD Express card deals to help you.",
-      "url": "https://www.tomshardware.com/pc-components/microsd-cards/boost-your-nintendo-switch-2s-storage-for-zelda-ocarina-of-time-with-these-microsd-express-deals-starting-at-usd48-make-room-for-hyrule-with-these-high-speed-cards-that-double-or-triple-your-game-storage",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T14:00:00+00:00"
-    },
-    {
-      "id": "835481a50698d760",
-      "title": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep",
-      "summary": "Rep. Yassamin Ansari of Arizona is asking her party to focus on AI issues.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T13:30:16+00:00"
-    },
-    {
-      "id": "fcac55044ebe3206",
-      "title": "This $79.98 TP-Link wireless router with Wi-Fi 7 tech is back down to its lowest-ever price",
-      "summary": "You can pick up a TP-Link Archer BE3600 wireless router at its lowest ever price on Amazon for just $79.98.",
-      "url": "https://www.tomshardware.com/networking/routers/this-usd79-98-tp-link-wireless-router-with-wi-fi-7-tech-is-back-down-to-its-lowest-ever-price-archer-be3600-unlocks-multi-gigabit-networking-ideal-for-gaming-or-4k-streaming-with-33-percent-off",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T13:00:00+00:00"
-    },
-    {
-      "id": "47529ca81f26a709",
-      "title": "Two dead, five injured in Taiwan PCB factory explosion",
-      "summary": "An explosion and fire at a PCB factory situated in Taiwan’s Silicon Valley has left two people dead and five injured.",
-      "url": "https://www.tomshardware.com/tech-industry/two-dead-five-injured-in-taiwan-pcb-factory-explosion-panasonic-industrial-devices-materials-facility-fire-prompts-emergency-response",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-05T12:31:33+00:00"
     }
   ],
   "sources": [
