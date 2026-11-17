@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-16T21:58:13.092062+00:00",
+  "updated_at": "2026-11-17T07:50:35.156610+00:00",
   "articles": [
+    {
+      "id": "3bed0990bf70c06a",
+      "title": "The best Warhammer 40K-themed gifts for your gaming setup",
+      "summary": "Check out these great gift ideas for all fans of the grimdark future.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-warhammer-40k-themed-gifts-for-your-gaming-setup-chairs-desks-backpacks-toys-and-games-that-will-please-the-imperium",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "9d33a2c5cc656011",
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "summary": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the...",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "category": "IA",
+      "source": "NVIDIA Developer",
+      "date": "2026-11-16T22:30:00+00:00"
+    },
+    {
+      "id": "ddadfe4bac3e9310",
+      "title": "15 retro tech gift ideas for the nostalgic gamer or builder in your life",
+      "summary": "Pick up a retro tech gift for yourself or a loved one this holiday season, from mini PCs to old-school controllers.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/15-retro-tech-gift-ideas-for-the-nostalgic-gamer-or-builder-in-your-life-old-school-designs-packed-with-modern-hardware-from-game-controllers-to-desk-accessories",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-16T22:20:00+00:00"
+    },
+    {
+      "id": "be75d41897f88783",
+      "title": "China retains fastest supercomputer in the world crown as AI data centers soak up new hardware",
+      "summary": "The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-16T22:17:02+00:00"
+    },
     {
       "id": "137c84b34bc269cb",
       "title": "New US rules aim to restrict Chinese firms’ remote access to AI servers and infrastructure",
@@ -57,7 +93,7 @@
     },
     {
       "id": "43353e83afafcae3",
-      "title": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the f",
+      "title": "Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business",
       "summary": "Intel aims to turn its quantum computing research effort into a commercial business by combining its silicon spin-qubit technology and manufacturing capabilities with Classiq’s established software platform and customer base.",
       "url": "https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027",
       "category": "Hardware",
@@ -2124,42 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-07T13:00:00+00:00"
-    },
-    {
-      "id": "0849d6e80dfc0775",
-      "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
-      "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to relay local hardware and software alerts. Postfix on Ubuntu Server LTS will take o",
-      "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "id": "c2434e3c31d5e70a",
-      "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
-      "summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
-      "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "id": "8856595491616b1b",
-      "title": "EA producer found 20,000 archival media assets in secret physical vault at its HQ",
-      "summary": "The discovery of thousands of archival media assets led to the creation of Anniversary Editions of some classic titles.",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-07T11:30:00+00:00"
-    },
-    {
-      "id": "53218be3be3e50fe",
-      "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
-      "summary": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
-      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-07T11:00:00+00:00"
     }
   ],
   "sources": [
