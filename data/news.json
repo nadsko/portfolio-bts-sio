@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-18T20:27:21.961948+00:00",
+  "updated_at": "2026-11-19T07:19:03.808448+00:00",
   "articles": [
+    {
+      "id": "9fba7066d9599701",
+      "title": "AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note",
+      "summary": "Following a post on X, AMD Japan's claim that the company values gamers \"above all else\" saw those gamers point out that its own CEO believes the company is more focused on data centers.",
+      "url": "https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "id": "ef046a216ca10d18",
+      "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
+      "summary": "Nvidia’s GeForce 621.14 and 621.24 drivers reportedly rewrite a log file nonstop, writing gigabytes to SSDs every hour.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-18T21:00:00+00:00"
+    },
     {
       "id": "f0b81ce3c1461288",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -2142,24 +2160,6 @@
       "category": "IA",
       "source": "NVIDIA Developer",
       "date": "2026-11-10T15:00:00+00:00"
-    },
-    {
-      "id": "e74daf9c0f07f2a8",
-      "title": "New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy",
-      "summary": "Frontier Model Forum releases its Jailbreak Rating Framework to estimate how easy it is for models to escape their cages and how much damage they can do.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-10T13:40:00+00:00"
-    },
-    {
-      "id": "76bf5141bedffd81",
-      "title": "Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark",
-      "summary": "But if you're thinking about dropping over $10K for the purpose of building a local AI inference setup, is a Mac Studio right for you?",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-10T13:20:00+00:00"
     }
   ],
   "sources": [
