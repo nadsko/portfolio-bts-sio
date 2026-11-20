@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-19T20:30:22.275951+00:00",
+  "updated_at": "2026-11-20T07:08:28.650702+00:00",
   "articles": [
+    {
+      "id": "fd3f6e58d61a7be5",
+      "title": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
+      "summary": "Get an RTX 5070 for just $839.99 — MSI GeForce RTX 5070 Ventus 2X OC 12 GB is currently on sale at Newegg",
+      "url": "https://www.tomshardware.com/pc-components/get-an-rtx-5070-for-just-usd839-99-a-rare-savings-in-the-gpu-wasteland-msi-geforce-rtx-5070-ventus-2x-oc-12-gb-is-currently-on-sale-at-newegg",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T00:59:02+00:00"
+    },
+    {
+      "id": "7aa8728986296884",
+      "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price",
+      "summary": "Get TP-Link Archer BE9500 with full Wi-Fi 7 support and 10 Gbps WAN for just $89.99, or 55% off its regular $199.99 price",
+      "url": "https://www.tomshardware.com/networking/routers/score-tp-link-archer-with-full-wi-fi-7-support-and-10-gbps-wired-networking-for-incredible-55-percent-off-its-regular-price-be9500-router-is-now-just-usd89-99-a-steep-discount-from-the-regular-usd199-99-price",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-19T23:20:25+00:00"
+    },
+    {
+      "id": "7080a71d7505580d",
+      "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
+      "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-19T21:30:00+00:00"
+    },
+    {
+      "id": "4b92c45adde3d4f9",
+      "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+      "summary": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-19T21:00:00+00:00"
+    },
     {
       "id": "3a089ca65887f5b7",
       "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
@@ -2124,42 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-11T23:45:00+00:00"
-    },
-    {
-      "id": "68c307bf96afb626",
-      "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
-      "summary": "Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy.",
-      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-11T22:31:39+00:00"
-    },
-    {
-      "id": "e75a4f081b035e02",
-      "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
-      "summary": "AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-11T21:30:00+00:00"
-    },
-    {
-      "id": "e6822af1afc5ae05",
-      "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
-      "summary": "Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have.",
-      "url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-11T21:00:00+00:00"
-    },
-    {
-      "id": "964aed087794010a",
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-      "summary": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform...",
-      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-11T17:00:00+00:00"
     }
   ],
   "sources": [
