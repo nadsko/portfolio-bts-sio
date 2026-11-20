@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-20T07:08:28.650702+00:00",
+  "updated_at": "2026-11-20T20:09:17.934341+00:00",
   "articles": [
+    {
+      "id": "28cba6fc7d09a9ab",
+      "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+      "summary": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T16:30:08+00:00"
+    },
+    {
+      "id": "db0568e841b1fefe",
+      "title": "VAST says petabyte SSDs will outgrow today’s parallel file system RAID",
+      "summary": "VAST Data’s Glenn Lockwood told SC26 that petabyte SSDs need global declustering plus extra parity to avoid data loss.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/vast-data-says-petabyte-ssds-will-outgrow-raid-in-todays-parallel-file-systems-simulation-of-a-900-pb-system-puts-data-loss-odds-at-1-in-11-over-10-years",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T15:00:00+00:00"
+    },
+    {
+      "id": "ba8275f4dc87a1d9",
+      "title": "Get 32GB of DDR5 RAM for $111 in this premium AM5 gaming bundle from Newegg",
+      "summary": "Newegg’s freshest Black Friday combo deal takes $369 off four premium PC components, including the Ryzen 9 9950X3D, 32GB DDR5-6000 RAM, Asus ROG Strix X870E-E motherboard, 2TB Samsung SSD, and a free MSI AIO for just $1,549.",
+      "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-ram-for-usd111-in-this-premium-am5-gaming-bundle-from-newegg-4-item-combo-includes-9950x3d-32gb-v-color-ddr5-ram-asus-rog-strix-x870e-e-gaming-motherboard-and-2tb-samsung-990-pro-ssd-for-only-usd1-549",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T14:30:06+00:00"
+    },
+    {
+      "id": "24d3826904f12648",
+      "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+      "summary": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "id": "27cbf0bb200b7f0f",
+      "title": "Thousands of vulnerable fridges patched against cyberattacks in secret operation",
+      "summary": "Following devastating hacks that caused European fridges to reach 50 degrees Celsius, destroying food stocks, the U.K. has implemented nationwide patching to ensure similar attacks won't affect its fridges.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/thousands-of-vulnerable-fridges-patched-against-cyberattacks-in-secret-operation-uk-takes-action-following-hacks-that-destroyed-food-supplies-with-50-degree-defrosting-hijack",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T13:30:00+00:00"
+    },
+    {
+      "id": "a814aa958299d6fb",
+      "title": "Jensen Huang question gets reporter ejected from Trump-Xi-Putin summit",
+      "summary": "Annmarie Hordern, Bloomberg's chief political correspondent and co-host of its leading program, was barred from the historic trilateral meeting between the leaders of Russia, China, and the U.S. after she asked the controversial question.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/jensen-huang-question-gets-reporter-ejected-from-trump-xi-putin-summit-journalist-asked-us-president-if-former-nvidia-ceo-had-been-disloyal-to-the-united-states",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T13:00:00+00:00"
+    },
+    {
+      "id": "f4b37a006e041c1e",
+      "title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+      "summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T12:30:00+00:00"
+    },
+    {
+      "id": "db96f6e2f827777f",
+      "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "summary": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T12:00:00+00:00"
+    },
+    {
+      "id": "0d7bbc8f33f27ec4",
+      "title": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179",
+      "summary": "Pick up a new gaming laptop for less with $575 off the Asus ROG G16 at Amazon.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T11:45:00+00:00"
+    },
+    {
+      "id": "4318ae01d670bc01",
+      "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+      "summary": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T11:30:00+00:00"
+    },
+    {
+      "id": "ab8da567f7a156b8",
+      "title": "Score a huge 49% saving on a 2TB Samsung 9100 Pro SSD while you can",
+      "summary": "A huge discount on Amazon has brought the Gen 5 2TB Samsung 9100 Pro down to $349.99, an almost half-price saving compared to its list price.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/score-a-huge-49-percent-saving-on-a-2tb-samsung-9100-pro-ssd-while-you-can-now-17-5-cents-per-gb-ultra-fast-gen-5-drive-is-the-perfect-pc-storage-upgrade-down-to-usd349-99",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T11:04:48+00:00"
+    },
+    {
+      "id": "616c0891b30f92b5",
+      "title": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed",
+      "summary": "A pissed traveler decided to check their desktop CPU after a check-in attendant refused to have it carried in the cabin, despite being historically allowed by the airline.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T11:00:00+00:00"
+    },
+    {
+      "id": "aa83cfc421980864",
+      "title": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
+      "summary": "OpenAI helped AMD improve its upcoming flagship GPU design by 14% PPA — GPT models also helping Lisa Su's outfit boost its new CPUs",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T10:30:00+00:00"
+    },
+    {
+      "id": "5e9a1ddb500bf4ca",
+      "title": "Autonomous 5-ton John Deere skid-steer loader trained to perform acrobatic maneuvers using AI",
+      "summary": "Videos of an incredibly acrobatic, nimble, and graceful John Deere 332G 5-tonne skid-steer loader have been shared by a group of researchers from the U.S. and Switzerland.",
+      "url": "https://www.tomshardware.com/tech-industry/robotics/autonomous-5-tonne-john-deere-skid-steer-loader-trained-to-perform-acrobatic-maneuvers-using-ai-researchers-discuss-reinforcement-learning-tech-in-a-paper-titled-heavy-metal-acrobatics",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-20T10:00:00+00:00"
+    },
     {
       "id": "fd3f6e58d61a7be5",
       "title": "Get an RTX 5070 for just $839.99, a rare savings in the GPU wasteland",
@@ -9,6 +135,24 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-20T00:59:02+00:00"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "id": "1a2257bdc2a6b7f9",
+      "title": "An update on Blueprints and the path to UE6",
+      "summary": "UE6 projects won’t include Blueprints or the Actor Gameplay Framework. Gameplay will be built in Verse and on the new Scene Graph framework. Epic Games’ EVP of Development Marcus Wassmer explains why, and what it means for your UE5 project.",
+      "url": "https://www.unrealengine.com/news/an-update-on-blueprints-and-the-path-to-ue6",
+      "category": "Jeux vidéo",
+      "source": "Unreal Engine",
+      "date": "2026-11-20T00:00:00+00:00"
     },
     {
       "id": "7aa8728986296884",
@@ -189,6 +333,105 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-19T10:00:00+00:00"
+    },
+    {
+      "id": "7c0273a4fed6b5fb",
+      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "0862ca218b076d89",
+      "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "8b95a8cf9bbcbeb0",
+      "title": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "1293ec57f3670afc",
+      "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "e903b51af36e7230",
+      "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "8f3d2d726cd18e94",
+      "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "02e87b4f863aa3a7",
+      "title": "Multiples vulnérabilités dans Drupal (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1579/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "e2ee939b625302e3",
+      "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "719ecb8a289dda00",
+      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "e4362f416abcc6c0",
+      "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "id": "2956d8b1b7151539",
+      "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-19T00:00:00+00:00"
     },
     {
       "id": "9fba7066d9599701",
@@ -483,6 +726,33 @@
       "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+      "id": "fcaed0013cc97f6e",
+      "title": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+      "id": "d8f112053b7a33a9",
+      "title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
+      "summary": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en ",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-18T00:00:00+00:00"
+    },
+    {
+      "id": "8a626a9260468ecd",
+      "title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
+      "summary": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-18T00:00:00+00:00"
@@ -1890,276 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-12T11:00:00+00:00"
-    },
-    {
-      "id": "602d7e27542aacff",
-      "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
-      "summary": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T10:30:00+00:00"
-    },
-    {
-      "id": "e5537bb692757984",
-      "title": "Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue",
-      "summary": "One expert says that it still depends on the perfect confluence of cheap power, favorable regulation, and reliable connectivity.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "id": "96e0b9d7186e8ac9",
-      "title": "Hobbyist turns $45 USB-C hub into a working Nintendo Switch 2 dock by patching its firmware",
-      "summary": "A hobbyist patched a Cable Matters USB-C hub’s firmware so the Nintendo Switch 2 accepts it as a dock for TV mode and HDR.",
-      "url": "https://www.tomshardware.com/video-games/nintendo/hobbyist-turns-usd45-usb-c-hub-into-a-working-nintendo-switch-2-dock-by-patching-its-firmware-consoles-proprietary-handshake-needs-about-540-bytes-of-code-to-answer",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T09:00:00+00:00"
-    },
-    {
-      "id": "cbda9238a3684b28",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "0cc0b516575ca76b",
-      "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
-      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité re",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "c04c8ad23af55ad4",
-      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "a68d7cbacf979abe",
-      "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "3d9365d09ce9fb22",
-      "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "f9d3504a1fdd9357",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "4ee1f23bea65572b",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1514/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "8a6ebe57cfcede62",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1513/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "0de7bb744be60a72",
-      "title": "Multiples vulnérabilités dans les produits Fortinet (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1499/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "becf1516d11277e9",
-      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1521/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "d08fb5c92767e11a",
-      "title": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "64184bd80527d1aa",
-      "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "4177c5f133c1c5e5",
-      "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "9f70d4fba6df3be9",
-      "title": "Multiples vulnérabilités dans HPE Aruba Networking Private 5G Core (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Private 5G Core. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de s",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1503/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "091eeba480709992",
-      "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "91ee7f255da3a9a1",
-      "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "0dc20131773b35ae",
-      "title": "Multiples vulnérabilités dans Traefik (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1517/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "b459b78f7a1eb346",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1515/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "5e65deaa8dc35720",
-      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "03bcffdc384cb856",
-      "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "bc7d276ee421aa95",
-      "title": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que l",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "5e298caf3ca9d419",
-      "title": "Multiples vulnérabilités dans Laravel (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1504/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "8491b0956220bc3c",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "984bd5972ba1ea50",
-      "title": "Multiples vulnérabilités dans Mitel MiVoice MX-ONE (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiVoice MX-ONE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1516/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "21dc9f9a1436f324",
-      "title": "Vulnérabilité dans les produits Kaspersky (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1524/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "35af74e160521f40",
-      "title": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1523/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-12T00:00:00+00:00"
-    },
-    {
-      "id": "3be2b92afc3d7e06",
-      "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
-      "summary": "Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-11T23:45:00+00:00"
     }
   ],
   "sources": [
