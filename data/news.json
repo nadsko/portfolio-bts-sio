@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-21T07:00:04.404206+00:00",
+  "updated_at": "2026-11-21T19:10:40.504303+00:00",
   "articles": [
+    {
+      "id": "974c6f45881ef7f2",
+      "title": "Save $78 on Corsair's triple-chamber AIR 5400 RS-R midtower PC case at new all-time low price",
+      "summary": "Corsair's triple-chamber AIR 5400 RS-R is down to its lowest price ever in a run-up Black Friday sale, saving you nearly $80 off list price.",
+      "url": "https://www.tomshardware.com/pc-components/pc-cases/save-usd78-on-corsairs-triple-chamber-air-5400-rs-r-midtower-pc-case-at-new-all-time-low-price-chassis-includes-three-pre-installed-rs-r-argb-fans-and-back-connector-motherboard-support",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T18:49:39+00:00"
+    },
+    {
+      "id": "dd3fae4ae64a92a5",
+      "title": "Best Black Friday gaming chair deals 2026",
+      "summary": "The best Black Friday deals on gaming chairs for every budget, style, and comfort level. Upgrade your gaming chair with something high-quality.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-secretlab-razer-and-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T16:38:40+00:00"
+    },
+    {
+      "id": "d9d3952fe2afa007",
+      "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+      "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T16:29:39+00:00"
+    },
+    {
+      "id": "bd28b1564660cb89",
+      "title": "This week on Tom's Hardware Premium: 21 November 2026",
+      "summary": "We go through an exhaustive list of everything we covered at SC26, which includes brand-new devices and developments from AMD, Nvidia, Intel and many more.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "b8d3c8060af5c849",
+      "title": "Modder cools gaming laptop with a bounce house blower for a 35-degree drop",
+      "summary": "A PC cooling enthusiast attached a bounce house blower to the bottom of his laptop, bringing temperatures below 50 degrees Celsius.",
+      "url": "https://www.tomshardware.com/pc-components/air-cooling/laptop-cooled-by-bounce-house-blower-gets-35-degree-drop-in-temperatures-modder-compares-laptop-cooler-with-increasingly-powerful-fan-setups",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T15:31:48+00:00"
+    },
+    {
+      "id": "744cd4650834fbb5",
+      "title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "summary": "Japan's semiconductor startup has demonstrated functioning GAA transistors, but integrating them into working memory cells appears to be a considerably greater challenge.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T15:30:00+00:00"
+    },
+    {
+      "id": "8026e483a252cd6b",
+      "title": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip — 21 MHz of RISC muscle speeds 2.2M parameter chatbot replies",
+      "summary": "Nintendo’s classic SNES console now has its own ChatGPT client, and it's accelerated by the Super FX 2 chip.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T15:02:17+00:00"
+    },
+    {
+      "id": "69058bb2cf27dfc7",
+      "title": "Gigabyte MO27Q2A 27-inch QHD 280 Hz QD-OLED gaming monitor review: Another price buster from Gigabyte",
+      "summary": "Gigabyte brings excellent value while delivering premium performance and build quality with its MO27Q2A. This QD-OLED panel sports QHD resolution, 280 Hz, Adaptive-Sync, DisplayHDR 400, and wide-gamut color in a stylish and full-featured package.",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-mo27q2a-27-inch-qhd-280-hz-qd-oled-gaming-monitor-review",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T14:30:00+00:00"
+    },
+    {
+      "id": "681806eb82af1306",
+      "title": "New semi-autonomous 911 drones will reach nearly all of Knoxville in 90 seconds or less",
+      "summary": "The Knoxville Police Department has launched its Drone as First Responder program, with drones being dispatched to the scene following a 911 call to increase real-time situational awareness.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/knoxvilles-police-department-will-send-semi-autonomous-drones-on-911-calls-eyes-in-the-sky-to-aid-situational-awareness-for-officers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T14:00:00+00:00"
+    },
+    {
+      "id": "d69e398a139a6580",
+      "title": "Defense firm’s EMP ‘Dragon’ weapon fries 51 jam-proof drones simultaneously",
+      "summary": "Aselsan developed the Ejderha, which translates to 'Dragon' in English, as a defensive weapon designed to combat drone swarms.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/defense-firms-emp-dragon-weapon-fries-51-jam-proof-drones-simultaneously-high-power-electromagnetic-system-relies-on-120-year-old-vacuum-tube-tech-to-defeat-fiber-optic-uavs",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T13:54:41+00:00"
+    },
+    {
+      "id": "a7f3e58ee951bfc5",
+      "title": "MSI Crosshair A16 HX RTX 5070, Ryzen 9-equipped gaming laptop gets $400 discount at Amazon",
+      "summary": "Save over $400 on this AMD Ryzen 9-equipped gaming laptop from MSI as a part of their early Black Friday deals, which also comes with a free copy of Onimusha: The Way of the Sword.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/msi-crosshair-a16-hx-rtx-5070-ryzen-9-equipped-gaming-laptop-gets-usd400-discount-at-amazon-system-comes-with-a-free-game-in-early-black-friday-offer",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T13:09:06+00:00"
+    },
+    {
+      "id": "2174926ce4329c82",
+      "title": "Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+      "summary": "A Reddit homelabber’s Optane PMem 200 server now runs Moonshot AI’s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T12:00:00+00:00"
+    },
+    {
+      "id": "69220037e6aac84a",
+      "title": "Get 38% off this 20TB WD Elements external HDD in Amazon Black Friday offer — pay just 2.75 cents per GB as drive drops to $549",
+      "summary": "Pay just 2.75 cents per gigabyte with this 20TB external HDD offer, as the WD Elements set has dropped to just $549.99 in this Black Friday deal.",
+      "url": "https://www.tomshardware.com/pc-components/external-hdds/get-38-percent-off-this-20tb-wd-elements-external-hdd-in-amazon-black-friday-offer-pay-just-2-75-cents-per-gb-as-drive-drops-to-usd549",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T11:41:10+00:00"
+    },
+    {
+      "id": "d7aa211475f3e274",
+      "title": "Netgear Black Friday deals save you up to 33% on full home WiFi coverage — upgrade your gaming router, mesh WiFi setup, or wireless extenders",
+      "summary": "We've rounded up some of the best deals on Netgear network solutions for your home, from complete mesh networks to gaming routers and WiFi extenders.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/netgear-black-friday-deals-save-you-up-to-33-percent-on-full-home-wifi-coverage-upgrade-your-gaming-router-mesh-wifi-setup-or-wireless-extenders",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T11:33:43+00:00"
+    },
+    {
+      "id": "b72be8a8267af852",
+      "title": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model",
+      "summary": "Tufa Labs’ tufazip compresses 1GB of Wikipedia to 105.39MB with a 163M-parameter Transformer as its only predictor, on two Nvidia B200s.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T11:30:00+00:00"
+    },
+    {
+      "id": "da865e4973fab619",
+      "title": "Hardware hacker builds open-source portable 3.5-inch floppy Wi-Fi NAS",
+      "summary": "Techie designs a portable Wi-Fi NAS to read and transfer digital camera floppy disks — device does double duty for easy floppy archival",
+      "url": "https://www.tomshardware.com/maker-stem/hardware-hacker-builds-open-source-portable-3-5-inch-floppy-wi-fi-nas-reads-and-shares-old-school-floppies-wirelessly-or-through-direct-connection",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T11:00:00+00:00"
+    },
+    {
+      "id": "cfa6c20b05d1beb0",
+      "title": "SanDisk 512GB MicroSD Express deal slashes Switch 2 storage by 24% in Amazon Black Friday offer — price hits under $100 amid storage squeeze",
+      "summary": "SanDisk's large 512 GB MicroSD Express card has dropped to just $98 at Amazon, marking a 24% discount when compared to its original list price in a rare storage offer.",
+      "url": "https://www.tomshardware.com/pc-components/microsd-cards/sandisk-512gb-microsd-express-deal-slashes-switch-2-storage-by-24-percent-in-amazon-black-friday-offer-price-hits-under-usd100-amid-storage-squeeze",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T10:32:35+00:00"
+    },
+    {
+      "id": "a8d6357a21435e5c",
+      "title": "Asus ROG Strix Scope II 96 gaming keyboard crashes to all-time low in early Black Friday offer — grab 39% off a premium board packed full of features",
+      "summary": "The Asus ROG Strix Scope II 96 has hit an all-time low price in this Amazon early Black Friday offer, which has slashed the gaming keyboard's price by 39%.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-keyboards/asus-rog-strix-scope-ii-96-gaming-keyboard-crashes-to-all-time-low-in-early-black-friday-offer-grab-39-percent-off-a-premium-board-packed-full-of-features",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T09:52:39+00:00"
+    },
+    {
+      "id": "eace9678b775ff89",
+      "title": "Razer's MMO mouse hits all-time low price at under $60 at Amazon in Black Friday deal — Naga V2 Hyperspeed price craters by 42% in stellar gaming mouse offer",
+      "summary": "Razer's Naga V2 Hyperspeed gaming mouse is now just $56 at Amazon, hitting an all-time low price just in time for Black Friday.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/razers-mmo-mouse-hits-all-time-low-price-at-under-usd60-at-amazon-in-black-friday-deal-naga-v2-hyperspeed-price-craters-by-42-percent-in-stellar-gaming-mouse-offer",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T09:04:58+00:00"
+    },
+    {
+      "id": "55ab3ff9c299848b",
+      "title": "Samsung’s gorgeous 49-inch Odyssey OLED G9 hits a new all-time low price of $854 — Amazon Black Friday deal slashes 33% off gaming monitor upgrade",
+      "summary": "Now's your chance to own a massive 49-inch ultrawide QD-OLED gaming monitor now that it's hit a new all-time low price on Amazon for Black Friday.",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-gorgeous-49-inch-odyssey-oled-g9-hits-a-new-all-time-low-price-of-usd854-amazon-black-friday-deal-slashes-33-percent-off-gaming-monitor-upgrade",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T08:02:41+00:00"
+    },
     {
       "id": "e328f50f4c635607",
       "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test",
@@ -1980,186 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "a5d44b9acd5c3b93",
-      "title": "Multiples vulnérabilités dans Apple HomeView Software (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apple HomeView Software. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1526/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "c5bfa621bc1fde22",
-      "title": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "d5b567e3a318af1a",
-      "title": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "33c16e0c7b301b53",
-      "title": "Multiples vulnérabilités dans les produits Citrix (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1528/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "5e1e2adbe24f906a",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "02de62cc521c7e5c",
-      "title": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "00e7f4ebdb3ed9f5",
-      "title": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "5f8370680058dac7",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "f66c502116070842",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "5a7e539675869c1d",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "c28799046ff6f0a3",
-      "title": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "8bc9138e516754eb",
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Bl",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-11-12T22:54:52+00:00"
-    },
-    {
-      "id": "0fe195c3bf8d99b8",
-      "title": "Russia’s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones",
-      "summary": "Yandex Cloud boasted that it had 'restored access to more than 97% of customer data' after Ukrainian drone attack damage.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T21:00:00+00:00"
-    },
-    {
-      "id": "84ec87286cb35a64",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-12T19:07:35+00:00"
-    },
-    {
-      "id": "ba2aab462db87e2d",
-      "title": "Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg",
-      "summary": "Newegg's latest combo deal pairs 32GB of Corsair Vengeance DDR5-6000 RAM, Ryzen 7 9800X3D, a MSI X870E Carbon Wifi motherboard and a free Rosewill Frostmax 360mm AIO for only $1,250, a savings of $119.",
-      "url": "https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T17:34:56+00:00"
-    },
-    {
-      "id": "1d5b8357daae2db5",
-      "title": "President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO",
-      "summary": "President Trump says Tim Cook should replace Jensen Huang as CEO of Nvidia.",
-      "url": "https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T16:16:54+00:00"
-    },
-    {
-      "id": "d75e1190d0ffc259",
-      "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang",
-      "summary": "A random X poster urged Elon Musk to hire Jensen Huang just hours before the former Nvidia chief resigned from his position.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T15:46:04+00:00"
-    },
-    {
-      "id": "e328eabbcc865247",
-      "title": "Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic",
-      "summary": "Corsair puts the internals of a CWT-built, Cybenetics Platinum 1000W platform on display behind three clear panels, adding side-mounted connectors, iCUE LINK integration and per-pin 12V-2x6 protection.",
-      "url": "https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1000i-shift-crystal-power-supply-review",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T14:00:00+00:00"
-    },
-    {
-      "id": "25beb5cab8f200a1",
-      "title": "Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations",
-      "summary": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
-      "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T13:58:41+00:00"
-    },
-    {
-      "id": "66ee081196df522d",
-      "title": "Noctua brings space-grade carbon nanotube thermal pad to AMD AM5 and AM4 processors",
-      "summary": "Noctua says the NT-CP1 uses carbon nanotubes originally developed for aerospace applications, with the material gradually adapting to microscopic surface imperfections to improve heat transfer over repeated heating and cooling cycles.",
-      "url": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-brings-space-grade-carbon-nanotube-thermal-pad-to-amd-am5-and-am4-processors-promises-years-of-maintenance-free-performance-for-usd24-95",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-12T13:04:13+00:00"
     }
   ],
   "sources": [
