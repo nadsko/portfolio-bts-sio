@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-21T19:10:40.504303+00:00",
+  "updated_at": "2026-11-22T06:41:21.277179+00:00",
   "articles": [
+    {
+      "id": "eac732b19c8ea6ae",
+      "title": "Act fast to score Intel's Core i7-14700K for its lowest price ever at $249.99",
+      "summary": "After months of inconsistent pricing, Intel's Core i7-14700K is down to its lowest price ever at $249.99, with support for LGA 1700 motherboards that come with either DDR4 or DDR5 memory support.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-21T20:00:22+00:00"
+    },
     {
       "id": "974c6f45881ef7f2",
       "title": "Save $78 on Corsair's triple-chamber AIR 5400 RS-R midtower PC case at new all-time low price",
@@ -2148,15 +2157,6 @@
       "title": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-13T00:00:00+00:00"
-    },
-    {
-      "id": "815ce81b3d9aa615",
-      "title": "Multiples vulnérabilités dans les produits Check Point (13 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1529/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-13T00:00:00+00:00"
