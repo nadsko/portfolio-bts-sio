@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-22T19:32:45.486472+00:00",
+  "updated_at": "2026-11-23T07:29:57.052348+00:00",
   "articles": [
+    {
+      "id": "d4b52a587509ce36",
+      "title": "Corsair's tiny Xeneon Edge PC touchscreen discounted by $50 in all five colors",
+      "summary": "Corsair has all five colors of its 14.5-inch Xeneon Edge touchscreen on sale for Black Friday for $50 off.",
+      "url": "https://www.tomshardware.com/pc-components/corsairs-tiny-xeneon-edge-pc-touchscreen-discounted-by-usd50-in-all-five-colors-14-5-inch-lcd-touchscreen-drops-to-usd199-99-comes-with-a-built-in-stand",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-22T21:32:16+00:00"
+    },
+    {
+      "id": "0e664d457f9c98e5",
+      "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+      "summary": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+      "url": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-22T20:03:52+00:00"
+    },
+    {
+      "id": "ba0c235af411be92",
+      "title": "An under-desk headphone hanger with three charging ports (up to 20W) for less than $10",
+      "summary": "With two hanging hooks, notches for six cables and 20W of charging, Cozoo's quirky combo device has been a useful addition to my standing desk since 2023.",
+      "url": "https://www.tomshardware.com/peripherals/usb/under-desk-headphone-hanger-with-three-charging-ports-drops-below-usd10-cozoos-20w-combo-device-has-been-a-useful-addition-to-my-standing-desk-since-2023",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-22T19:34:47+00:00"
+    },
     {
       "id": "deee404f31a1e442",
       "title": "Nintendo Switch 2 bundles drop to pre-hike pricing in Black Friday run-up sale",
@@ -2133,33 +2160,6 @@
       "category": "IA",
       "source": "NVIDIA Developer",
       "date": "2026-11-13T22:13:51+00:00"
-    },
-    {
-      "id": "0fc0a6705fb8b0c5",
-      "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
-      "summary": "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The...",
-      "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-13T21:17:17+00:00"
-    },
-    {
-      "id": "3cf447c09fa6ac9a",
-      "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-      "summary": "Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-13T21:00:00+00:00"
-    },
-    {
-      "id": "e65e42f824f14c2b",
-      "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
-      "summary": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)...",
-      "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-13T18:57:10+00:00"
     }
   ],
   "sources": [
