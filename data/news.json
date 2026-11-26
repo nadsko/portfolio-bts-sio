@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-11-26T08:10:22.979284+00:00",
+  "updated_at": "2026-11-26T21:27:28.419921+00:00",
   "articles": [
+    {
+      "id": "51f609fd8411b58f",
+      "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
+      "summary": "Denny's, the diner where Jensen Huang came up with the idea for Nvidia, has posted a 200-word statement to X in which it expressed its delight at his return to Nvidia after he initially resigned and admitted to an affair with a suspected Chinese spy.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/dennys-touts-renewed-support-for-nvidia-ceo-jensen-huang-following-reinstatement-says-some-things-you-just-dont-take-off-the-menu",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T21:00:00+00:00"
+    },
+    {
+      "id": "05d8c22cf047c3db",
+      "title": "Black Friday is the perfect time to pick up a new 3D Printer",
+      "summary": "Black Friday is the perfect time to find an amazing deal on a new 3D printer. Check out our favorite listings so far.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/black-friday-is-the-perfect-time-to-pick-up-a-new-3d-printer-these-are-the-best-deals-weve-spotted-so-far",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T19:30:00+00:00"
+    },
+    {
+      "id": "8be20384b5d87699",
+      "title": "The best Black Friday soldering iron deals for hobbyists and makers right now",
+      "summary": "Grab a new soldiering iron or accessories during this Black Friday sales week, with the best recommendations included here.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T18:30:00+00:00"
+    },
+    {
+      "id": "9808eea572afafde",
+      "title": "Two Californian Nvidia AI chip customers are really Chinese-owned",
+      "summary": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips from falling into th",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T18:00:00+00:00"
+    },
+    {
+      "id": "3ad7608d06bb24a9",
+      "title": "Essential 3D printer maintenance tool deals for Black Friday — save up to 30% on precision tools, lights, snips, and more",
+      "summary": "For the best 3D print results, there are always a few favorite tools to have on hand.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/essential-3d-printer-maintenance-tool-deals-for-black-friday-save-up-to-30-percent-on-precision-tools-lights-snips-and-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T17:30:00+00:00"
+    },
+    {
+      "id": "736c4118b82000ee",
+      "title": "Credit rating agency puts Nvidia on notice for possible downgrade",
+      "summary": "S&P Global Ratings says that it could lower Nvidia's credit rating because of various risks that it faces, including the smuggling allegations and the fact the lack of succession planning for its CEO.",
+      "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "id": "a30a698be5844c66",
+      "title": "13 tech bargains for only $13 or less to upgrade your desktop PC setup",
+      "summary": "Don't break the bank this Black Friday with these 13 tech gadgets and tools to help you upgrade your setup for less than $13.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/13-tech-bargains-for-just-usd13-or-less-to-upgrade-your-pc-setup-must-own-gadgets-and-impulse-buys-to-solve-everyday-problems-from-network-switches-to-cleaning-kits",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T16:30:00+00:00"
+    },
+    {
+      "id": "dc34d2403e241c25",
+      "title": "Electronics manufacturers set up memory 'war rooms' to find, lock in DRAM supplies amid worst shortage in history",
+      "summary": "The memory chip shortage is forcing companies to find supplies using non-traditional avenues, such as online listings and the gray market. Some have even taken out loans just to have enough cash to buy chips as soon as they become available.",
+      "url": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T16:11:07+00:00"
+    },
+    {
+      "id": "913b1e074db57c0d",
+      "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+      "summary": "Data centers in Singapore, Malaysia, Thailand, and Indonesia are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered.",
+      "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T16:00:00+00:00"
+    },
+    {
+      "id": "2092fa0475ca1d71",
+      "title": "Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck",
+      "summary": "The AI industry's shift to optical interconnects is overwhelming the concentrated InP supply chain behind lasers, transceivers, and co-packaged optics.",
+      "url": "https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T16:00:00+00:00"
+    },
+    {
+      "id": "1706f6524c1b3b26",
+      "title": "Save 21% on this ultra-fast 2TB SanDisk Optimus GX Pro 8100 SSD, now just 17.5 cents per GB",
+      "summary": "A huge discount on the Gen 5 2TB Sandisk Optimus GX Pro 8100, down to $349.99 right now.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/save-21-percent-on-this-ultra-fast-2tb-sandisk-optimus-gx-pro-8100-ssd-now-just-17-5-cents-per-gb-rebranded-sn8100-offers-gen-5-speeds-of-up-to-14-900-mb-s-at-a-record-low-price",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T15:52:52+00:00"
+    },
+    {
+      "id": "f406b4d02a6a7555",
+      "title": "15 tech gadgets that improved my tech life are on sale for less than $50",
+      "summary": "From electric screwdrivers to high-res webcams, these are inexpensive game-changers.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/15-tech-gadgets-that-improved-my-tech-life-are-on-sale-for-less-than-usd50-black-friday-pricing-means-some-are-even-under-usd25",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T15:45:16+00:00"
+    },
+    {
+      "id": "22f1dbcb2e78a6c5",
+      "title": "New delidding tool helps you bake your CPU in the oven to remove heatspreader",
+      "summary": "Thermal Grizzly just released a CNC-machined CPU delidding tool designed to be placed in an oven after the IHS is loosened.",
+      "url": "https://www.tomshardware.com/pc-components/cooling/new-delidding-tool-helps-you-bake-your-cpu-in-the-oven-to-remove-heatspreader-delid-heat-mate-complements-delid-die-mate-reducing-mechanical-stress-on-the-cpu",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T15:00:00+00:00"
+    },
+    {
+      "id": "9099ac88cc5b3720",
+      "title": "Best Black Friday RAM deals 2026",
+      "summary": "We're rounding up the best Black Friday RAM deals from retailers across the U.S. here.",
+      "url": "https://www.tomshardware.com/pc-components/ram/best-ram-memory-deals-ddr5-ddr4-2026",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T14:57:07+00:00"
+    },
+    {
+      "id": "c1ddac7f63a34188",
+      "title": "Ukraine downs Russian jet-drone with cheap high-powered laser for the first time",
+      "summary": "Ukraine has shot down a Russian jet-powered Shahed drone using an air defense laser for the first time.",
+      "url": "https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T14:30:00+00:00"
+    },
+    {
+      "id": "a7bc3e61b86f3e7f",
+      "title": "Best Black Friday Wi-Fi router deals 2026",
+      "summary": "Save big with one of these excellent Wi-Fi router Black Friday deals. We're constantly updating this list with the best deals across all retailers.",
+      "url": "https://www.tomshardware.com/networking/routers/best-wi-fi-router-deals-2026",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T14:23:51+00:00"
+    },
+    {
+      "id": "cb26888e8e9bbe0f",
+      "title": "Get an RTX 5060 gaming PC with DDR5 for just $1,141",
+      "summary": "Another great entry level PC in the Amazon Black Friday sale.",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-gaming-pc-with-ddr5-for-just-usd1-141-intel-core-i5-14400f-build-is-one-of-the-most-solid-budget-options-weve-seen",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T14:19:17+00:00"
+    },
+    {
+      "id": "44ae7de16768586d",
+      "title": "Solo developer vibe codes a gallery hosting 36 classic GPU demos",
+      "summary": "A solo developer known as arkits has created an online gallery to view classic 3D graphics demos live in the browser.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T14:00:00+00:00"
+    },
+    {
+      "id": "67feaba46d912d30",
+      "title": "CPU Price Index 2026",
+      "summary": "In our CPU price index, we find the lowest prices on the most popular CPUs so you don't have to.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/lowest-cpu-prices-2026",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T13:57:19+00:00"
+    },
+    {
+      "id": "a3378f99c2f0caeb",
+      "title": "New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines",
+      "summary": "New York Governor Kathy Hochul has signed a bill that effectively bans the sale of toys with built-in AI chatbots within the state over concerns about what they might say to kids.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-26T13:30:00+00:00"
+    },
+    {
+      "id": "a734da9d3a1d8760",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-26T11:37:17+00:00"
+    },
     {
       "id": "283c5bbb21bf97a3",
       "title": "Best Black Friday 2026 tech deals",
@@ -18,6 +207,15 @@
       "category": "IA",
       "source": "Hugging Face",
       "date": "2026-11-26T05:05:36+00:00"
+    },
+    {
+      "id": "819f2bb8e324e5e7",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-26T00:00:00+00:00"
     },
     {
       "id": "bf12e0075ca6e3af",
@@ -560,6 +758,33 @@
       "date": "2026-11-24T09:30:00+00:00"
     },
     {
+      "id": "90e3a6fa4a56e8b6",
+      "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "326f047ea3672e71",
+      "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "26885f6bf5a792c5",
+      "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
       "id": "67d542a451ebc187",
       "title": "Grab a TP-Link tri-band Wi-Fi 7 router for less than $90",
       "summary": "TP-Link is aiming for the value crown with a $90 tri-band Wi-Fi 7 router.",
@@ -843,6 +1068,42 @@
       "title": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "id": "08fa114a2a0d3142",
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (23 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1602/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "id": "85da0825497a228a",
+      "title": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "id": "942eb0009b575779",
+      "title": "Vulnérabilité dans Laravel (23 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1601/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "id": "582a067cd5a6057c",
+      "title": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-23T00:00:00+00:00"
@@ -1899,267 +2160,6 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-18T21:00:00+00:00"
-    },
-    {
-      "id": "ef046a216ca10d18",
-      "title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
-      "summary": "Nvidia’s GeForce 621.14 and 621.24 drivers reportedly rewrite a log file nonstop, writing gigabytes to SSDs every hour.",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T21:00:00+00:00"
-    },
-    {
-      "id": "f0b81ce3c1461288",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "summary": "",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-18T19:54:56+00:00"
-    },
-    {
-      "id": "e55c8f2df06c07ff",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-18T18:53:43+00:00"
-    },
-    {
-      "id": "ab958386b41af895",
-      "title": "Nvidia promises employee pay raises, equity before December to quell unrest in wake of Jensen Huang scandal",
-      "summary": "Interim CEO Collete Kress reportedly offered staffers higher wages and more equity on an advanced schedule at the company's first all-hands after Jensen Huang resigned.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T18:40:28+00:00"
-    },
-    {
-      "id": "8964256bb09caf1f",
-      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
-      "summary": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is...",
-      "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-18T17:00:00+00:00"
-    },
-    {
-      "id": "9f7cf6f6d92066aa",
-      "title": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S",
-      "summary": "GTA VI will target 30FPS across PlayStation and Xbox consoles, with Rockstar using its own temporal anti-aliasing solution on the PS5 and Xbox Series X, Sony's PSSR 2 on the PS5 Pro, and AMD's FSR 4 on the Xbox Series S.",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T16:00:00+00:00"
-    },
-    {
-      "id": "c359cb7904282973",
-      "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law",
-      "summary": "A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building new facilities.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T15:30:00+00:00"
-    },
-    {
-      "id": "aef632472a5e3af7",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-18T15:00:23+00:00"
-    },
-    {
-      "id": "ee537eda777aeb53",
-      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
-      "summary": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)...",
-      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "id": "b372b3323060c2ab",
-      "title": "Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development",
-      "summary": "AMD has criticized Nvidia, and to a lesser extent Arm, for claims about creating a CPU designed for agentic AI. Nvidia is pushing back on that characterization, instead saying Vera was designed with “base principles, product intuition, and oftentimes simple allegorical laws of co",
-      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "id": "162796a3aae85bb3",
-      "title": "Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center",
-      "summary": "5,000 to 6,000 gallons of propylene glycol spilled from a SpaceXAI facility in Southaven, Mississippi, before reaching a nearby drainage ditch. State environmental officials have sought to ease the worries of locals, saying there is no risk to their health.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T14:30:00+00:00"
-    },
-    {
-      "id": "41e92dae3410b677",
-      "title": "The Downfall of Jensen Huang — a timeline of allegations and scandals that brought down the king of AI infrastructure",
-      "summary": "Jensen’s affairs dominated headlines, but the seeds of his downfall were planted in both the bedroom and the boardroom and stretched from Beijing to Washington, with Nvidia sitting right in the middle.",
-      "url": "https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T14:10:32+00:00"
-    },
-    {
-      "id": "b77376a9bfcf3512",
-      "title": "Global OLED monitor shipments doubled year-over-year in Q3 2026",
-      "summary": "A TrendForce report reveals that gamers are buying OLED monitors in a big way, and ASUS leads the pack.",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/global-oled-monitor-shipments-doubled-year-over-year-in-q3-2026-gamers-turn-to-display-upgrades-as-technology-gets-cheaper-and-ai-squeezes-components",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T14:00:00+00:00"
-    },
-    {
-      "id": "10d4ebd89d20a8fb",
-      "title": "Nvidia board faction angling for Jensen Huang return as CEO, report claims",
-      "summary": "Despite Nvidia's board saying it has no intention of bringing former CEO Jensen Huang back to the company, some directors are reportedly still pushing for that to happen.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T13:30:00+00:00"
-    },
-    {
-      "id": "05059943963faacf",
-      "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
-      "summary": "Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 billion and rising costs prompted a revised pricing strategy for FY2028.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T13:00:00+00:00"
-    },
-    {
-      "id": "235629c3d1bd1d43",
-      "title": "Retro Kickstarter speaker can play soundtracks directly from original Game Boy cartridges",
-      "summary": "Retro Song Bird can play music directly from original cartridges, export individual audio channels to a PC, back up game saves, flash writable cartridges, and sync two units for chiptune DJ performances.",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/retro-kickstarter-speaker-can-play-soundtracks-directly-from-original-game-boy-cartridges-retro-song-bird-supports-over-1-900-with-physical-controls-for-media",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T12:45:00+00:00"
-    },
-    {
-      "id": "fc3c44e739e3d0ac",
-      "title": "Save $251 on this beginner-friendly Elegoo resin 3D printer right now",
-      "summary": "Thanks to a coupon code, you can grab the Elegoo Saturn 4 Ultra 16K, one of the best resin 3D printers you can buy, for $399 right now.",
-      "url": "https://www.tomshardware.com/3d-printing/save-usd251-on-this-beginner-friendly-elegoo-resin-3d-printer-right-now-saturn-4-ultra-16k-delivers-ultra-fast-print-speeds-and-a-built-in-vat-heater-for-usd399",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T12:30:00+00:00"
-    },
-    {
-      "id": "7d4007b7c7c58550",
-      "title": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch",
-      "summary": "NASA anticipates that Voyager 1 will be the first human-made object to reach space beyond one light-day away from Earth on Wednesday.",
-      "url": "https://www.tomshardware.com/tech-industry/space/voyager-1-spacecraft-crosses-milestones-distance-of-one-light-day-from-earth-49-years-after-launch-now-16-09-billion-miles-away-signal-takes-full-24-hours-to-travel-home",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T12:15:00+00:00"
-    },
-    {
-      "id": "e84bdae393a59711",
-      "title": "SSDs, laptops, and phones may get cheaper as consumer NAND spot pricing drops 20%",
-      "summary": "According to a new report, slowing demand for consumer electronics and diverging production requirements for consumer and enterprise NAND have resulted in declining spot prices for consumer-grade flash memory. Those trends may result in unexpected but welcome relief for consumers",
-      "url": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T12:00:00+00:00"
-    },
-    {
-      "id": "bbf8fce0b828aed8",
-      "title": "Walmart has slashed $700 off this MSI gaming laptop",
-      "summary": "You can save $700 on a new MSI Crosshair 16 gaming laptop at Walmart and bag an RTX 5060-powered portable gaming station for less.",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd700-off-this-msi-gaming-laptop-16-inch-crosshair-features-an-rtx-5060-gpu-and-16gb-of-ddr5-ram",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T11:30:00+00:00"
-    },
-    {
-      "id": "c089b49c5fc0f363",
-      "title": "China threatens 'countermeasures' in the face of new AI GPU rental and export restrictions",
-      "summary": "China threatens \"countermeasures\" on the face of new Blackwell rental and export restrictions — Sino-American trade war may be renewed for a new season",
-      "url": "https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T11:00:00+00:00"
-    },
-    {
-      "id": "7ec23c49f5af3e76",
-      "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis",
-      "summary": "The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance. The fund was set up to use a portion of the tax generated by SpaceX AI's Colossus 1 facility for the benefit of residents, with the first $2 million allocated f",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T10:00:00+00:00"
-    },
-    {
-      "id": "cac0b2304bacf217",
-      "title": "Budget-friendly gifts for gamers — keyboards, mice, headsets, and more under $80",
-      "summary": "The best budget-friendly gifts for gamers — keyboards, mice, headsets, and more, all for under $80.",
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/budget-friendly-gifts-for-gamers-keyboards-mice-headsets-and-more-under-usd80",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "ec56b5eff9affb1c",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "5b89a2db7f60ae90",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "summary": "",
-      "url": "https://huggingface.co/blog/rumble-2-flash",
-      "category": "IA",
-      "source": "Hugging Face",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "b7c9e9efd9c46e46",
-      "title": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "cfae49b1e789ae90",
-      "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "ecccdd3daa20bbd5",
-      "title": "Multiples vulnérabilités dans les produits Tenable (18 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1556/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-18T00:00:00+00:00"
-    },
-    {
-      "id": "13018595602e730f",
-      "title": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-18T00:00:00+00:00"
     }
   ],
   "sources": [
