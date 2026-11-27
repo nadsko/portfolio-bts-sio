@@ -1,6 +1,186 @@
 {
-  "updated_at": "2026-11-27T08:21:15.154677+00:00",
+  "updated_at": "2026-11-27T21:11:50.397084+00:00",
   "articles": [
+    {
+      "id": "0b2b1670d64e1a5b",
+      "title": "Samsung's 49-inch OLED gaming monitor drops to a new low price of $854",
+      "summary": "Amazon is offering the Samsung Odyssey G9 G93SC at a price of $854, a new all-time low. The gaming monitor often sells for above $1,20",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T21:06:27+00:00"
+    },
+    {
+      "id": "1f1e7990e328e4d0",
+      "title": "Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off",
+      "summary": "Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 20% off — a complement of 12 outlets available with surge protection",
+      "url": "https://www.tomshardware.com/pc-components/protect-your-pc-console-or-tv-with-a-cyberpower-st900u-ups-for-just-usd99-95-or-17-percent-off-a-complement-of-12-outlets-available-with-surge-protection",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T20:30:00+00:00"
+    },
+    {
+      "id": "ce8d4f7091d1eb6b",
+      "title": "Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies",
+      "summary": "Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies",
+      "url": "https://www.tomshardware.com/pc-components/get-a-sony-wh-1000-mx5-headset-with-anc-for-only-usd169-99-aural-bliss-for-your-games-and-movies",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T19:49:01+00:00"
+    },
+    {
+      "id": "233c4e554dce51fc",
+      "title": "Get the cheapest RTX 5070 around this Black Friday with Gigabyte's $839 Gaming OC card",
+      "summary": "Looking for a midrange RTX 50-series upgrade this Black Friday? The Gigabyte Gaming RTX 5070 gets you a big cooler and RGB flair for the lowest price we've seen this week.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T19:38:08+00:00"
+    },
+    {
+      "id": "87ce4455897f0132",
+      "title": "This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg",
+      "summary": "Grab 2TB of storage for 10 cents per GB at Newegg. Silicon Power's P34A60 is one of the best-value SSD deals during the Black Friday sales.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/this-silicon-power-ssd-is-selling-for-a-stunning-10-cents-per-gb-at-only-usd209-this-is-the-best-2tb-ssd-deal-on-newegg",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T19:35:21+00:00"
+    },
+    {
+      "id": "baec09df9c6015d4",
+      "title": "Get a 29% discount on the 280,000-RPM MiaEpic Z3 electric air duster",
+      "summary": "The MiaEpic Z3 electric air duster comes with four nozzles and two brush attachments, allowing you to use it for your PC, accessories, and other things around the house. It also has a massive battery and digital display, helping you keep track of its battery levels, so you never ",
+      "url": "https://www.tomshardware.com/pc-components/get-a-29-percent-discount-on-the-280-000-rpm-miaepic-z3-electric-air-duster-keeping-your-pc-clean-doesnt-have-to-be-pricey",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T19:20:00+00:00"
+    },
+    {
+      "id": "53a6ef4ba23618e5",
+      "title": "Best Black Friday deals on tools for building PCs",
+      "summary": "We've scoured the internet and found the best Black Friday deals on tools.",
+      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/best-pc-building-tool-deals-screwdrivers-blowers",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T18:48:17+00:00"
+    },
+    {
+      "id": "4678c3a205a073fe",
+      "title": "Here are the best retro tech deals we've found for Black Friday",
+      "summary": "Retro tech is cool, and we've scoured the internet for the best deals on nostalgic technology.",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/here-are-the-best-retro-tech-deals-weve-found-for-black-friday-deals-on-retro-tech-for-the-modern-pc-setup",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T18:30:12+00:00"
+    },
+    {
+      "id": "0659c88e2319d2bb",
+      "title": "Get 38% off an RTX 5070-powered HP Omen 35L gaming desktop sporting an Intel Core Ultra 7 CPU and 32GB of DDR5",
+      "summary": "TKTK",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-staggering-usd1-400-off-an-rtx-5070-powered-hp-omen-35l-gaming-desktop-sporting-an-intel-core-ultra-7-cpu-and-32gb-of-ddr5-at-38-percent-discount-this-performant-mid-tower-prebuilt-pc-packs-a-punch",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T18:20:00+00:00"
+    },
+    {
+      "id": "a1a3969449d35c15",
+      "title": "Tons of motherboards are on sale right now, some over 40% off – we sorted through them for you and picked out a few of the best deals",
+      "summary": "We collated all of the motherboards down to these few which offer the some of the best combinations of hardware and cost during Black Friday",
+      "url": "https://www.tomshardware.com/pc-components/tons-of-motherboards-are-on-sale-right-now-some-over-40-percent-off-we-sorted-through-them-for-you-and-picked-out-a-few-of-the-best-deals",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T18:00:00+00:00"
+    },
+    {
+      "id": "10dedfcd75038297",
+      "title": "iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC",
+      "summary": "Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale across a whole range of products, including a powerful bundle on an all-AMD Ryzen 9 7800X3D / RX 9070 XT build, which will also net you free bundled extras, including a set of Asus peripherals and a 144Hz FH",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T17:30:00+00:00"
+    },
+    {
+      "id": "02abb9c544b0535f",
+      "title": "The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for amazing $1,200 off",
+      "summary": "The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for just $3,799 — highest-end gear for less price than a comparable desktop",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/the-hyperx-omen-max-16-gaming-laptop-with-a-rtx-5090-and-a-core-i9-ultra-can-be-yours-for-an-amazing-usd1-200-off-highest-end-gear-for-26-percent-off-less-than-a-comparable-desktop-pc",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T17:20:00+00:00"
+    },
+    {
+      "id": "a05fdeeef9886505",
+      "title": "China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes",
+      "summary": "AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretches the demand for smoo",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T17:00:00+00:00"
+    },
+    {
+      "id": "f7e7d0fb24ef3528",
+      "title": "Best Black Friday gaming monitor deals 2026",
+      "summary": "Save big with one of these great Black Friday monitor deals. We’re hard at work updating this list with the best deals across all your favorite big tech retailers.",
+      "url": "https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T16:59:53+00:00"
+    },
+    {
+      "id": "6513a24f1d37f732",
+      "title": "This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday",
+      "summary": "PowerColor's Radeon RX 9070 GRE is just $619 at Amazon this Black Friday — a rare midrange gaming GPU deal in today's tough market.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/this-usd619-powercolor-radeon-rx-9070-gre-is-the-cheapest-around-this-black-friday-grab-a-great-1080p-or-1440p-gaming-upgrade-for-a-great-price",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T16:41:32+00:00"
+    },
+    {
+      "id": "c9a3050ab5aaae9a",
+      "title": "These are the best Black Friday gaming mouse deals we've found so far",
+      "summary": "We've rounded up the best Black Friday deals on gaming mice for every type of gamer — whether you're looking for ultra-lightweight, tons of buttons, or even modular mice, we've got you covered.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/these-are-the-best-black-friday-gaming-mouse-deals-weve-found-so-far-even-the-newer-generations-are-on-sale",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T16:40:42+00:00"
+    },
+    {
+      "id": "b9f681dcfd21b38c",
+      "title": "These are the best gaming laptop deals we've found this Black Friday to suit all budgets",
+      "summary": "Looking to grab yourself a gaming laptop this Black Friday? These are the best deals that we've found so far, and you can net up to $1200 off MSRP on a range of systems across all reasonable budgets.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T16:12:07+00:00"
+    },
+    {
+      "id": "5a0889a17d297c36",
+      "title": "Grab a new Secretlab gaming chair or desk to upgrade your setup in its Black Friday sale with up to $537 off",
+      "summary": "Grab a new gaming chair or desk in this Secretlab Black Friday sale.",
+      "url": "https://www.tomshardware.com/peripherals/gaming-chairs/grab-a-new-secretlab-gaming-chair-or-desk-to-upgrade-your-setup-in-its-black-friday-sale-with-up-to-usd537-off-individual-discounts-and-big-bundle-deals-mean-you-can-score-huge-savings-on-top-models-including-the-titan-evo-and-magnus-pro",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T16:02:59+00:00"
+    },
+    {
+      "id": "e181ec522d8e1955",
+      "title": "This clever $11 external PC power switch lets you boot your rig without reaching under your desk",
+      "summary": "This $11 desk gadget means you don't have to bend down to turn your PC on or off. It's a must-buy option for anyone with a gaming PC under their desk.",
+      "url": "https://www.tomshardware.com/pc-components/this-clever-usd11-external-pc-power-switch-lets-you-boot-your-rig-without-reaching-under-your-desk-this-must-buy-upgrade-for-your-desk-has-rgb-mechanical-keys-and-a-two-meter-cable-a-perfect-gift-for-a-techie",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T15:43:07+00:00"
+    },
+    {
+      "id": "c8c89ca51d4d9722",
+      "title": "Best motherboard deals 2026",
+      "summary": "Here are the best Black Friday motherboard deals available right now. We're constantly updating this list with the best deals across all your favorite retailers.",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/best-motherboard-deals-amd-intel",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T15:42:24+00:00"
+    },
     {
       "id": "af43e1be93b37282",
       "title": "Best Black Friday Gaming PC Deals live",
@@ -18,6 +198,15 @@
       "category": "Hardware",
       "source": "Tom’s Hardware",
       "date": "2026-11-27T07:19:47+00:00"
+    },
+    {
+      "id": "c2bd7953104652e4",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "category": "IA",
+      "source": "Hugging Face",
+      "date": "2026-11-27T00:00:00+00:00"
     },
     {
       "id": "51f609fd8411b58f",
@@ -515,6 +704,69 @@
       "date": "2026-11-25T00:00:00+00:00"
     },
     {
+      "id": "4c7a96e6bfc7044a",
+      "title": "Recommandations de sécurisation des liaisons inter-sites (25 novembre 2026)",
+      "summary": "Objet : Recommandations de sécurisation des liaisons inter-sites, à destination des clients de ces offres. Annexe : Liens et références Depuis plusieurs années, l’Agence nationale de la sécurité des systèmes d'information (ANSSI) a constaté de multiples compromissions de réseaux ",
+      "url": "https://www.cert.cyber.gouv.fr/dur/CERTFR-2026-DUR-001/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "b0ae95aa686c2371",
+      "title": "Multiples vulnérabilités dans les produits Mozilla (25 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1616/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "41e210111b35985e",
+      "title": "Vulnérabilité dans Microsoft Office (25 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1620/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "3189c3ea8b7eb6d3",
+      "title": "Multiples vulnérabilités dans les produits VMware (25 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "d6f28e63600c6944",
+      "title": "Vulnérabilité dans les produits Schneider Electric (25 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1618/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "99aeaf03dba156a1",
+      "title": "Multiples vulnérabilités dans Symfony (25 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Symfony. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1619/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "id": "5403a9953b36119a",
+      "title": "Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600 est activement exploitée.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-25T00:00:00+00:00"
+    },
+    {
       "id": "ccabb910ab3c9ef6",
       "title": "US DOJ touts \"largest-ever\" crackdown on scammers across the globe as it seizes 14,000 devices and $17 billion in illicit funds",
       "summary": "The U.S. Department of Justice has announced that the largest anti-scam push in its history has resulted in more than $8 billion in intended victim losses being recovered, leading to more than 800 defendants being charged.",
@@ -798,6 +1050,42 @@
       "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "a8a70c9858ce470b",
+      "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "0a8e226027a3aaa2",
+      "title": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "f9b456d8574f2d43",
+      "title": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+      "category": "Cybersécurité",
+      "source": "CERT-FR",
+      "date": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "dc557fe9e16c60ac",
+      "title": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-24T00:00:00+00:00"
@@ -1872,294 +2160,6 @@
       "category": "IA",
       "source": "NVIDIA Developer",
       "date": "2026-11-19T22:02:30+00:00"
-    },
-    {
-      "id": "7080a71d7505580d",
-      "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
-      "summary": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes — even BitLocker-protected machines are seemingly vulnerable",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T21:30:00+00:00"
-    },
-    {
-      "id": "4b92c45adde3d4f9",
-      "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
-      "summary": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T21:00:00+00:00"
-    },
-    {
-      "id": "3a089ca65887f5b7",
-      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
-      "summary": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
-      "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-19T20:28:13+00:00"
-    },
-    {
-      "id": "74f0816ca7f55a71",
-      "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
-      "summary": "In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating...",
-      "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "id": "da3414a9602a319d",
-      "title": "Build Tool-Calling Parsers in Rust with AI Agents",
-      "summary": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received...",
-      "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-19T16:30:46+00:00"
-    },
-    {
-      "id": "5f364a8612fd0351",
-      "title": "The best things in open source are built together",
-      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-      "category": "BTS SIO",
-      "source": "GitHub Blog",
-      "date": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "id": "c839002c78c7c394",
-      "title": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
-      "summary": "Intel continues to reduce headcount, IT department affected this time.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-continues-layoffs-with-cuts-to-its-it-department-hundreds-of-employees-reportedly-affected-companys-workforce-reduced-by-27-800-under-lip-bu-tan",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T14:58:13+00:00"
-    },
-    {
-      "id": "a1d07fd132e8dc31",
-      "title": "Supermicro sued by shareholders over claims Nvidia executive’s wife knew about illicit China sales",
-      "summary": "A civil lawsuit claimed that there was \"no way Cenly Chen lacked knowledge about the company's illicit sales.\"",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/supermicro-sued-by-shareholders-over-claims-nvidia-executives-wife-must-have-known-about-illicit-china-sales-former-chief-growth-officer-cenly-chen-is-married-to-outgoing-nvidia-vp-jay-puri",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T14:00:00+00:00"
-    },
-    {
-      "id": "47eee31b52571be9",
-      "title": "Developer vibe codes Windows 11 alternative operating system for amd64, arm64, and riscv64 hardware",
-      "summary": "There’s a new vibe-coded OS in town going by the name of LiberNT.",
-      "url": "https://www.tomshardware.com/software/windows/developer-vibe-codes-windows-11-alternative-operating-system-for-amd64-arm64-and-riscv64-hardware-libernt-is-a-free-64-bit-clone-promising-reliable-stable-and-efficient-performance",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T13:30:00+00:00"
-    },
-    {
-      "id": "24beb5c7d4082222",
-      "title": "Intel 18A yields hit 70% as company signs Microsoft as EMIB customer",
-      "summary": "Intel's 18A yields achieve an important milestone as the company signs a long-term Xeon supply deal and EMIB usage agreement with Microsoft.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T13:00:00+00:00"
-    },
-    {
-      "id": "fc252d96851d500e",
-      "title": "Pakistan undersea cable fault causes internet failure near Strait of Hormuz",
-      "summary": "Pakistan's telecommunications authority has confirmed that an undersea network cable fault is behind internet connectivity issues in the country, adding that Transworld Associates is looking into what caused the issue and when it expects it to be fixed. Traffic has been rerouted ",
-      "url": "https://www.tomshardware.com/networking/pakistan-undersea-cable-fault-causes-internet-failure-near-strait-of-hormuz-fault-detected-offshore-weeks-after-iran-threatened-infrastructure-in-the-region",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T12:30:00+00:00"
-    },
-    {
-      "id": "2f131b19e20f9639",
-      "title": "Silicon Motion demos SM8466 PCIe 6.0 SSD controller, expected to ship by 2028 — controller boasts improved quality of service, samples imminent",
-      "summary": "Silicon Motion's SM8466 has finally taped out and is set to enter the market in 2027-2028.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/silicon-motion-demos-sm8466-pcie-6-0-ssd-controller-expected-to-ship-by-2028-controller-boasts-improved-quality-of-service-samples-imminent",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T12:00:00+00:00"
-    },
-    {
-      "id": "79e8363036dd9886",
-      "title": "Intel Diamond Rapids shows signs of life in SC26 demo running live server",
-      "summary": "Intel’s next-gen Xeon Diamond Rapids CPUs appeared at two booths during SC26, one of which featured a running server, but neither were directly from Intel.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-diamond-rapids-shows-signs-of-life-in-sc26-demo-running-live-server-next-gen-xeon-7-cpu-breaks-cover-at-partner-booths-no-showcase-from-intel",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T11:30:00+00:00"
-    },
-    {
-      "id": "970fa8cf0790c7f9",
-      "title": "Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink",
-      "summary": "Ukrainian forces ditched Elon Musk's Starlink and used a network of \"flying modems\" to build a relay network that allowed them to maintain a live feed of an attack on the Crimean Bridge, even as Russia tried to block the signal.",
-      "url": "https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T11:11:29+00:00"
-    },
-    {
-      "id": "fadcbab07b812369",
-      "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
-      "summary": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T11:00:00+00:00"
-    },
-    {
-      "id": "5801673a125f8adb",
-      "title": "Get 32GB of DDR5 for $240 with this blistering Intel gaming PC bundle",
-      "summary": "Score Intel's latest Core Ultra 7 270K Plus with a Z890 motherboard and 32GB of DDR5-6000 memory for $240 off with this bundle.",
-      "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T10:54:03+00:00"
-    },
-    {
-      "id": "5310ecad3f9d09be",
-      "title": "Save 36% on this 4TB Samsung 990 Pro SSD upgrade for your gaming PC, now just 17.5 cents per GB",
-      "summary": "Grab this 4TB Samsung 990 Pro SSD with Gen 4 speeds for $699.99, a 36% price drop compared to its list price and a $100 drop since last week.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/save-36-percent-on-this-4tb-samsung-990-pro-ssd-upgrade-for-your-gaming-pc-now-just-17-5-cents-per-gb-our-top-gen-4-drive-recommendation-is-now-usd100-cheaper-than-last-week",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T10:52:20+00:00"
-    },
-    {
-      "id": "4b6a0ced1a2a145d",
-      "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
-      "summary": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T10:30:00+00:00"
-    },
-    {
-      "id": "9eed4c5e589c4876",
-      "title": "DDR6 RAM shrinks by 44% while delivering 4 times more bandwidth than DDR5 — JEDEC previews 12.8 GT/s modules with up to 1 terabyte of capacity per slot",
-      "summary": "Upcoming DDR6 memory cuts module length from 133mm to 74mm while kicking off at 12.8 GT/s, more than doubling DDR5’s baseline transfer rate.",
-      "url": "https://www.tomshardware.com/pc-components/ram/ddr6-ram-shrinks-by-44-percent-while-delivering-4x-ddr5s-baseline-bandwidth-jedec-previews-12-8-gt-s-modules-with-up-to-1-terabyte-of-capacity-per-slot",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T10:00:00+00:00"
-    },
-    {
-      "id": "7c0273a4fed6b5fb",
-      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "0862ca218b076d89",
-      "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "8b95a8cf9bbcbeb0",
-      "title": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "1293ec57f3670afc",
-      "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "e903b51af36e7230",
-      "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "8f3d2d726cd18e94",
-      "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "02e87b4f863aa3a7",
-      "title": "Multiples vulnérabilités dans Drupal (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1579/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "e2ee939b625302e3",
-      "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "719ecb8a289dda00",
-      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "e4362f416abcc6c0",
-      "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "2956d8b1b7151539",
-      "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "11827f51d4ab4262",
-      "title": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "7a38fb038f3581af",
-      "title": "Multiples vulnérabilités dans les produits NetApp (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1577/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-19T00:00:00+00:00"
     }
   ],
   "sources": [
