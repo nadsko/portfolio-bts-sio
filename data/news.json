@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T21:27:28.419921+00:00",
+  "updated_at": "2026-11-27T08:21:15.154677+00:00",
   "articles": [
+    {
+      "id": "af43e1be93b37282",
+      "title": "Best Black Friday Gaming PC Deals live",
+      "summary": "The very best pre-built gaming PC deals you can buy on Black Friday.",
+      "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T08:02:03+00:00"
+    },
+    {
+      "id": "680d47ad83d298f9",
+      "title": "Best Black Friday 2026 tech deals live",
+      "summary": "All the best Black Friday deals for tech and PC hardware.",
+      "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T07:19:47+00:00"
+    },
     {
       "id": "51f609fd8411b58f",
       "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
@@ -2142,24 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "0644ddcd8ce22176",
-      "title": "Connecting Energy Use to Scientific Output with Science per Joule",
-      "summary": "For high-performance computing (HPC) centers operating under a fixed power budget, every joule spent computing needs to translate into useful scientific work....",
-      "url": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-18T21:26:33+00:00"
-    },
-    {
-      "id": "9fba7066d9599701",
-      "title": "AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note",
-      "summary": "Following a post on X, AMD Japan's claim that the company values gamers \"above all else\" saw those gamers point out that its own CEO believes the company is more focused on data centers.",
-      "url": "https://www.tomshardware.com/pc-components/amds-twitter-brag-that-it-loves-gamers-met-with-savage-community-note-post-met-with-backlash-over-the-companys-pivot-to-ai",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-18T21:00:00+00:00"
     }
   ],
   "sources": [
