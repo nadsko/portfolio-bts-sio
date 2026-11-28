@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-27T21:11:50.397084+00:00",
+  "updated_at": "2026-11-28T07:41:39.271199+00:00",
   "articles": [
+    {
+      "id": "d63a9fc7d59643f4",
+      "title": "Best Black Friday 2026 tech deals live",
+      "summary": "All the best Black Friday deals for tech and PC hardware you can still buy this weekend.",
+      "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-four",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-28T07:20:57+00:00"
+    },
+    {
+      "id": "0098a1f72fead070",
+      "title": "This Lenovo LOQ notebook with Arc B390 graphics is just $799 this Black Friday",
+      "summary": "Good cheap gaming notebooks are hard to find this Black Friday, but Lenovo's LOQ laptop with Arc B390 graphics gets you there for just $799.",
+      "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-lenovo-loq-notebook-with-arc-b390-graphics-is-just-usd799-this-black-friday-get-a-gaming-ready-panther-lake-laptop-for-a-super-low-price",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T23:33:28+00:00"
+    },
+    {
+      "id": "67189661507b21f2",
+      "title": "Get a perfect Alienware 4K OLED 32\" display with RGB subpixels for $150 off",
+      "summary": "Get a perfect Alienware AW3226Q 4K OLED 32\" display with RGB subpixels for $549.99, or $150 off — 165 Hz refresh rate, 1000-nits HDR, and Dolby Vision support",
+      "url": "https://www.tomshardware.com/pc-components/get-a-perfect-alienware-4k-oled-32-display-with-rgb-subpixels-for-usd150-off-165-hz-refresh-rate-1000-nits-hdr-and-dolby-vision-support-with-the-aw3226q",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T23:10:19+00:00"
+    },
+    {
+      "id": "cef7005780cfa1ca",
+      "title": "SanDisk’s lightning-fast Optimus GX Pro 8100 2TB NVMe SSD is 21% off and $0.18 cents per GB",
+      "summary": "2TB SanDisk Optimus GX Pro 8100 PCIe 5.0 SSD is down to an all-time low of $349, making it one of the cheapest 2TB Gen5 drives around.",
+      "url": "https://www.tomshardware.com/pc-components/sandisks-lightning-fast-optimus-gx-pro-8100-2tb-nvme-ssd-is-21-percent-off-and-usd0-18-cents-per-gb-usd349-for-a-pcie-5-0-m-2-ssd-is-about-as-good-as-it-gets-for-black-friday",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T22:19:56+00:00"
+    },
+    {
+      "id": "46922312711d823c",
+      "title": "Black Friday 2026 gaming monitor deals live",
+      "summary": "The best Black Friday monitor sales, live round-the-clock coverage of all the best deals.",
+      "url": "https://www.tomshardware.com/live/news/black-friday-2026-monitor-deals-oled-4k-gaming",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T21:49:59+00:00"
+    },
+    {
+      "id": "1b89685d790c6421",
+      "title": "AMD's ultimate Ryzen 9 9950X3D2 CPU is down to its lowest price with $140 savings",
+      "summary": "Grab AMD's most powerful CPUs, the Ryzen 9 9950X3D2 or 9950X3D, at all-time-low prices during Black Friday.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-ultimate-ryzen-9-9950x3d2-cpu-is-down-to-its-lowest-price-with-usd140-savings-single-cache-ryzen-9-9950x3d-is-also-on-a-deep-usd115-discount",
+      "category": "Hardware",
+      "source": "Tom’s Hardware",
+      "date": "2026-11-27T21:29:33+00:00"
+    },
     {
       "id": "0b2b1670d64e1a5b",
       "title": "Samsung's 49-inch OLED gaming monitor drops to a new low price of $854",
@@ -2106,60 +2160,6 @@
       "category": "Cybersécurité",
       "source": "CERT-FR",
       "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "6c9b17638e7a1f46",
-      "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "c9cfba63e58aba8f",
-      "title": "Vulnérabilité dans les produits Palo Alto Networks (20 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1584/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "d21920eba3d8b8da",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "1ef5990fbb243539",
-      "title": "Multiples vulnérabilités dans les produits Moxa (20 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1589/",
-      "category": "Cybersécurité",
-      "source": "CERT-FR",
-      "date": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "7aa8728986296884",
-      "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price",
-      "summary": "Get TP-Link Archer BE9500 with full Wi-Fi 7 support and 10 Gbps WAN for just $89.99, or 55% off its regular $199.99 price",
-      "url": "https://www.tomshardware.com/networking/routers/score-tp-link-archer-with-full-wi-fi-7-support-and-10-gbps-wired-networking-for-incredible-55-percent-off-its-regular-price-be9500-router-is-now-just-usd89-99-a-steep-discount-from-the-regular-usd199-99-price",
-      "category": "Hardware",
-      "source": "Tom’s Hardware",
-      "date": "2026-11-19T23:20:25+00:00"
-    },
-    {
-      "id": "e8c6f1ec59ac01c4",
-      "title": "Manage Liquid-Cooled AI Factories with NVIDIA Mission Control",
-      "summary": "Managing AI infrastructure such as NVIDIA Vera Rubin NVL72 requires coordinated operation of compute, power, and cooling systems. In liquid-cooled AI factories,...",
-      "url": "https://developer.nvidia.com/blog/manage-liquid-cooled-ai-factories-with-nvidia-mission-control/",
-      "category": "IA",
-      "source": "NVIDIA Developer",
-      "date": "2026-11-19T22:02:30+00:00"
     }
   ],
   "sources": [
